@@ -1,8 +1,16 @@
 # My note
+## before you sleep, remember to push everything to github
 
 [Computer Science](Computer Science)
+comeback later : __focus on study Linux, how packages work, dependencies work, how to install any app and make it works__
 
 [Business](Business)
+
+
+[Real life experience lesson](Real life experience lesson)
+
+
+
 
 # what to do
 i should focus on creating a roadmap
