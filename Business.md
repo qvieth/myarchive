@@ -1,7 +1,13 @@
-# Business
+# business
 
-## Subjects
-[PM-simplified-PMIframework-fundamentals](PM-simplified-PMIframework-fundamentals) 
+# in progress
+https://en.wikipedia.org/wiki/Enterprise_life_cycle
 
-## Topics
+## whatever
+[pm-simplified-pmiframework-fundamentals](pm-simplified-pmiframework-fundamentals) 
+
+## logistic
+[supply-chain](supply-chain)
+
+## topics
 [research skills](research skills)

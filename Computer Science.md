@@ -1,34 +1,38 @@
 # Computer Science (and whatever related)
 
-[computer science vs web development vs data science](computer science vs web development vs data science)
-
-# in progress
+## in progress
 [data-science-codecademy](data-science-codecademy)
 [docker](docker)
+dependency
 
-## resources
+[python](python)
+
+## fundamentals
+[big-picture](big-picture)
+
+### sdlc and its process
+[sdlc](sdlc)
+[deployment](deployment) : packages, repo, dependency, build, artifact, vulnebility management, base64, ci/cd
+ 
+## framework & technology
+[Django](Django)
+
+
+# Data science
+[jupyternotebook and ipython](jupyternotebook and ipython)
+
+[python-cheatsheet](https://www.codecademy.com/learn/paths/data-science/tracks/dscp-python-fundamentals/modules/dscp-python-lists/cheatsheet)
+
+# IT
+[os](os)
+[IT Automation](IT Automation) - cron - cron jobs - crontab - for system admin
+[Configuration management](cm) 
+
+# resources
 [study resources](study resources)
 
-
-## IT
-[IT Automation](IT Automation)
-[Linux](Linux)
-
-
-## Programming
-[Django](Django)
-[OOP](OOP)
-[front-end vs back-end](front-end vs back-end)
+# unclassified
+[web server vs app server](webvsapp)
 [asynchronous](asynchronous)
-[web](web)
 
 
-## Data science
-
-## topics
-[business logic](business logic)
-[web server vs app server](https://www.educative.io/edpresso/web-server-vs-application-server)
-[storage devices](storage devices)
-[codec](codec)
-[kernel](kernel)
-[bios vs uefi vs bootloader vs firmware](bootloader)
