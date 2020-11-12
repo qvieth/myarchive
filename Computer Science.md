@@ -4,8 +4,7 @@
 [data-science-codecademy](data-science-codecademy)
 [docker](docker)
 dependency
-
-[python](python)
+[bash](bash)
 
 ## fundamentals
 [big-picture](big-picture)
