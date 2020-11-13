@@ -7,12 +7,14 @@
     - if we can be __reasonably sure__ that it is __representative__ of the __population as a whole__
     - and reasonably sure that our __result is repeatable__
 
-- This question of whether a difference is significant or not is essential to making decisions based on that difference
+- This question of `whether a difference is significant or not` is essential to making decisions based on that difference
 - Some instances where this might come up include:
-    - Performing an __A/B test__ — are the different observations really the results of __different conditions__ (i.e., Condition A vs. Condition B)?
-        - Or just the result of __random chance__?
-    - Conducting a survey — is the fact that men gave slightly different responses than women a real difference between men and women?
-        - Or just the result of chance?
+    - Performing an __A/B test__ 
+        - are the different observations really the results of __different conditions__ (i.e., Condition A vs. Condition B)?
+        - or just the result of __random chance__?
+    - Conducting a __survey__ 
+        - is the fact that men gave slightly different responses than women a real difference between men and women?
+        - or just the result of chance?
 
 - In this lesson, we will cover the __fundamental concepts__ that will help us create tests to __measure our confidence__ in our __statistical results__:
     - Sample means and population means
@@ -51,9 +53,9 @@
     - We can provide meaningful answers to questions faster with sampling
 
 - When we have a numerical dataset and want to know the average value, we calculate the mean
-- For a population, the mean is a constant value no matter how many times it’s recalculated
-- But with a set of samples, the mean will depend on exactly what samples we happened to choose
-- From a sample mean, we can then extrapolate the mean of the population as a whole
+    - For a population, the mean is a constant value no matter how many times it’s recalculated
+    - But with a set of samples, the mean will depend on exactly what samples we happened to choose
+    - From a sample mean, we can then extrapolate the mean of the population as a whole
 
 ## Central Limit Theorem
 - In real life, we probably won’t be able to collect lots of repeated samples
@@ -61,14 +63,16 @@
     - which tells us that a sample mean is more likely to be similar to the population mean if the sample size is large
 
 ## Hypothesis Tests : numpy all the way
-- When observing differences in data, a data analyst understands the possibility that these differences could be the result of random chance
+- When observing differences in data
+    - a data analyst understands the possibility that these differences could be the result of random chance
 - Suppose we want to know if men are more likely to sign up for a given programming class than women
-- We invite 100 men and 100 women to this class
-- After one week, 34 women sign up, and 39 men sign up
-- More men than women signed up, but is this a “real” difference?
+    - We invite 100 men and 100 women to this class
+    - After one week, 34 women sign up, and 39 men sign up
+    - More men than women signed up, but is this a “real” difference?
 
 - We have taken sample means from two different populations, men and women
-- We want to know if the difference that we observe in these sample means reflects a difference in the population means
+    - We want to know if the difference that we observe in these sample means
+        - reflects a difference in the population means
 - To formally answer this question, we need to re-frame it in terms of __probability__:
     - “If we gave the same invitation to every person in the world, would more men still sign up?”
     - A more formal version is:
@@ -78,7 +82,8 @@
 - These statements are all ways of expressing a __null hypothesis__
 - A null hypothesis is a statement that the __observed difference__ is the __result of chance__
 
-- Hypothesis testing is a mathematical way of determining __whether we__ can be __confident__ that the __null hypothesis__ is __false__
+- Hypothesis testing is a mathematical way of determining
+    - whether we can be __confident__ that the null hypothesis is false
 - __Different situations__ will require __different types__ of __hypothesis testing__, which we will learn about in the next lesson
 
 ## Type I Or Type II : 2 type of errors to consider : about correlation and related

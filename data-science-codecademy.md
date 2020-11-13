@@ -29,6 +29,10 @@
 - [Hypothesis Testing](Hypothesis-Testing) : Central Limit Theorem
 - [Hypothesis Testing II](Hypothesis-Testing-II)
 - [statistical concept](statistical-concept) 
+- [Sample size determination with scipy](Sample-size-determination-with-scipy)
+- [Data Visualization](Data-Visualization)
+- [Communicating Data Science Findings](Communicating-Data-Science-Findings)
+- [Natural Language Processing](Natural-Language-Processing)
 ## vocab
 - [dataset](dataset)
 - sitemap

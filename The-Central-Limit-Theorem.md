@@ -1,14 +1,16 @@
 # The Central Limit Theorem
 
-- The __Central Limit Theorem (CLT)__ is a powerful __statistical tool__ that is useful in quantifying __uncertainty__ around sample mean estimates
-- It is also the basis for common hypothesis tests, such as __Z-__ and __t-tests__
+- The __Central Limit Theorem (CLT)__ is a powerful __statistical tool__
+    - that is useful in quantifying __uncertainty__ around sample mean estimates
+    - it is also the basis for common hypothesis tests, such as __Z-__ and __t-tests__
 - A formal proof of the CLT requires some complex math, but this article will demonstrate it using a simulation!
 
 ## Building intuition for the CLT
-- Imagine that a data scientist wants to know the average hourly wage for all working U.S. adults who make under 150 dollars per hour
-- This is a very large population — it would be unrealistic to collect wage data for every person meeting these criteria
-- Instead, suppose that the data scientist surveys a random sample of 150 people
-- records each person’s hourly wage, and calculates a sample mean of 17.74 dollars per hour
+- Imagine that a data scientist wants to know
+    - the average hourly wage for all working U.S. adults who make under 150 dollars per hour
+    - this is a very large population — it would be unrealistic to collect wage data for every person meeting these criteria
+    - instead, suppose that the data scientist surveys a random sample of 150 people
+    - records each person’s hourly wage, and calculates a sample mean of 17.74 dollars per hour
 - Here’s a histogram of this sample, with a black dotted line at 17.74:
 ```image
 !sample distribution
@@ -22,8 +24,8 @@
 !population distribution
 ```
 - In real life, we usually only observe a single sample 
-- but in order to quantify our uncertainty about that sample
-- it is useful to think about what WOULD happen if we could observe more
+    - but in order to quantify our uncertainty about that sample
+    - it is useful to think about what WOULD happen if we could observe more
 
 - Consider the following thought experiment:
     - imagine that we could take some large number (say, 10,000) random samples of 150 people from the population
