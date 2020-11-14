@@ -32,14 +32,15 @@
 - [Sample size determination with scipy](Sample-size-determination-with-scipy)
 - [Data Visualization](Data-Visualization)
 - [Communicating Data Science Findings](Communicating-Data-Science-Findings)
+- [read this for a sense of what i'm doing with data science](https://www.northeastern.edu/graduate/blog/statistical-modeling-for-data-analysis/)
 - [Natural Language Processing](Natural-Language-Processing)
+- [Foundations of Machine Learning Supervised Learning](Foundations-of-Machine-Learning-Supervised-Learning)
+
 ## vocab
 - [dataset](dataset)
 - sitemap
 - data model : which is a kind of blueprint that defines and describes the structure of the data
 - data point
 - modeling performance
-- data base vs dataset : databases are organized, the rest is quite the same
+- data base vs dataset : databases are organized, also it's the place to hold dataset, the rest is quite the same
 - query results vs schema
-
-
