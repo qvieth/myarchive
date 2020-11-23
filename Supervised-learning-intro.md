@@ -1,15 +1,13 @@
-# intro ml
-- Begin Your Journey
-- DING DING DING!
-- It was but a dream and there’s still time
-    - Understanding Machine Learning will help you change this bleak future, or be ready for it
-- As you begin your journey through our Machine Learning curriculum, you will learn the different applications of this powerful field
-- You will build your own models, test them, and try to improve them
+# Supervised learning intro
+- As you begin your journey through our Machine Learning curriculum, you will learn the __different applications__ of this powerful field
+- You will __build your own models__, test them, and try to improve them
 - You will analyze bigger, and more complex data and deliver faster, more accurate results — even on a very large scale using:
     - Supervised Learning
     - Unsupervised Learning
 
-Throughout your exploration of ML, we hope you gain an understanding of how to harness predictive models to do good, and enhance human life rather than replace it!
+- Throughout your exploration of ML
+- we hope you gain an understanding of how to harness __predictive models__ to do good
+    - and enhance human life rather than replace it!
 ## Introduction: Foundations of Machine Learning: Supervised Learning
 - The goal of this unit is to learn common supervised machine learning __algorithms__ and how to implement them using scikit-learn
 - After this unit, you will be able to:
@@ -26,71 +24,47 @@ Throughout your exploration of ML, we hope you gain an understanding of how to h
 
 ## What is Machine Learning
 - While at IBM, Arthur Samuel developed a program that learned how to play checkers (1959). He called it:
-> “The field of study that gives computers the ability to learn without being explicitly programmed”
+> “The field of study that gives computers the __ability to learn__ without being explicitly programmed”
 - What does this mean?
-- As programmers, we often approach problems in a methodical, logic-based way
-    - We try to determine what our desired outputs should be, and then create the proper rules that will transform our inputs into those outputs
+* As programmers, we often approach problems in a methodical, logic-based way
+    1. We try to determine what our desired outputs should be
+    - and then create the proper rules that will transform our inputs into those outputs
 
-- Machine learning flips the script
-- We want the program itself to learn the rules that describe our data the best, by finding patterns in what we know and applying those patterns to what we don’t know
+* __Machine learning__ flips the script
+    1. We want the program itself __to learn__ the rules that describe our data the best
+        - by finding patterns in what we know
+        - and applying those patterns to what we don’t know
 
 - These algorithms are able to learn
     - Their performance gets better and better with each iteration, as it uncovers more hidden trends in the data
 
-![Machine Learning Timeline](https://content.codecademy.com/courses/updated_images/timeline2_Updated_1-01.svg)
+![Machine Learning](https://miro.medium.com/max/618/1*zWBYt9DQQEf_XxXWLA2tzQ.jpeg)
 
 - Machine learning can be branched out into the following categories:
     - Supervised Learning
     - Unsupervised Learning
 ## Supervised Learning
-- Supervised Learning is where the data is labeled and the program learns to predict the output from the input data
-    - For instance, a supervised learning algorithm for credit card fraud detection would take as input a set of recorded transactions
+- Supervised Learning is where
+    - the data is labeled
+    - and the __program__ learns to __predict__(normal programming need the programm to behave exactly, not to predict) the output from the input data (labled data)
+- Unsupervised Learning is
+    - the program learns the __inherent structure__ of the data based on unlabeled data
+
+- For instance, a supervised learning algorithm for credit card fraud detection would take as input a set of recorded transactions
     - For each transaction, the program would predict if it is fraudulent or not
 
-- Supervised learning problems can be further grouped into regression and classification problems
-- Regression:
-    - In regression problems, we are trying to predict a continuous-valued output. Examples are:
-        - What is the housing price in Neo York?
-        - What is the value of cryptocurrencies?
-- Classification:
-    - In classification problems, we are trying to predict a discrete number of values. Examples are:
-        - Is this a picture of a human or a picture of an AI?
-        - Is this email spam?
+- __Supervised learning__ problems can be further grouped into __regression__ and __classification__ problems
+    - __Regression__:
+        - In regression problems, we are trying to predict a continuous-valued output. Examples are:
+            - What is the housing price in Neo York?
+            - What is the value of cryptocurrencies?
+    - __Classification__:
+        - In classification problems, we are trying to predict a discrete number of values. Examples are:
+            - Is this a picture of a human or a picture of an AI?
+            - Is this email spam?
 
-- For a quick preview, we will show you an example of supervised learning :
-1. NYBD (Neo York Bot Department) wants to analyze how Neo Yorkers are talking to one another so that they can determine who is being negative
-    - They have built a Naive Bayes classifier that predicts whether an intercepted text is good or bad
-    - based on the frequency that a word is used in a good training example or a bad one
-- Run the code to see if the model classifies the sentence "This hot dog was awful!" as a negative sentiment.
-2. The NYBD wants to know what its citizens are saying
-    - Put in the sentence "I love my government" in intercepted_text
-    - and see if the classifier predicts a positive sentiment!
-3.  Put a sentence of your own in intercepted_text and see if the classifier predicts a positive sentiment!
-- Note: This Naive Bayes classifier won’t always get the sentiment correct!
-```python
-from texts import text_counter, text_training
-from sklearn.feature_extraction.text import CountVectorizer
-from sklearn.naive_bayes import MultinomialNB
+![supervised](https://miro.medium.com/max/840/1*ASYpFfDh7XnreU-ygqXonw.png)
 
-intercepted_text = "I love Neo York."
-
-text_counts = text_counter.transform([intercepted_text])
-
-text_classifier = MultinomialNB()
-
-text_labels = [0] * 1000 + [1] * 1000
-
-text_classifier.fit(text_training, text_labels)
-
-final_pos = text_classifier.predict_proba(text_counts)[0][1]
-
-final_neg = text_classifier.predict_proba(text_counts)[0][0]
-
-if final_pos > final_neg:
-  print("The text is positive.")
-else:
-  print("The text is negative.")
-```
 ## Unsupervised Learning
 - Unsupervised Learning is a type of machine learning where the program learns the inherent structure of the data based on unlabeled examples
 
@@ -99,6 +73,8 @@ else:
     - Social networks clustering topics in their news feed
     - Consumer sites clustering users for recommendations
     - Search engines to group similar objects in one cluster
+
+![clustering](https://miro.medium.com/max/840/1*lhkCOodCMZ0-SSziEDpwpA.png)
 
 - For a quick preview, we will show you an example of unsupervised learning
 1. NYBD wants to determine how humans and cyborgs differ from each other in terms of:

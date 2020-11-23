@@ -1,0 +1,23 @@
+# Mathematics
+current: https://www.youtube.com/watch?v=A_QINscHY3Q&list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6&index=2
+- https://en.wikipedia.org/wiki/Areas_of_mathematics
+- https://statanalytica.com/blog/branches-of-mathematics/
+- branches of mathematics
+    - Pure mathematics
+        - Arithmetic
+        - Algebra
+        - Geometry
+        - Trigonometry
+        - Calculus 
+        - Analysis 
+        - Number theory
+        - Logic
+        - Combinatorics
+        - Topology
+    - Applied Mathematics
+        - Dynamical systems and differential equations
+        - Mathematical physics
+        - Computation
+        - Information theory and signal processing
+        - Probability and statistics
+    - Conclusion

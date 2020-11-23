@@ -4,6 +4,7 @@
         - [Statistics in NumPy](https://numpy.org/doc/stable/reference/routines.statistics.html?highlight=statistics)
         - [Pandas - Descriptive Statistics](https://www.tutorialspoint.com/python_pandas/python_pandas_descriptive_statistics.htm)
         - [Descriptive Statistics using Pandas and Seaborn](https://towardsdatascience.com/a-quick-guide-on-descriptive-statistics-using-pandas-and-seaborn-2aadc7395f32)
+        - https://towardsdatascience.com/a-quick-guide-on-descriptive-statistics-using-pandas-and-seaborn-2aadc7395f32
 - __Statistics__ is concerned with developing and studying about data
     - with __different methods__ of : 
         1. collecting

@@ -1,5 +1,13 @@
 # Distance Formula
+<!-- vim-markdown-toc GFM -->
 
+* [Representing Points](#representing-points)
+* [Euclidean Distance](#euclidean-distance)
+* [Manhattan Distance](#manhattan-distance)
+* [Hamming Distance](#hamming-distance)
+* [SciPy Distances *](#scipy-distances-)
+
+<!-- vim-markdown-toc -->
 ## Representing Points
 - In this lesson, you will learn three different ways to define the distance between two points:
     1. Euclidean Distance
@@ -93,7 +101,7 @@ print(hamming_distance([1, 2], [1, 100]))
 print(hamming_distance([5, 4, 9], [1, 7, 9]))
 ```
 
-## SciPy Distances
+## SciPy Distances *
 - Now that you’ve written these three distance formulas yourself, let’s look at how to use them using Python’s SciPy library:
     - Euclidean Distance `.euclidean()`
     - Manhattan Distance `.cityblock()`

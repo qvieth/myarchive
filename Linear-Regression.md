@@ -22,12 +22,13 @@
 - We learned:
     - We can measure how well a line fits by measuring loss
     - The goal of linear regression is to __minimize loss__
-    - To find the line of best fit, we try to find the b value (intercept) and the m value (slope) that minimize loss
-    - Convergence refers to when the parameters stop changing with each iteration
-    - Learning rate refers to how much the parameters are changed on each iteration
+    - To find the line of best fit, we try to find the b value (__intercept__) and the m value (__slope__) that minimize loss
+    - __Convergence__ refers to when the parameters stop changing with each iteration
+    - __Gradient descent__ to move parameter to the way of __minimizing loss__
+    - __Learning rate__ refers to how much the parameters are changed on each iteration
     - We can use Scikit-learn’s `LinearRegression()` model to perform linear regression on a set of points
 - These are important tools to have in your toolkit as you continue your exploration of data science.
-Final exercise :
+- Final exercise :
 - Find another dataset, maybe in [scikit-learn’s example datasets](https://scikit-learn.org/stable/datasets/index.html)
     - Or on [Kaggle](https://www.kaggle.com/datasets), a great resource for tons of interesting data
 - Try to perform linear regression on your own! If you find any cool linear correlations, make sure to share them!
@@ -117,21 +118,24 @@ month_13 = 195
 - In the last exercise, you were probably able to make a rough estimate about the next data point for Sandra’s lemonade stand without thinking too hard about it
 - For our program to make the same level of guess, we have to determine what a line would look like through those data points
 
-- A line is determined by its slope and its intercept
+- A __line is determined__ by its __slope__ and its __intercept__
 - In other words, for each point `y` on a line we can say:
 ```
 y=mx+by
 ```
-- where `m` is the slope, and `b` is the intercept, y is a given point on the y-axis, and it corresponds to a given `x` on the x-axis
+- `y` is a given point on the y-axis, and it corresponds to a given `x` on the x-axis
+    - in other words a given point on the line has (x,y)
+    - where `m` is the __slope__
+    - and `b` is the __intercept__
 
-- The slope is a measure of how steep the line is, while the intercept is a measure of where the line hits the y-axis
+- The __slope__ is a measure of how steep the line is, while the __intercept__ is a measure of where the line hits the y-axis
 
 - When we perform Linear Regression, the goal is to get the “best” `m` and `b` for our data
 - We will determine what “best” means in the next exercises
-    1.  We have provided a slope, m, and an intercept, b, that seems to describe the revenue data you have been given
+    1.  We have provided a __slope__, `m`, and an __intercept__, `b`, that seems to __describe__ the revenue data you have been given
         - Create a new list, y, that has every element in months, multiplied by m and added to b.
         - A list comprehension is probably the easiest way to do this!
-    2.  Plot the y values against months as a line on top of the scatterplot that was plotted with the line plt.plot(months, revenue, "o")
+    2.  Plot the y values against months as a line on top of the scatterplot that was plotted with the line `plt.plot(months, revenue, "o")`
     3.  Change m and b to the values that you think match the data the best
         - What does the slope look like it should be? And the intercept?
 
@@ -169,12 +173,12 @@ plt.show()
 ```
 
 ## Loss
-- When we think about how we can assign a slope and intercept to fit a set of points, we have to define what the best fit is
+- When we think about how we can assign a __slope__ and __intercept__ to fit a set of points, we have to define what the best fit is
 
 - For each data point, we calculate loss, a number that measures how bad the model’s (in this case, the line’s) prediction was
-- You may have seen this being referred to as error
+- You may have seen this being referred to as __error__
 
-- We can think about loss as the squared distance from the point to the line
+- We can think about loss as the __squared distance from the point to the line__
 - We do the squared distance (instead of just the distance) so that points above and below the line both contribute to total loss in the same way:
 
 - In this example:
@@ -233,7 +237,7 @@ better_fit = 2
 ```
 
 ## Minimizing Loss
-- The goal of a linear regression model is to find the slope and intercept pair that minimizes loss on average across all of the data
+- The __goal of a linear regression model__ is to find the __slope__ and __intercept__ pair that __minimizes loss__ on _average across all of the data_
 - The interactive visualization in the browser lets you try to find the line of best fit for a random set of data points:
     - The slider on the left controls the m (slope)
     - The slider on the right controls the b (intercept)
@@ -250,7 +254,7 @@ better_fit = 2
 
 ![image](https://content.codecademy.com/programs/data-science-path/linear_regression/loss_curve.svg)
 
-- The process by which we do this is called gradient descent
+- The process by which we do this is called __gradient descent__
 - We move in the direction that decreases our loss the most
 - Gradient refers to the slope of the curve at any point
 
@@ -267,9 +271,9 @@ better_fit = 2
     - To find the gradient of loss as intercept changes, the formula comes out to be:
 
 - !formula
-    - N is the number of points we have in our dataset
-    - m is the current gradient guess
-    - b is the current intercept guess
+    - `N` is the number of points we have in our dataset
+    - `m` is the current gradient guess
+    - `b` is the current intercept guess
 
 - Basically:
     - we find the sum of `y_value - (m*x_value + b)` for all the `y_values` and `x_values` we have
@@ -277,14 +281,14 @@ better_fit = 2
     - `N` is the number of points we have
 
 - exercise :
-1. Define a function called get_gradient_at_b() that takes in a set of x values, x, a set of y values, y, a slope m, and an intercept value b
+1. Define a function called `get_gradient_at_b()` that takes in a set of `x` values, x, a set of `y` values, y, a __slope__ `m`, and an __intercept__ value `b`
     - For now, have it return b, unchanged
-2. In the get_gradient_at_b() function, we want to go through all of the x values and all of the y values and compute (y - (m*x+b)) for each of them
+2. In the `get_gradient_at_b()` function, we want to go through all of the x values and all of the y values and compute (`y - (m*x+b)`) for each of them
     - Create a variable called diff that has the sum of all of these values.
     - Instead of returning b from the get_gradient_at_b() function, return diff.
-3. Still in the get_gradient_at_b() function, define a variable called b_gradient and set it equal to the -2/N multiplied by diff
+3. Still in the `get_gradient_at_b()` function, define a variable called `b_gradient` and set it equal to the -2/N multiplied by diff
     - Note: N is the number of points, ie the length of the x list or the y list
-    - Instead of returning diff, return b_gradient
+    - Instead of returning diff, return `b_gradient`
 
 ```python
 def get_gradient_at_b(x, y, m, b):
@@ -318,12 +322,12 @@ def get_gradient_at_b(x, y, m, b):
 - Then, we’ll have the best `m` and the best `b` to fit our data! 
 
 - exercise :
-1. Define a function called get_gradient_at_m() that takes in a set of x values, x, a set of y values, y, a slope m, and an intercept value b
+1. Define a function called `get_gradient_at_m()` that takes in a set of `x` values, x, a set of `y` values, y, a slope `m`, and an intercept value `b`
 - For now, have it return m.
 2. In this function, we want to go through all of the x values and all of the y values and compute x*(y - (m*x+b)) for each of them
 - Create a variable called diff that has the sum of all of these values, and return it from the function
 3. Define a variable called m_gradient and set it equal to the -2/N multiplied by diff
-- Instead of returning diff, return m_gradient
+- Instead of returning diff, return m_gradient
 
 ```python
 def get_gradient_at_m(x, y, m, b):
@@ -396,15 +400,15 @@ print(b, m)
 ```
 
 ## Convergence
-- How do we know when we should stop changing the parameters m and b? How will we know when our program has learned enough?
-- To answer this, we have to define convergence
-- Convergence is when the loss stops changing (or changes very slowly) when parameters are changed
+- How do we know when we should __stop changing__ the parameters `m` and `b`? How will we know when our program has learned enough?
+- To answer this, we have to define __convergence__
+- Convergence is when the __loss stops changing__ (__or changes very slowly__) when parameters(`m`,`b`) are changed
 
 - Hopefully, the algorithm will converge at the best values for the parameters m and b
 
 ## Learning Rate
-- We want our program to be able to iteratively learn what the best m and b values are
-- So for each m and b pair that we guess, we want to move them in the direction of the gradients we’ve calculated
+- We want our program to be able to iteratively learn what the best `m` and `b` values are
+- So for each `m` and `b` pair that we guess, we want to move them in the __direction of the gradients__ we’ve calculated
 - But how far do we move in that direction?
 
 - We have to choose a learning rate, which will determine how far down the loss curve we go
@@ -581,8 +585,8 @@ line_fitter = LinearRegression()
 line_fitter.fit(X, y)
 ```
 - The `.fit()` method gives the model two variables that are useful to us:
-    1. the line_fitter.coef_, which contains the slope
-    2. the line_fitter.intercept_, which contains the intercept
+    1. the `line_fitter.coef_`, which contains the slope
+    2. the `line_fitter.intercept_`, which contains the intercept
 
 - We can also use the `.predict()` function to pass in x-values and receive the y-values that this line would predict:
 ```python
@@ -611,6 +615,8 @@ sales = [65, 58, 46, 45, 44, 42, 40, 40, 36, 38, 38, 28, 30, 22, 27, 25, 25, 20,
 plt.plot(temperature, sales, 'o')
 plt.show()
 ```
+
+```python
 from sklearn.linear_model import LinearRegression
 import matplotlib.pyplot as plt
 import numpy as np

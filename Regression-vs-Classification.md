@@ -1,8 +1,12 @@
 # Regression vs. Classification
 
+![supervised](https://miro.medium.com/max/840/1*ASYpFfDh7XnreU-ygqXonw.png)
+
+![Machine Learning](https://miro.medium.com/max/618/1*zWBYt9DQQEf_XxXWLA2tzQ.jpeg)
+
 Learn about the two types of Supervised Learning algorithms. 
 
-- Machine Learning is a set of many different techniques that are each suited to answering different types of questions.
+- Machine Learning is a set of many different techniques that are each suited to answering different types of questions
 
 - We have previously divided algorithms into two groups — Supervised Learning vs Unsupervised Learning
 - Supervised learning algorithms use labeled data as input while unsupervised learning algorithms use unlabeled data
@@ -19,9 +23,9 @@ Learn about the two types of Supervised Learning algorithms.
 
 ![Regression GIF](https://content.codecademy.com/programs/machine-learning/regression_v_classification/regression.gif)
                   
-- Linear regression  is the most popular regression algorithm
+- Linear regression is the __most popular__ regression algorithm
     - It is often underrated because of its relative simplicity
-    - In a business setting, it could be used to predict the likelihood
+    - In a business setting, it could be used to __predict the likelihood__
         - that a customer will churn or the revenue a customer will generate
     - More complex models may fit this data better, at the cost of losing simplicity
 
