@@ -1,0 +1,15 @@
+# Mathematical thinking - crash course
+- __Mathematical thinking__ is about seeing the world in a different way
+- Which means sometimes seeing beyond our intuition or gut feeling
+- a quick note about scientific notation :
+    - scientific notation can be really helpful for calculating with big numbers,
+    - but not necessary helpful for understanding them
+    - without context, exponents can be non-intuitive if that's a word in their own way
+- there're about 7.6 billion people on earth
+- understanding the sheer number of people out there in the world can help us make sense of the commonness of coincidences or improbable events
+- some statisticains call it the "law of truly large numbers"
+- the idea here is that with a large enough group, or sample, unlikely things are completely likely to happen
+- it's worth taking the time to think through small numbers , cause they can help you figure out what's actually worth worrying about
+- __thinking mathematically__ isn't just about understanding numbers better
+    - it's about asking important questions about the world around us
+    - and letting numbers illuminate those question

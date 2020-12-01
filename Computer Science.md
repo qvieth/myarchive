@@ -7,7 +7,6 @@
 [docker](docker)
 dependency
 [bash](bash)
-[TED - The single biggest reason why start-ups succeed - Bill Gross](reason-startup-succeed-bill-gross)
 ## fundamentals
 [big-picture](big-picture)
 

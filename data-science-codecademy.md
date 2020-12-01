@@ -1,4 +1,5 @@
 # data science career path
+https://en.wikipedia.org/wiki/Science
 https://www.quora.com/How-can-I-become-a-data-scientist-1/answer/DataCamp-5?pa_story=Mzk1NTY0MzA2NzEzNTI2MjQ5fDIxMTEwNjIzNTM1NDE3N3ww
 ![data science process](https://miro.medium.com/max/607/0*rw8NOxqGW-QTKuOM)
 

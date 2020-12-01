@@ -1,0 +1,16 @@
+# Data visualization part1&2
+- Earlier in the series, i talked about how it can be hard to wrap your head around numbers
+    - especially when they get really big or really small
+- __bar charts__ display a lot of information in a very simple graph
+    - they can also display the frequencies of multiple variables
+    - when there're more then 1 variable : use stacked or double bar
+- __pie charts__ are not good at displaying more than 1 variable
+- __bin frequency table__ : distored by __re-binning__
+- in __histograms__, like bar charts
+    - the height of the bars tell us how frequently data in a certain range occur
+    - a historgram also give us information about __how the data is distributed__
+- __dotplot__ : historgram but replace with dot
+- __stem and leaf plot__ : cousin of dotplot : use value from raw data instead of dots
+- cumulative frequency plots
+- Two-way tables organize data based on __two categorical variables__
+- 
