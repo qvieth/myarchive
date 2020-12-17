@@ -1,0 +1,2 @@
+- gui minh hang thuyen truong, vua dau bep, cao thu bong ro, hinh nhu con gi nua ma quen roi
+- 

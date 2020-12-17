@@ -2,12 +2,12 @@
 - mean : average
 - mean is good at measuring things that are relatively '__normally__' distributed
 - normal : a __distribution__ of data that has roughly the same amount of data on either side of the middle, and has its most common values around the middle of the data
-- a distribution show us how often each value occurs in our data set, which is know as frequency
+- __distribution__ : show us how often each value occurs in our data set, which is know as frequency
 - outliers : 
 - median : the middle number if we lined up our data from smallest to largest
 - average is distorted by outliers
 - the word __mode__ comes from the latin word modus, which means '__manner, fashion, or style__' and give us the french expression means __fashionable, popular__ a la mode
-- mode : the value that appears most in our dataset
+- mode : the value that appears most in our dataset, the __peak__ of the diagram
 - bimodal data is an example of 'multimodal data' which has many values that are __similarly common__
 - usually multimodal data results from two or more underlying groups all being measured together
 - the fact that the __median__ and the __mean__ are __the same__ tell us that the __distribution is symetric__ 

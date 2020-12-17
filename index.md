@@ -1,10 +1,14 @@
 # My note
-## before you sleep, remember to push everything to github
-- __ALWAYS__, __ALWAYS__ ASK YOURSELF, WHAT IT MEANS TO __"LEARN BY YOURSELF"__
+## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
+## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
+## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
+
+- __ALWAYS__, __ALWAYS__ ASK , WHAT IT MEANS TO __"LEARN BY YOURSELF"__
 - https://www.youtube.com/watch?v=q-g7BPdSmP4
 - https://www.youtube.com/watch?v=iuNJLtj10Lg
 - https://www.youtube.com/watch?v=TOQCh2ukyIQ
 - [theres more to life than being happy](theres-more-to-life-than-being-happy)
+- [top 100 theorem](http://pirate.shu.edu/~kahlnath/Top100.html)
 
 [Computer Science](Computer Science)
 
@@ -17,17 +21,19 @@
 
 [Real life experience lesson](Real life experience lesson)
 
+- [hpbdMH](hpbdMH)
 
 # other resources
 [language tools](language tools)
 
 # what to do
-- i should focus on creating a roadmap
+- mathematically : how to answer : superset of computation
+- computationally : what's the answer
+- learning scripting and create my own datascience __toolbox__ Mon Dec  7 08:10:44 AM +07 2020
 - learn courses is good but need a roadmap
 - i think i'm losing track now
 
-- comeback later : __focus on study Linux, how packages work, dependencies work, how to install any app and make it works__
+- comeback later : __Linux, how packages, dependencies work__
 - hitchhiker python guide has them all
 
-[new file](new-file)
 

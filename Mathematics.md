@@ -1,14 +1,11 @@
 # Mathematics
-current: https://www.youtube.com/watch?v=A_QINscHY3Q&list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6&index=2
-- https://en.wikipedia.org/wiki/Areas_of_mathematics
-- https://statanalytica.com/blog/branches-of-mathematics/
 - branches of mathematics
     - Pure mathematics
         - Arithmetic
         - Algebra
         - Geometry
         - Trigonometry
-        - Calculus 
+        - [Calculus](Calculus) 
         - Analysis 
         - Number theory
         - Logic
@@ -21,3 +18,22 @@ current: https://www.youtube.com/watch?v=A_QINscHY3Q&list=PLNrrxHpJhC8l8q8cq9BXL
         - Information theory and signal processing
         - Probability and [statistics](statistics)
     - Conclusion
+
+- Computation is a subgroup of math
+    - where you have to create ways to solve math in an efficient way
+    - You can have algebraic computation, numeric computation statistical computation...
+    - and a good computation involves math in every step of the algorithm 
+    - even when you have verbose computation
+    - since all is translated to machine code etc...
+- So the right question could be:
+    - Is math the software of this universe?
+    - If it's the software, the hardware is pure energy
+    - that is molded according to the software instructions
+    - When we will be able to compute LIFE into equations
+    - the software will be so complex that no human will understand
+    - Nor the machine that will find them in 100 years
+    - in a machine 1 million times faster than the human brain
+current: https://www.youtube.com/watch?v=A_QINscHY3Q&list=PLNrrxHpJhC8l8q8cq9BXLS3guOcyLqxj6&index=2
+- https://en.wikipedia.org/wiki/Areas_of_mathematics
+- https://statanalytica.com/blog/branches-of-mathematics/
+- [top 100 theorem](http://pirate.shu.edu/~kahlnath/Top100.html)

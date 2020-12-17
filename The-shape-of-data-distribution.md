@@ -1,0 +1,11 @@
+# The shape of data : distribution
+- When collecting data to make observations about the world it usually just isn't possible to collect ALL THE DATA
+- So instead of asking every single person about student loan debt
+    - for instance we take a sample of the population
+    - and then use the shape of our samples to make inferences about the true underlying distribution our data
+- It turns out we can learn a lot about how something occurs, even if we don't know the underlying process that causes it
+- Today, we’ll also introduce the normal (or bell) curve
+    - and talk about how we can learn some really useful things from a sample's shape 
+        - like if an exam was particularly difficult
+        - how often old faithful erupts
+        - or if there are two types of runners that participate in marathons! 
