@@ -9,6 +9,7 @@
 - https://www.youtube.com/watch?v=TOQCh2ukyIQ
 - [theres more to life than being happy](theres-more-to-life-than-being-happy)
 - [top 100 theorem](http://pirate.shu.edu/~kahlnath/Top100.html)
+- https://www.youtube.com/watch?v=hsfWtPH2kDg : many insight for DS
 
 [Computer Science](Computer Science)
 
@@ -27,6 +28,14 @@
 [language tools](language tools)
 
 # what to do
+- top 10 game company in the world -> english, japanese, chinese https://www.alltopeverything.com/top-10-biggest-video-game-companies/
+- study the way a company move into a new country, focus on how to find a job of a foreign company
+- always seek for foreign company's job
+- data science for game industry?
+- domain knowledge vs general knowledge?
+    - in software engineer, domain knowledge is knowledge about the environment in which the target system operates 
+- base on hierarchy of need : focus on __data engineering__ : collecting data, wrangling data, the real problem, fuck testing
+    - data science hierarchy of needs, google auto ML https://www.youtube.com/watch?v=VQq8DwEJeoU
 - mathematically : how to answer : superset of computation
 - computationally : what's the answer
 - learning scripting and create my own datascience __toolbox__ Mon Dec  7 08:10:44 AM +07 2020
@@ -35,5 +44,4 @@
 
 - comeback later : __Linux, how packages, dependencies work__
 - hitchhiker python guide has them all
-
 
