@@ -2,6 +2,7 @@
 - __what important in programming__ : abstraction, documentation
 ## in progress
 [data science codecademy](data-science-codecademy)
+[data science datacamp](data-science-datacamp)
 [back end engineer codecademy](back-end-engineer-codecademy)
 
 [docker](docker)

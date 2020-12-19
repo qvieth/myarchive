@@ -3,7 +3,15 @@
 ## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
 ## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
 
-- __ALWAYS__, __ALWAYS__ ASK , WHAT IT MEANS TO __"LEARN BY YOURSELF"__
+- __ALWAYS__, __ALWAYS__ ASK , WHAT IT MEANS TO __"LEARN BY YOURSELF"__? : oh my fucking god, i just answered this question!  Sat Dec 19 07:34:27 PM +07 2020
+    - __First-principles__ thinking is one of the best ways to __reverse-engineer__ complicated problems and unleash creative possibility
+    - Reasoning by first principles removes the impurity of assumptions and conventions
+    - element, base, basic, basis
+    - https://fs.blog/2018/04/first-principles/
+    - https://www.valueinspiration.com/incremental-or-exponential-thinking-down-and-dirty-on-the-gamechanging-shift/ incremental vs exponential thinking
+    - there's no one size fit all
+    - always dream, always study
+
 - https://www.youtube.com/watch?v=q-g7BPdSmP4
 - https://www.youtube.com/watch?v=iuNJLtj10Lg
 - https://www.youtube.com/watch?v=TOQCh2ukyIQ
@@ -28,6 +36,8 @@
 [language tools](language tools)
 
 # what to do
+- DS : take a usecase and start solving it : MAChine learning 
+    - reverse engineer + math (statistics, linear alg, differentiate calculus
 - top 10 game company in the world -> english, japanese, chinese https://www.alltopeverything.com/top-10-biggest-video-game-companies/
 - study the way a company move into a new country, focus on how to find a job of a foreign company
 - always seek for foreign company's job
