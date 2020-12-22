@@ -10,7 +10,6 @@
     - https://fs.blog/2018/04/first-principles/
     - https://www.valueinspiration.com/incremental-or-exponential-thinking-down-and-dirty-on-the-gamechanging-shift/ incremental vs exponential thinking
     - there's no one size fit all
-    - always dream, always study
 
 - https://www.youtube.com/watch?v=q-g7BPdSmP4
 - https://www.youtube.com/watch?v=iuNJLtj10Lg
