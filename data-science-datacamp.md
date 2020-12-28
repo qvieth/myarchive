@@ -1,9 +1,9 @@
 # datacamp data science
-- https://toptipbio.com/free-datacamp-courses/
-- https://www.presentslide.in/2019/09/free-datacamp-subscription-courses.html
+## my progress
+- [machine learning scientist](machine-learning-scientist)
 
-1. [classification](classification)
-2. [EDA](EDA)
-3. [ECDF](ECDF)
-4. covariance-and-the-pearson-correlation-coefficient
-5. [Thinking probabilistically Discrete variables](Thinking-probabilistically-Discrete-variables)
+## career tracks
+- [machine learning scientist](machine-learning-scientist)
+
+## skill tracks
+- [statistical thinking in python part1](statistical-thinking-in-python-part1)

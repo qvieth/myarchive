@@ -1,5 +1,5 @@
-- arguing is about winning, debating is about __understanding__. So make it clear
-- how emotion affect the way of thoughts, i now see similar between it and the marketing lesson where buyers are affected by emotion
-- again, make it clear (everthing)
-- make your point first, that's important, if they reject ask them for clarify, if they ask you to make your point clear, make it clear(again)
+- arguing vs debating
+- how emotion affect your way of thinking
+- similarity between it and the marketing lesson where buyers are affected by emotion
+- make it clear (everthing)
 - keep learning, distinguish between academic vs applied method and knowledge: ex writing style

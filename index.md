@@ -1,7 +1,26 @@
 # My note
 ## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
 ## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
-## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
+- [Computer Science](Computer Science)
+- [Mathematics](Mathematics)
+- [Business](Business)
+- [experience lesson](experience)
+
+- [hpbdMH](hpbdMH)
+
+# other resources
+[language tools](language tools)
+
+# what to do
+- great insight :
+    - When you are looking for a job in industry, you should not even mention LaTex on your CV
+    - because it shows a big __lack of understanding of industry standards and productivity oriented procedures__
+- learn pandoc + latex
+- heatmap for correlation
+- dopamine : - relax - easy - more tolerance https://www.youtube.com/watch?v=9QiE-M1LrZk 
+- halo effect
+- [10 cognitive bias](https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763)
+- features and target variables
 
 - __ALWAYS__, __ALWAYS__ ASK , WHAT IT MEANS TO __"LEARN BY YOURSELF"__? : oh my fucking god, i just answered this question!  Sat Dec 19 07:34:27 PM +07 2020
     - __First-principles__ thinking is one of the best ways to __reverse-engineer__ complicated problems and unleash creative possibility
@@ -11,30 +30,13 @@
     - https://www.valueinspiration.com/incremental-or-exponential-thinking-down-and-dirty-on-the-gamechanging-shift/ incremental vs exponential thinking
     - there's no one size fit all
 
+- [computational finance](https://en.wikipedia.org/wiki/Computational_finance)
 - https://www.youtube.com/watch?v=q-g7BPdSmP4
 - https://www.youtube.com/watch?v=iuNJLtj10Lg
 - https://www.youtube.com/watch?v=TOQCh2ukyIQ
 - [theres more to life than being happy](theres-more-to-life-than-being-happy)
 - [top 100 theorem](http://pirate.shu.edu/~kahlnath/Top100.html)
 - https://www.youtube.com/watch?v=hsfWtPH2kDg : many insight for DS
-
-[Computer Science](Computer Science)
-
-[Mathematics](Mathematics)
-
-[Business](Business)
-
-[numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis)
-[computational finance](https://en.wikipedia.org/wiki/Computational_finance)
-
-[Real life experience lesson](Real life experience lesson)
-
-- [hpbdMH](hpbdMH)
-
-# other resources
-[language tools](language tools)
-
-# what to do
 - DS : take a usecase and start solving it : MAChine learning 
     - reverse engineer + math (statistics, linear alg, differentiate calculus
 - top 10 game company in the world -> english, japanese, chinese https://www.alltopeverything.com/top-10-biggest-video-game-companies/

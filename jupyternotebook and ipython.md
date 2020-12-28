@@ -24,7 +24,7 @@
 
 ### ipython
 - __ipython__ is a python interpreter that allows you to run python code within your terminal
-- the _basic python interpreter_ is very bare when it comes to handy helpers for coders
+- the basic python interpreter is very bare when it comes to handy helpers for coders
 - the __ipython interpreter__ goes further by providing :
     - __run native shell commands__
     - syntax highlighting
