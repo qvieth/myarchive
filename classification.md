@@ -14,3 +14,4 @@
 - [k Nearest Neighbors: Fit](k-Nearest-Neighbors-Fit)
 * [k Nearest Neighbors: Predict](k-Nearest-Neighbors-Predict)
 * [measuring model performance](measuring-model-performance)
+* [the digits regconition datasets](the-digits-regconition-datasets) : complete intro to import python first

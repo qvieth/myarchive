@@ -1,4 +1,5 @@
 # Mathematics
+- “Mathematicians prepare abstract reasoning that’s ready ‘to be used’ even though they don’t know what it’s being used for”
 - branches of mathematics
     - Pure mathematics
         - Arithmetic

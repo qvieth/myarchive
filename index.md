@@ -1,11 +1,14 @@
 # My note
 ## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
 ## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
+- [how to master emotions](https://www.youtube.com/watch?v=QGQQ7pJQqHk) : different viewpoint => different emotions
+- dunning - kruger effect : the more you know about something, the less you know about it => you must always be humble
+- 50% understanding rule :understanding = rememer + connecting(reasoning)
 - [Computer Science](Computer Science)
 - [Mathematics](Mathematics)
 - [Business](Business)
 - [experience lesson](experience)
-
+- [Philosophy](Philosophy)
 - [hpbdMH](hpbdMH)
 
 # other resources
