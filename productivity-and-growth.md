@@ -1,4 +1,4 @@
-# productivity and growth
+# [productivity and growth](https://www.youtube.com/watch?v=UHiUYj5EA0w&list=PL1oDmcs0xTD-dJN1PL2N1urX0EKupBJCQ&index=7)
 - Summary for you guys:
 1. Why some countries have high GDP and others have low( some countries are rich and other poor):
     - Lack of natural resources 

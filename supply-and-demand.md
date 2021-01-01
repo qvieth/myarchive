@@ -1,4 +1,4 @@
-# supply and demand
+# [supply and demand](https://www.youtube.com/watch?v=g9aDizJpd_s&list=PL1oDmcs0xTD-dJN1PL2N1urX0EKupBJCQ&index=5)
 - Main outtakes of this lesson
 1. Market - any place where buyers and sellers meet to exchange goods and services
     - An owner of a supermarket values the labor of the cashier more than money she pays him

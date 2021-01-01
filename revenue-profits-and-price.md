@@ -1,0 +1,16 @@
+# [revenue profits and price](https://www.youtube.com/watch?v=UWImfFax8Ew)
+- this lesson : so there you have it, everything you need to know to run your own business, except... not really
+    - economics explains business decision making in broad terms 
+    - if you really want to learn the details, become an __entrepreneur__ and start a business
+- comnent : One thing you forget - fixed costs are rarely fixed. Rather, they are fixed to a capacity, a stepping cost. If you buy one pizza oven, you might be able to produce 1000 pizzas an hour, that oven is your fixed cost. But your capacity is limited to 1000 pizzas per hour. So you have to buy a second oven later if your demand rises. Fixed costs therefore increase
+- __Accounting Profit__ (Revenue - Explicit Costs) != __Economic Profit__ (Revenue -  Explicit - Implicit(Opportunity Costs))
+- Business calculate their potential revenue and their costs production, including implicit costs, __to make informed decision__
+- Companies in competitive market do not make much profit (no economic profit)
+- Normal Profit - minimum level of economic profit a company needs to stay in business
+- Total Cost = Variable Costs + Fixed Costs
+- Average Cost
+- Average costs fall with more units of production
+- Economies of Scale
+- Profit Maximizing Rule : Continue to produce until marginal revenue is greater than marginal cost
+- __Law of Diminishing Marginal Returns__
+- Sunk Cost

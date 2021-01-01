@@ -1,4 +1,4 @@
-# specialization and trade
+# [specialization and trade](https://www.youtube.com/watch?v=NI9TLDIPVcs&list=PL1oDmcs0xTD-dJN1PL2N1urX0EKupBJCQ&index=3)
 - adam smith : source of properity : specilization : division of labor - that made country wealthy
 - specialization makes people more productive, but adam smith said that's it's trade that makes them better off
 - production possibility frontier

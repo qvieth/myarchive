@@ -1,3 +1,3 @@
-
+# [deficits and debts](https://www.youtube.com/watch?v=3sUCSGVYzI0&list=PL1oDmcs0xTD-dJN1PL2N1urX0EKupBJCQ&index=10)
 - debts = deficits + deficits + ....
 - 

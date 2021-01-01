@@ -1,4 +1,4 @@
-# fiscal policy and stimulus
+# [fiscal policy and stimulus](https://www.youtube.com/watch?v=otmgFQHbaDo&list=PL1oDmcs0xTD-dJN1PL2N1urX0EKupBJCQ&index=9)
 - Main outtakes of this lesson
 1. __Recessionary gap__ - a situation wherein the real GDP is lower than potential GDP at the full employment level
 2. __Inflationary gap__ - the amount by which the actual gross domestic product (GDP) exceeds potential full-employment GDP

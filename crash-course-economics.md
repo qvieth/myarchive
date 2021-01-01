@@ -1,4 +1,5 @@
 # crash course economics
+- modern economics need study hard on calculus
 1. [crashcourse econ](crashcourse-econ)
 2. [specialization and trade](specialization-and-trade)
 3. [economic systems and macroeconomics](economic-systems-and-macroeconomics)
@@ -8,4 +9,19 @@
 7. [inflation and bubbles and tulips](inflation-and-bubbles-and-tulips)
 8. [fiscal policy and stimulus](fiscal-policy-and-stimulus)
 9. [deficits and debts](deficits-and-debts)
+10. [Whats all the Yellen About Monetary Policy and the Federal Reserve](Whats-all-the-Yellen-About-Monetary-Policy-and-the-Federal-Reserve)
+11. [money and finance](money-and-finance)
+12. [the financial crisis](the-2008-financial-crisis)
+13. [recession hyperinflation and stagflation](recession-hyperinflation-and-stagflation)
+14. [Economic Schools of Thought](Economic-Schools-of-Thought)
+15. [imports exports and exchange rates](imports-exports-and-exchange-rates)
+16. [globalization and trade and poverty](globalization-and-trade-and-poverty)
+17. [income and wealth inequality](income-and-wealth-inequality)
+18. [Marginal Analysis Roller Coasters Elasticity and Van Gogh](Marginal-Analysis-Roller-Coasters-Elasticity-and-Van-Gogh)
+19. [Markets Efficiency and Price Signals Crash Course Economics](Markets-Efficiency-and-Price-Signals-Crash-Course-Economics)
+20. [price controls subsidies and the risks of good intentions](price-controls-subsidies-and-the-risks-of-good-intentions)
+21. [market failures taxes and subsidies](market-failures-taxes-and-subsidies)
+22. [evironment econ](evironment-econ)
+23. [education econ](education-econ)
+24. *[revenue profits and price](revenue-profits-and-price)
 

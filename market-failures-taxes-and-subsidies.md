@@ -1,0 +1,36 @@
+# Market Failures, Taxes, and Subsidies
+- Free riders - people who benefit without paying
+- Responding to incentives - why pay more if I can get it for less?
+- Countered by taxes that fund institutions that are for our collective well-being (public goods)
+- Market failure - when markets fail to provide enough public goods
+- Public good - anything having the characteristics of non-exclusion (cannot exclude/disfavour people that do not pay f.ex. those who evade taxes are not exempt from national defence) and non-rivalry (one person’s consumption of the good does not ruin it for others f.ex. public parks)
+- If a good or service meets these two criteria, it is unlikely that private firms will produce it, no matter how essential it is - why governments are involved
+- Tragedy of the Commons - the idea that common goods that everyones has access to are often misused and exploited (fuelled by personal incentives that disregard the commonwealth)
+- Environmental problems - deforestation/overfishing
+- Competition provides an incentive to exploit a resource before another company can, regardless of future repercussions
+- Finite resource thus gets pillaged
+- Environmental economics
+- Unregulated markets occasionally fail to produce the outcome society desires
+- Misallocation of resources due to price signals, for example
+- Externalities - situations when there are external costs or benefits that accrue to other people or society as a whole
+- Negative externality (people are made worse off) 
+- Repercussions of factory run-off (The free market assumes that all the costs associated with producing that product are accounted for within the price of those products, but, in this case, the market is wrong) - market failure
+- Regulate through production quotas or chemical bans —> EPA
+- Positive externality (people are made better off
+- Education (higher income - tax revenue - etc)
+- Externalities are the justification for almost everything the government does (can tax factories/subsidise education)
+- Adjustments are made when the government is convinced the free market is not adjusting to externalities 
+- Regulatory policies (rules established by govt decree) + market-based policies (policies designed to manipulate markets, prices, and incentives to correct market failures) can be used to fix externalities
+- Regulatory policies
+- Positive externalities of an institution can be perceived to be so high/valuable that the govt essentially commandeers the market + implying everyone should pay
+- Compulsory education, govt payment of schools through taxes
+- Market-based Policy
+- Taxes and subsidies
+- Typically preferred by economists
+- Instead of spending money on enforcing regulations, government is earning tax revenue that can be used for further purposes
+- Cap and trade
+- Emissions trading
+- Pollutions permits can be bought or sold (incentive to stop polluting and sell permit)
+- Both
+- Taxing cigarette producers and regulating where one can smoke/supports anti-smoking campaigns and restricts tobacco advertisements
+- In an unregulated global economy, where producers want to make products as cheaply as possible, there is an incentive to ignore environment to get ahead (Tragedy of the Commons)

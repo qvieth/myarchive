@@ -1,0 +1,14 @@
+# [globalization and trade and poverty](https://www.youtube.com/watch?v=9MpVjxxpExM&list=PL1oDmcs0xTD-dJN1PL2N1urX0EKupBJCQ&index=17)
+- Poverty threshhold: Minimum level of income deemed adequate in a particular country
+- Extreme poverty:  Severe deprivation of basic needs including, food, safe drinking water, sanitation, health, shelter, education and information.
+- UN definition of extreme poverty: People living under <1.25/day (836 mn people as of 2015, down from 1.9 bn in 1950)
+- 1 in 7 people still live without electricity
+- Mobile phones are single most transformative technology to the developing world - Jeffrey Sachs
+- Leapfrogging - Countries can skip straight to more efficient technology without significant costs
+- Hans Rosling (statistician) - 1-2 bn suffer from globalization deficiency.
+- Multiplier effect means more
+- Paul Krugman, "The Bangladeshi apparel industry is going to consist of what we would consider sweatshops, or it wont exist at all"
+- Outsourcing of jobs, exploitation and oppression, is a form of economic colonialism
+- Companies don't follow same rules as developing countries. To tackle this public awareness is growing. e.g. US produces annual publication on list of goods produced by child or forced labor.
+- Many experts believe globalization isn't sustainable for the planet because of it's impact on climate change, deforestation and pollution
+- Microcredit, Muhammad Yunus, small loans ($100) enabled people (especially women) to participate in the economy

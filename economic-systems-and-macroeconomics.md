@@ -1,4 +1,4 @@
-# economic systems and macroeconomics
+# [economic systems and macroeconomics](https://www.youtube.com/watch?v=B43YEW2FvDs&list=PL1oDmcs0xTD-dJN1PL2N1urX0EKupBJCQ&index=4)
 - the invisible hand of the free market : the idea that individuals and businesses meet society's needs when they seek their own self-interest
 - competitive markets with profit-seeking businesses will have an incentive to produce high quality products as efficiently as possible
 - most modern economy are actually __mixed economy__ :

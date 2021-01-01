@@ -1,0 +1,31 @@
+# income and wealth inequality
+- Two types of economic inequality 
+- Wealth (accumulated assets such as savings, pensions, real estate, and stocks minus the liabilities) inequality
+    - The unequal distribution of accumulated assets, minus liabilities
+    - North America and Europe host 20% of the population yet have 67% of the world’s wealth
+    - China hosts 20% of the population wet have 8% of the world’s wealth etcetera
+- Income inequality
+    - The extent to which income is distributed in an uneven matter
+    - Economic Big Bang - “At first countries’ incomes were all bunched together, but with the Industrial Revolution the differences exploded,… [It] pushed some countries forward onto the path  to higher incomes while others stayed where they had been for millennia.” - Branko Milanovic
+        - Industrial Revolution accelerated the gap between the richest and poorest
+    - Globalisation and international trade are further accelerating this disparity 
+        - “The triumph of globalisation and market capitalism has improved living standards for billions while concentrating billions among the few.” - Richard Freeman
+    - Skill-biased technological change
+        - Skilled workers that have the education/skills best suited for technological work whereas it has served as a replacement for unskilled workers
+        - Further gap between the poor and the rich and the poor and they rocking class
+            - As economies develop and as manufacturing jobs move overseas, low skill low pay and high skill high pay work are the only jobs left
+    - Other factors in exacerbating widening gap
+        - Reduced influence of unions, tax policies that favour the wealthy, allowance for greater CEO salaries, gender, race
+    - Lorenz curve graph allows us to measure the depth of income inequality 
+        - Can be used to calculate the GINI Index - the most commonly used measure of income equality (the size of the gap between the equal distribution of income and actual distribution) with 0 as complete quality and 100 as complete inequality
+    - Critiques of income inequality
+        - Claim all income brackets are making more money but the rich’s share is growing faster
+            - However in the last 20 years, their average income has been falling while the rich have continually gotten richer
+                - “Yes, some level of inequality is built in to capitalism… It is inherent to the system. The question is, what level of inequality is acceptable? And when does inequality start doing more harm than good?” - Bill Gates
+        - Some economists argue greater income inequality is associated with increased violence, drug abuse, incarceration, diluted political equality (rich have disproportionate say in what policies advance and in this have an incentive to promote their own self-interest)
+    - Solutions
+        - Education, increased minimum wage, affordable, high quality childcare, provide a social safety net, adjustment of tax code to redistribute income
+        - Increase income taxes and capital taxes on the rich
+    - Progressive tax - a tax in which the tax rate increases as the taxable amount increases
+    - “One idea is to fix loopholes that the rich use to avoid paying taxes. Other economists argue that taxing the rich won’t be as effective as reducing regulation and bureaucratic red tape.”
+    - No society can surely be flourishing and happy of which the far greater part of the members are poor and miserable - Adam Smith

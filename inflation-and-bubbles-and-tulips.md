@@ -1,4 +1,4 @@
-# inflation and bubbles and tulips
+# [inflation and bubbles and tulips](https://www.youtube.com/watch?v=T8-85cZRI9o&list=PL1oDmcs0xTD-dJN1PL2N1urX0EKupBJCQ&index=8)
 - In which Adriene and Jacob teach you about how and why prices rise
 - Sometimes prices rise as a result of inflation, which is a pretty normal thing for economies to do
 - We'll talk about how across the board prices rise over time, and how economists track inflation
