@@ -1,0 +1,12 @@
+# [monopoly and anti competitive market](https://www.youtube.com/watch?v=Sb_-wfmJnHA&list=PL1oDmcs0xTD-dJN1PL2N1urX0EKupBJCQ&index=26)
+- anti-trust lawsuit : trust = monopoly
+- Pure Monopoly - 1:00
+- Barriers to Entry -  1:10
+- Crony Capitalism - 2:35
+- Oligopoly - 2:52
+- Horizontal Integration - 4:25
+- Vertical Integration - 4:38
+- Usefulness of monopoly - 5:51
+- Natural Monopoly - 6:38
+- Non-Coercive Monopoly- 7:25
+- Price Discrimination - 8:14

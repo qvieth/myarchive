@@ -24,4 +24,15 @@
 22. [evironment econ](evironment-econ)
 23. [education econ](education-econ)
 24. *[revenue profits and price](revenue-profits-and-price)
+25. [monopoly and anti competitive market](monopoly-and-anti-competitive-market)
+26. [game theory and oligopoly](game-theory-and-oligopoly)
+27. *[behavioral economoics](behavioral-economoics) : find some good book about this and read, you may find a job
+28. *[labor market and minimum wage](labor-market-and-minimum-wage)
+29. [the economics of healthcare](the-economics-of-healthcare)
+30. [the economics of death](the-economics-of-death)
+31. [taxes](taxes)
+32. [the underground economy](the-underground-economy)
+33. *[the economics of immigration](the-economics-of-immigration) : look for the comment war
+34. [foreign aid and remittance](foreign-aid-and-remittance)
+35. [the economics of happiness](the-economics-of-happiness)
 

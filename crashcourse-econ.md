@@ -13,3 +13,4 @@
     - __margin analysis__ : an analysis of how individuals, businesses and government make decisions
     - basically, they interested in additional benefits and additional costs
 - the law of diminishing marginal utility
+- when, if ever, should the government get involved to help markets achieve the most effective, efficient, and fair outcome?
