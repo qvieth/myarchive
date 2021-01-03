@@ -1,4 +1,5 @@
 # My note
+SxH@256256
 ## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
 ## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
 - [how to master emotions](https://www.youtube.com/watch?v=QGQQ7pJQqHk) : different viewpoint => different emotions
@@ -15,6 +16,8 @@
 [language tools](language tools)
 
 # what to do
+- [skills needed for data scientist](https://www.youtube.com/watch?v=em8nBc-zRaM)
+- ETL : extract tranform load
 - great insight :
     - When you are looking for a job in industry, you should not even mention LaTex on your CV
     - because it shows a big __lack of understanding of industry standards and productivity oriented procedures__

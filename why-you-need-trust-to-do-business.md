@@ -1,0 +1,14 @@
+# why you need trust to do business
+- rational reason for trusting people
+- what to form cognitive trust :
+    - competence
+    - intent
+    - integrity : a helpful trick is under-promising and over-delivering
+- dispositional trust :
+- a person's baseline level of trust in others:
+    - some people will trust you automatically
+    - while others take a bit more time and evidence
+- key takeaways :
+    - trust is the building block of all relationships
+    - pay atttention to how your actions __are perceived__ and make sure they're being regconized
+    - cognitive trust can be earned from competence, intent and ingrity

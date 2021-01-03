@@ -1,0 +1,23 @@
+# defense against the dark arts of influence
+- why do people choose to follow great leaders, or horrible ones?
+- how do CEOs get better deals in the boardroom?
+- => influence, it goes by a lot of names :
+    - emotional inteligence
+    - manipulation
+    - social skills
+- influence is an important tool that drives business decisions and social interactions
+- => great power comes great responsibility
+- influence has a dark side too, and can be used to pressure people into making some pretty bad decisions
+- last time you've learn about rational reasons for trusting people
+- but you also trust people because of emotional reasons, like your gut instinct when you first meet them
+- sometimes, emotional cues can match up with cognitive trust
+- influence relies heavily on charisma
+- if someone's more likeable, they tend to be trusted more easily and can influence others
+- 3 things psychologists say can make you more likeable :
+    - confidence
+    - praise
+    - optimism
+- => think about why you're trusting a __charismatic__ person, and whether or not you should
+- confidence : number one way to build charisma and emotional influence
+- => avoid uncertain language : 'maybe', 'in my opinion', 'i think', 'i could be wrong'
+- *Fake it till you make it, yes for posture. Not for knowing things
