@@ -1,4 +1,6 @@
 # The shape of data : distribution
+- normal distribution curve :
+    - the standard deviation is the average distance between any point and the mean
 - When collecting data to make observations about the world it usually just isn't possible to collect ALL THE DATA
 - So instead of asking every single person about student loan debt
     - for instance we take a sample of the population

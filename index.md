@@ -1,10 +1,7 @@
-# My note
+# My note v1
 SxH@256256
 ## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
 ## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
-- [how to master emotions](https://www.youtube.com/watch?v=QGQQ7pJQqHk) : different viewpoint => different emotions
-- dunning - kruger effect : the more you know about something, the less you know about it => you must always be humble
-- 50% understanding rule :understanding = rememer + connecting(reasoning)
 - [Computer Science](Computer Science)
 - [Mathematics](Mathematics)
 - [Business](Business)
@@ -12,10 +9,14 @@ SxH@256256
 - [Philosophy](Philosophy)
 - [hpbdMH](hpbdMH)
 
-# other resources
-[language tools](language tools)
-
 # what to do
+- echo chamber
+- supervised : use labeled data to tell new data right or wrong
+- to know what you know and what you do not know, that is true knowledge
+- probability - distribution - the number 'one'
+- [how to master emotions](https://www.youtube.com/watch?v=QGQQ7pJQqHk) : different viewpoint => different emotions
+- dunning - kruger effect : the more you know about something, the less you know about it => you must always be humble
+- 50% understanding rule :understanding = rememer + connecting(reasoning)
 - [skills needed for data scientist](https://www.youtube.com/watch?v=em8nBc-zRaM)
 - ETL : extract tranform load
 - great insight :

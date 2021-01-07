@@ -17,7 +17,7 @@
         - Mathematical physics
         - Computation
         - Information theory and signal processing
-        - Probability and [statistics](statistics)
+        - [Probability](Probability) and [statistics](statistics)
     - Conclusion
 
 - Computation is a subgroup of math

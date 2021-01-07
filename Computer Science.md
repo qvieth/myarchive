@@ -5,6 +5,7 @@
     - The only reason he can sell it so well is because he __knows his products so well__
 
 ## in progress
+- [crash course AI](crash-course-AI)
 - [data science datacamp](data-science-datacamp)
 - [ux/ui design principles](https://www.springboard.com/blog/ux-design-principles/)
 
@@ -21,6 +22,8 @@
 
 
 # Data science
+- data science = computer science + data mining
+- data mining = mining data to find insight(not finding data)
 - [jupyternotebook and ipython](jupyternotebook and ipython)
 - [data science codecademy](data-science-codecademy)
 - [back end engineer codecademy](back-end-engineer-codecademy)
