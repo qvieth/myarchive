@@ -1,44 +1,43 @@
 # geek's lesson statistics
 - https://www.youtube.com/watch?v=hjZJIVWHnPE
 
-<!-- vim-markdown-toc GFM -->
+## Contents
 
-* [1.1 Vocabulary and frequency tables](#11-vocabulary-and-frequency-tables)
-* [1.2 Data and Sampling techniques](#12-data-and-sampling-techniques)
-    * [level of measurement : NOIR](#level-of-measurement--noir)
-    * [types of data](#types-of-data)
-    * [Sampling : random to avoid bias](#sampling--random-to-avoid-bias)
-* [1.3 Histogram and box plots](#13-histogram-and-box-plots)
-    * [histogram - describe shape](#histogram---describe-shape)
-    * [box plot - describe shape](#box-plot---describe-shape)
-* [1.4 Measure of center and spread](#14-measure-of-center-and-spread)
-* [2.1 Probability formulas](#21-probability-formulas)
-    * [probability formulas :](#probability-formulas-)
-* [2.2 Contigency tables and basic probabilities](#22-contigency-tables-and-basic-probabilities)
-* [2.3 Tree diagrams and Bayes theorem](#23-tree-diagrams-and-bayes-theorem)
-* [2.4 Discrete probability distribution](#24-discrete-probability-distribution)
-* [2.5 Binomial Distribution](#25-binomial-distribution)
-* [2.6 Poisson Distribution](#26-poisson-distribution)
-* [2.7 Continuous probability distributions and the uniform distribution](#27-continuous-probability-distributions-and-the-uniform-distribution)
-* [2.8 Normal distribution](#28-normal-distribution)
-* [3.1 Central limit theorem](#31-central-limit-theorem)
-* [3.2 Confidence Interval for Proportions](#32-confidence-interval-for-proportions)
-* [*3.3 Hypothesis testing for single proportion](#33-hypothesis-testing-for-single-proportion)
-* [3.4 Hypothesis testing for two proportion](#34-hypothesis-testing-for-two-proportion)
-* [Confidence Interval for a Mean (5:52:00)](#confidence-interval-for-a-mean-55200)
-* [Hypothesis Testing with a single Mean (6:7:00)](#hypothesis-testing-with-a-single-mean-6700)
-* [Hypothesis Test for Two Means (6:45:00)](#hypothesis-test-for-two-means-64500)
-* [Hypothesis Testing for Matched Pairs (6:25:00)](#hypothesis-testing-for-matched-pairs-62500)
-* [Hypothesis Testing for Goodness of Fit (7:00:1)](#hypothesis-testing-for-goodness-of-fit-7001)
-* [Hypothesis Testing for Independence (7:25:00)](#hypothesis-testing-for-independence-72500)
-* [Hypothesis Testing a Single Variance (8:02:00)](#hypothesis-testing-a-single-variance-80200)
-* [Hypothesis Testing for Two Variances (8:04:00)](#hypothesis-testing-for-two-variances-80400)
-* [Hypothesis Test for Several Means (8:21:00)](#hypothesis-test-for-several-means-82100)
-* [Hypothesis Testing for Correlation and Regression (8:35:00)](#hypothesis-testing-for-correlation-and-regression-83500)
+- [geek's lesson statistics](#geek's lesson statistics)
+- [1.1 Vocabulary and frequency tables](#1.1 Vocabulary and frequency tables)
+- [1.2 Data and Sampling techniques](#1.2 Data and Sampling techniques)
+    - [level of measurement : NOIR](#1.2 Data and Sampling techniques#level of measurement : NOIR)
+    - [types of data](#1.2 Data and Sampling techniques#types of data)
+    - [Sampling : random to avoid bias](#1.2 Data and Sampling techniques#Sampling : random to avoid bias)
+- [1.3 Histogram and box plots](#1.3 Histogram and box plots)
+    - [histogram - describe shape](#1.3 Histogram and box plots#histogram - describe shape)
+    - [box plot - describe shape](#1.3 Histogram and box plots#box plot - describe shape)
+- [1.4 Measure of center and spread](#1.4 Measure of center and spread)
+- [2.1 Probability formulas](#2.1 Probability formulas)
+    - [probability formulas :](#2.1 Probability formulas#probability formulas :)
+- [2.2 Contigency tables and basic probabilities](#2.2 Contigency tables and basic probabilities)
+- [2.3 Tree diagrams and Bayes theorem](#2.3 Tree diagrams and Bayes theorem)
+- [2.4 Discrete probability distribution](#2.4 Discrete probability distribution)
+- [2.5 Binomial Distribution](#2.5 Binomial Distribution)
+- [2.6 Poisson Distribution](#2.6 Poisson Distribution)
+- [2.7 Continuous probability distributions and the uniform distribution](#2.7 Continuous probability distributions and the uniform distribution)
+- [2.8 Normal distribution](#2.8 Normal distribution)
+- [3.1 Central limit theorem](#3.1 Central limit theorem)
+- [3.2 Confidence Interval for Proportions](#3.2 Confidence Interval for Proportions)
+- [*3.3 Hypothesis testing for single proportion](#*3.3 Hypothesis testing for single proportion)
+- [3.4 Hypothesis testing for two proportion](#3.4 Hypothesis testing for two proportion)
+- [Confidence Interval for a Mean (5:52:00)](#Confidence Interval for a Mean (5:52:00))
+- [Hypothesis Testing with a single Mean (6:7:00)](#Hypothesis Testing with a single Mean (6:7:00))
+- [Hypothesis Test for Two Means (6:45:00)](#Hypothesis Test for Two Means (6:45:00))
+- [Hypothesis Testing for Matched Pairs (6:25:00)](#Hypothesis Testing for Matched Pairs (6:25:00))
+- [Hypothesis Testing for Goodness of Fit (7:00:1)](#Hypothesis Testing for Goodness of Fit (7:00:1))
+- [Hypothesis Testing for Independence (7:25:00)](#Hypothesis Testing for Independence (7:25:00))
+- [Hypothesis Testing a Single Variance (8:02:00)](#Hypothesis Testing a Single Variance (8:02:00))
+- [Hypothesis Testing for Two Variances (8:04:00)](#Hypothesis Testing for Two Variances (8:04:00))
+- [Hypothesis Test for Several Means (8:21:00)](#Hypothesis Test for Several Means (8:21:00))
+- [Hypothesis Testing for Correlation and Regression (8:35:00)](#Hypothesis Testing for Correlation and Regression (8:35:00))
 
-<!-- vim-markdown-toc -->
-
-## 1.1 Vocabulary and frequency tables
+# 1.1 Vocabulary and frequency tables
 - what is statistics :
     - key vocabulary :
         1. __population__ - everything (or everyone) being studied
@@ -66,10 +65,10 @@
         - table : 4 columns : data value, f, rf, crf
 
 
-## 1.2 Data and Sampling techniques
+# 1.2 Data and Sampling techniques
 - how is statistical data collected
 - __levels of measurement__ :
-### level of measurement : NOIR
+## level of measurement : NOIR
 - https://www.youtube.com/watch?v=LPHYPXBK_ks&feature=emb_title
 - https://www.youtube.com/watch?v=hZxnzfnt5v8 : different charts and graphs for different level of measurement
 - the levels of measurement that is used to measure a variable
@@ -83,13 +82,13 @@
 - higher level of measurement means more possible measure
 - level of measurement decision tree (8:32)
 - summary (10:46)
-### types of data
+## types of data
 - category
 - quantitative - measured or counted, numbers
 - discrete - countable (digit)
 - continuous - measured (decimal)
 
-### Sampling : random to avoid bias
+## Sampling : random to avoid bias
 1. random
     1. simple random sampling - random selection methods such as random number or draw out of a hat
     2. stratified random sampling - divide population into groups and select a proportionate number at each group
@@ -100,7 +99,7 @@
 - e.g. people nearby, within drving distance
 - drawbacks : bias result, may not be representative of the population, result may not be useful outside of the sample
 
-## 1.3 Histogram and box plots
+# 1.3 Histogram and box plots
 - how do we display data visually :
     - histogram - frequencies over intervals
     - box plot - spread with 5 number summary :
@@ -109,19 +108,19 @@
         - medium
         - Q3
         - maximum
-### histogram - describe shape
+## histogram - describe shape
 1. uniform - bars about the same
 2. normal - taller in middle, shorter on edges
 3. V-shape - hosrter in middle, taller on edges
 4. symmetrical - same on both sides
 5. skewed - normal but more extra stuff on right/left
 
-### box plot - describe shape
+## box plot - describe shape
 1. spread out - wide range of values
 2. cluster together - small range of values
 3. describe entire shape and middle 50% (box)
 
-## 1.4 Measure of center and spread
+# 1.4 Measure of center and spread
 - how do we summarize data numerically
 - measure of center : mean, median, mode
 - measure of spread :
@@ -137,7 +136,7 @@
         - z is the number of standard deviation from the mean
         - x-bar +- standard deviation => outlier
 
-## 2.1 Probability formulas
+# 2.1 Probability formulas
 - Q : how do we calculate basic probabilities
 - vocabulary :
     - sample space - all possible outcomes (flip a coin : H, T)
@@ -150,7 +149,7 @@
     - empirical probability - what happened in an experiment
 > **law of large number** - more trials done, the closer the empirical probability is to the theoretical probability
 
-### probability formulas :
+## probability formulas :
 - dependent events
 1. conditional probability : P(B|A) => probability of B given A has already occured
 ```
@@ -186,7 +185,7 @@ therefore they are independent event
 ```
 - mutually exclusive (XOR) : both cannot occur at the same time
 
-## 2.2 Contigency tables and basic probabilities
+# 2.2 Contigency tables and basic probabilities
 - Q : how do we organize probability information in a table
 - A : __contigency table__ - table listing results in relation to two variables :
     - make calculating probabilities easier
@@ -199,7 +198,7 @@ therefore they are independent event
 | no ticket       | 17       | 27    | 61      | 105    |
 | totals          | 99       | 66    | 79      | 244    |
 
-## 2.3 Tree diagrams and Bayes theorem
+# 2.3 Tree diagrams and Bayes theorem
 - Q : how do we visually organize conditional probabilities?
 - A : tree diagram - branch for each outcome, we can multiply down branches for final probabilities
 - bayes theorem : find P(B|A) using known values of P(A|B)
@@ -212,7 +211,7 @@ therefore they are independent event
     - given a product was profitable
     - what is the probability it was
 
-## 2.4 Discrete probability distribution
+# 2.4 Discrete probability distribution
 - Q : what are discrete probability distribtutions?
 - A : probability distribution function (pdf):
     1. chracteristics
@@ -244,7 +243,7 @@ sigma(x*p(x))=1.3
     1. standard deviation - spread of random variable
         - o7 = squareroot(sigma((x-mu)**2*P(x))) 
 
-## 2.5 Binomial Distribution
+# 2.5 Binomial Distribution
 - Q : what is the probability of x successes out of n trials
 - A : binomial distribution
     - characteristics
@@ -256,7 +255,7 @@ sigma(x*p(x))=1.3
         - standard deviation : sigma = squareroot(npq)
 - using binomial distribution
 
-## 2.6 Poisson Distribution
+# 2.6 Poisson Distribution
 - Q : what is the probability of x success in a certain amount of time?
 - A : poisson distribution
     - characteristics 
@@ -266,12 +265,12 @@ sigma(x*p(x))=1.3
         - mu = mu 
         - sigma = squareroot(mu)
 
-## 2.7 Continuous probability distributions and the uniform distribution
+# 2.7 Continuous probability distributions and the uniform distribution
 - how do we find probabilities of continuous distributions?
 - probability = area under a curve
     - f(x) = 1x/2  is a probability distribution function from 0 to 2
 
-## 2.8 Normal distribution
+# 2.8 Normal distribution
 - what is a normal distribution?
 - normal distribution : f(x) = e/(sigma*squareroot(2pi))
     - shape : bell shape  
@@ -285,7 +284,7 @@ sigma(x*p(x))=1.3
                 - Z is the number of standard deviations from mean
         - table gives are between a z-value and mean(0)
 
-## 3.1 Central limit theorem
+# 3.1 Central limit theorem
 - Q : how do we find probabilities with sample means?
 - A : the Central Limit Theorem
     - the mean of a sample should be close to the mean of a population (with a smaller standard deviation)
@@ -295,7 +294,7 @@ sigma(x*p(x))=1.3
     - distribution of the mean : X-bar~N(mu,s/squareroot(n)
     - z-scores : z = x-bar - mu / se
 
-## 3.2 Confidence Interval for Proportions
+# 3.2 Confidence Interval for Proportions
 - Q : how close is a sample proportion to a population proportion?
 - A : proportion
     - underlying distribution is binomial : x=success , n=trials 
@@ -308,7 +307,7 @@ sigma(x*p(x))=1.3
     - proportion error : `E = za/2 *squareroot(p-hat*q-hat/n)`
         - z-value that gives correct area in each tail 
 
-## *3.3 Hypothesis testing for single proportion
+# *3.3 Hypothesis testing for single proportion
 - a significant part of statistics is testing a claim to bring a claim whether it's true
 - Q : how do we test a claim for a proportion?
 - A : hypothesis testing : test whether a claim is true
@@ -340,7 +339,7 @@ sigma(x*p(x))=1.3
     - Ha p !=.43
     - two-tailed test
 
-## 3.4 Hypothesis testing for two proportion
+# 3.4 Hypothesis testing for two proportion
 - how do we test a claim about 2 proportion?
 - equation needed
     - pooled proportion : Pc = (xa+xb)/(na+nb) 
@@ -356,7 +355,7 @@ sigma(x*p(x))=1.3
     - Ha Pt > Pa
     - right tailed test
 
-## Confidence Interval for a Mean (5:52:00)
+# Confidence Interval for a Mean (5:52:00)
 - Just as we've done inferential statistics with proportion 
 - we can do the same thing with mean, in fact we're often working with mean than proportions
 - Q : how do we find a confidence a confidence interval for a mean?
@@ -374,7 +373,7 @@ sigma(x*p(x))=1.3
     - you are interested in the average cost of a smartphone
     - you take a sample of 16 smartphones and find a mean cost of 531 bucks with a standard deviation of 83 bucks
 
-## Hypothesis Testing with a single Mean (6:7:00)
+# Hypothesis Testing with a single Mean (6:7:00)
 - Q : how do we conduct a hypothesis test for a mean?
 - A : formulas for mean is different :
     - Distribution : X-bar~t(df)
@@ -391,7 +390,7 @@ sigma(x*p(x))=1.3
     - two-tailed test
     - distribution : x-bar~t23 (tdf-t`d`egreeof`f`reedom=23)
 
-## Hypothesis Test for Two Means (6:45:00)
+# Hypothesis Test for Two Means (6:45:00)
 - Q : how do we compare 2 means?
 - A : formulas :
     - distribution : x-bara - x-barb ~ t(df)
@@ -410,7 +409,7 @@ sigma(x*p(x))=1.3
     - actual difference : 3.45 - 3.67 = -.22
     - distribution : x-barOL - x-barF2F ~ t
 
-## Hypothesis Testing for Matched Pairs (6:25:00)
+# Hypothesis Testing for Matched Pairs (6:25:00)
 - Q : how do we hypothesis test for improment (a difference)?
 - A : matched pairs : all data come in pairs and the pairs are matched together
     - do a t-test for one mean -> find the difference for each pair 
@@ -439,7 +438,7 @@ sigma(x*p(x))=1.3
         - reason p-value > alpha (.2149 > .05
         - conclusion : there is not sufficient evidence to conclude the strength class increased bench press weights
 
-## Hypothesis Testing for Goodness of Fit (7:00:1)
+# Hypothesis Testing for Goodness of Fit (7:00:1)
 - Q : how do we test if data is fits a claimed distribution?
 - A : Chi-squared (X**2):
     - non-symetrical and skewed right
@@ -473,7 +472,7 @@ sigma(x*p(x))=1.3
     - reason : p>alpha (.835 > .05)
     - conclusion : there is not sufficient evidence to conclude the distribution of languages spoken in the home is different than the claimed distribution
 
-## Hypothesis Testing for Independence (7:25:00)
+# Hypothesis Testing for Independence (7:25:00)
 - another use for the chi-squared distribution is testing to see if 2 variables is dependent or independent on each other
 - Q : how do we test  if 2 variables are dependent or independent
 - A : test for independence :
@@ -504,7 +503,7 @@ sigma(x*p(x))=1.3
     - reason : p-value > alpha (.2935>.05)
     - conclusion : there is not sufficient evidence to conclude breakfast preference is dependent on gender
 
-## Hypothesis Testing a Single Variance (8:02:00)
+# Hypothesis Testing a Single Variance (8:02:00)
 - Q : how do we test a claim about a variance
 - A : Test a single variance :
     - test statistic : chi-squared = (n-1)s**2/sigma`**`2
@@ -530,7 +529,7 @@ sigma(x*p(x))=1.3
     - reason : p<a(.0337<.05)
     - conclusion : there is sufficient evidence to conclude the standard deviation of school supplies cost is less than 15 bucks 
 
-## Hypothesis Testing for Two Variances (8:04:00)
+# Hypothesis Testing for Two Variances (8:04:00)
 - Q : how do we comare two variances ?
 - A : F-distribution :
     - not summetrical, skewed right
@@ -563,7 +562,7 @@ sigma(x*p(x))=1.3
     - reason : p>alpha
     - conclusion : there is insufficient evidence to conclude the first machine has a higher variance than the second machine
 
-## Hypothesis Test for Several Means (8:21:00)
+# Hypothesis Test for Several Means (8:21:00)
 - Q : How do we compare the means of more than 2 groups?
 - A : ANOVA (Analysis of Variance) :
     - hypothesis :
@@ -595,7 +594,7 @@ sigma(x*p(x))=1.3
     - reason : p<alpha
     - conclusion : there is sufficient evidence to conclude the mean GPA of traditional, transfer and nontraditional students in the jr.year is not the same
 
-## Hypothesis Testing for Correlation and Regression (8:35:00)
+# Hypothesis Testing for Correlation and Regression (8:35:00)
 - Q : how do we test for a relationship between variables?
 - A : scatterplot :
     - example : a researcher collects a sample of the number of pages a person reads, based on their age

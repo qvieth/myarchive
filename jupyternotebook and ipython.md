@@ -49,4 +49,3 @@
 
 > you do not need administrative or root permissions to install Anaconda if you select a user-writable install location.
 
-[software-distribution](software-distribution)

@@ -1,5 +1,0 @@
-- arguing vs debating
-- how emotion affect your way of thinking
-- similarity between it and the marketing lesson where buyers are affected by emotion
-- make it clear (everthing)
-- keep learning, distinguish between academic vs applied method and knowledge: ex writing style

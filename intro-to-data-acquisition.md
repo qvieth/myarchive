@@ -1,23 +1,23 @@
 # Intro to Data Acquisition
 - __Data acquisition__ (__data mining__) is the step of the __Data Science Life Cycle__
 - understand __Data Science Life Cycle__ first
-<!-- vim-markdown-toc GFM -->
-
-* [data mining methods :](#data-mining-methods-)
-    * [Public & Private Data](#public--private-data)
-        * [Public Data](#public-data)
-        * [Private Data](#private-data)
-    * [Web Scraping](#web-scraping)
-    * [APIs](#apis)
-    * [Manual Data Acquisition](#manual-data-acquisition)
-    * [BI tools](#bi-tools)
-
-<!-- vim-markdown-toc -->
 - After this unit, you will be able to:
     - Recognize __which channels__ of data acquisition are best suited to different situations
     - Query data from relational databases using __SQL__
     - Integrate SQL queries into Python programs
     - Conduct __web scraping__ with BeautifulSoup
+
+## Contents
+
+- [Intro to Data Acquisition](#Intro to Data Acquisition)
+- [data mining methods :](#data mining methods :)
+    - [Public & Private Data](#data mining methods :#Public & Private Data)
+        - [Public Data](#data mining methods :#Public & Private Data#Public Data)
+        - [Private Data](#data mining methods :#Public & Private Data#Private Data)
+    - [Web Scraping](#data mining methods :#Web Scraping)
+    - [APIs](#data mining methods :#APIs)
+    - [Manual Data Acquisition](#data mining methods :#Manual Data Acquisition)
+    - [BI tools](#data mining methods :#BI tools)
 
 # data mining methods :
 - __business understanding__ comes before __data mining__

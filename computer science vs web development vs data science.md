@@ -43,4 +43,5 @@ they are all overlapped in some places - programming
 - building, implementing the decisions made at higher levels
 - creates intergrates and deploys the features that were decided upon
 - 2 discipline many developers focus on :
-[front-end vs back-end](front-end vs back-end)
+
+- => [front-end vs back-end](front-end vs back-end)

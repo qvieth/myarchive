@@ -1,25 +1,26 @@
 # Relational Databases for Data Science/Analysis - Understanding relational databases and SQL data types
-<!-- vim-markdown-toc GFM -->
 
-* [Introduction](#introduction)
-* [Structured Data](#structured-data)
-* [Databases](#databases)
-    * [data science pipeline](#data-science-pipeline)
-* [Relational Databases](#relational-databases)
-    * [Customer Table](#customer-table)
-    * [Entity Relationship Diagram](#entity-relationship-diagram)
-* [Relational Database Management Systems](#relational-database-management-systems)
-    * [SQL](#sql)
-        * [MySQL](#mysql)
-        * [PostgreSQL](#postgresql)
-        * [Oracle DB](#oracle-db)
-        * [SQL Server](#sql-server)
-        * [SQLite](#sqlite)
-    * [SQLite Data Types](#sqlite-data-types)
-    * [Takeaways](#takeaways)
+## Contents
 
-<!-- vim-markdown-toc -->
-## Introduction
+- [Relational Databases for Data Science/Analysis - Understanding relational databases and SQL data types](#Relational Databases for Data Science/Analysis - Understanding relational databases and SQL data types)
+- [Introduction](#Introduction)
+- [Structured Data](#Structured Data)
+- [Databases](#Databases)
+    - [data science pipeline](#Databases#data science pipeline)
+- [Relational Databases](#Relational Databases)
+    - [Customer Table](#Relational Databases#Customer Table)
+    - [Entity Relationship Diagram](#Relational Databases#Entity Relationship Diagram)
+- [Relational Database Management Systems](#Relational Database Management Systems)
+    - [SQL](#Relational Database Management Systems#SQL)
+        - [MySQL](#Relational Database Management Systems#SQL#MySQL)
+        - [PostgreSQL](#Relational Database Management Systems#SQL#PostgreSQL)
+        - [Oracle DB](#Relational Database Management Systems#SQL#Oracle DB)
+        - [SQL Server](#Relational Database Management Systems#SQL#SQL Server)
+        - [SQLite](#Relational Database Management Systems#SQL#SQLite)
+    - [SQLite Data Types](#Relational Database Management Systems#SQLite Data Types)
+    - [Takeaways](#Relational Database Management Systems#Takeaways)
+
+# Introduction
 - One of the __most important questions__ to address especially when __acquiring large amounts of data__ is :
     - __where__ will all the data be stored?
 - __Data storage__ is such an integral part of __data acquisition__
@@ -59,7 +60,7 @@
 ```
 - In this lesson, we will focus on __structured data__, as it is the data found within __relational databases__
 
-## Structured Data
+# Structured Data
 - __Structured data__ is the most __organized__ type of data
 - It follows a __data model__, which is a kind of blueprint that defines and describes the structure of the data
 - __Structured data__ is typically in the form of __tables__ that are well defined by their rows and columns
@@ -73,7 +74,7 @@
     - Excel Spreadsheets
     - SQL Databases
 
-## Databases
+# Databases
 - In many applications, the __amount of data__ collected is __vast__ and can not be stored in a single machine
 - This is why __databases__ are so vital when working with certain data
 - Databases are __collections of data__ that are __organized__ for efficient accessibility and management
@@ -81,7 +82,7 @@
 - __Data Scientists, Software Engineers__, and __Web Developers__ use databases to store the large amounts of data that are often used in production scale applications
 - Within the __data science pipeline__, __databases__ are considered the __storage units__ that house the data so it can be cleaned for analysis and modeling
 
-### data science pipeline
+## data science pipeline
 - The __Data Science Pipeline__ :
     - __Storage__ - where the data is __housed__ throughout the entire __data science life cycle__
     - __Data Cleaning__ - assigning proper data types and categories, removing duplicate and null values within the data
@@ -94,14 +95,14 @@
     - The __relational model__ can be viewed as a __database model__ that has multiple tables that each describe a particular __entity__ of the database
 - We refer to the databases that follow the __relational model__ as __relational databases__
 
-## Relational Databases
+# Relational Databases
 - Relational databases are the __primary__ means of storage for __structured data__
 - These databases are relational because they organize data into __tables__ that each contain data related to one another
 - tables are composed of rows and columns :
     - __rows__ represents __each individual observation__ called a __record__
     - __columns__ represents the __characteristics__ or __dimensions__ of the record called __fields__
 
-### Customer Table
+## Customer Table
 
 | customer_id | first_name | last_name | phone_number | email                  | address_id |
 |-------------|------------|-----------|--------------|------------------------|------------|
@@ -122,44 +123,44 @@
 - When we consider relational databases as a collection of tables, what we call a __schema__
 - we can visualize them with __entity-relationship diagrams__, which give us a chance to view the data within each table, and how each table relates to the others
 
-### Entity Relationship Diagram
+## Entity Relationship Diagram
 - An Entity Relationship Diagram
 - In the entity-relationship diagram above we can see the seven tables that make up the relational database of a record store
 - There are tables that contain information on customers, orders, albums, etc
 - If we look closely, we can see that some of the tables are __related to each other__ by certain __fields__
 - These shared fields are called __keys__ and are the __links__ that connect the various tables
 
-## Relational Database Management Systems
+# Relational Database Management Systems
 - Another advantage of working with relational databases is Relational Database Management systems, or RDBMS
 - Relational Database Management Systems (RDBMS) are important for data science and analytics
 - because they provide the functionality needed for creating, reading, updating, and deleting data
 - often referred to as __CRUD__ within our database
 - The language that data teams utilize most often in RDBMS to execute commands is Structured Query Language (SQL), pronounced as “S-Q-L” or “sequel”
-### SQL
+## SQL
 - Structured Query Language (SQL) is one of the most common and powerful languages for querying databases
 - It is fast, secure, and able to return millions of data points in just a few lines
 - While there are hundreds of RDBMS, some of the most common RDBMS that use SQL are:
-#### MySQL
+### MySQL
 - MySQL is a popular free and open-source SQL database
 - It is widely used for web applications because the MySQL Server is renowned for its speed, reliability, and ease of use on multiple platforms
 
-#### PostgreSQL
+### PostgreSQL
 - Much like MySQL, PostgreSQL is a popular open-source SQL database
 - PostgreSQl is one of the oldest RDBMS with over 30 years into its development
 - so it has an extensive community supporting it and is known for its reliability and array of features
 
-#### Oracle DB 
+### Oracle DB
 - Oracle is considered to be among the most popular of all RDBMS
 - Owned by Oracle Corporation and __closed sourced__
 - Oracle DB is the goto RDBMS for corporations as it is able to scale for and support their massive workloads effectively
 - Licensing for Oracle DB however, is known to be expensive and can be infeasible to use for certain applications
 
-#### SQL Server
+### SQL Server
 - SQL Server is another privately-owned RDBMS that is popular, especially among corporations
 - While __Microsoft__ offers SQL Server free through its SQL Server 2019 Express edition
 - the enterprise editions that are designed for large scale applications with more functionality become more expensive as your application scales
 
-#### SQLite
+### SQLite
 - SQLite is another popular open-source SQL database
 - SQLite is designed to be compact, efficient, and self-contained
 - SQLite is able to store a complete database in a single cross-platform disk file so that it is not necessary to connect databases to a server
@@ -170,7 +171,7 @@
 - It is __important__ to note that while most RDBMS use SQL, the __SQL data types__ can ___vary between RDBMS__
 - With this in mind, let’s get familiar with some of the data types found in SQLite
 
-### SQLite Data Types
+## SQLite Data Types
 - With __unstructured data__, you would be able to enter __any data in any order__
 - However, in a relational database, we are able to __restrict__ certain fields to a specific data type
 - You may recall the various data types within Python, such as __integers, floats, strings,__ and __booleans__
@@ -187,7 +188,7 @@ Python and SQLite Data Types
 | float  | real<br>double<br>double precision<br>float<br>    |
 | bool   | bit                                                |
 
-### Takeaways
+## Takeaways
 - __Relational databases__ are collections of __structured data__ that utilize tables to maintain __relationships__ among data
 - Tables within a relational database contain __fields__ and __records__, and the tables of a relational database are described by a __schema__
 - There are several __relational database management systems__ that we can use to work with relational databases

@@ -1,32 +1,30 @@
 # python
 
-<!-- vim-markdown-toc GFM -->
+## Contents
 
-    * [basics](#basics)
-        * [list](#list)
-        * [variables & function](#variables--function)
-            * [function scope](#function-scope)
-    * [class](#class)
-        * [property](#property)
-        * [method](#method)
-        * [object](#object)
-            * [attribute = class varibles + instance variables](#attribute--class-varibles--instance-variables)
-            * [dir() : directory listing : list element of a tree-like structure](#dir--directory-listing--list-element-of-a-tree-like-structure)
-            * [if type(grade) is Grade:](#if-typegrade-is-grade)
-    * [modules](#modules)
-        * [random , datetime](#random--datetime)
-        * [matplotlib](#matplotlib)
-        * [pypi, pipenv, virtual environment, requests library](#pypi-pipenv-virtual-environment-requests-library)
-    * [work with files](#work-with-files)
-        * [with](#with)
-        * [csv : comma-seperate values](#csv--comma-seperate-values)
-        * [json](#json)
-* [comeback do portfolio project later](#comeback-do-portfolio-project-later)
+- [python](#python)
+- [basics](#basics)
+    - [list](#basics#list)
+    - [variables & function](#basics#variables & function)
+        - [function scope](#basics#variables & function#function scope)
+- [class](#class)
+    - [property](#class#property)
+    - [method](#class#method)
+    - [object](#class#object)
+        - [attribute = class varibles + instance variables](#class#object#attribute = class varibles + instance variables)
+        - [add grade function](#class#object#add grade function)
+- [modules](#modules)
+    - [random , datetime](#modules#random , datetime)
+    - [matplotlib](#modules#matplotlib)
+    - [pypi, pipenv, virtual environment, requests library](#modules#pypi, pipenv, virtual environment, requests library)
+- [work with files](#work with files)
+    - [with](#work with files#with)
+    - [csv : comma-seperate values](#work with files#csv : comma-seperate values)
+    - [json](#work with files#json)
 
-<!-- vim-markdown-toc -->
-## basics
+# basics
 
-### list
+## list
 - list comprehension : create a new list based on an available list or range
 ```python
 list_comprehension = [i+1 for i in range(3)]
@@ -34,19 +32,19 @@ list_comprehension = [i+1 for i in range(3)]
 - `sorted` vs `.sort()`
 - `list[-2:]`
 
-### variables & function
+## variables & function
 - pass
-#### function scope
+### function scope
 - If a variable is defined inside of a function, it will not be accessible __outside__ of the function. 
 
-## class
+# class
 - instantiation
 
-### property
+## property
 - property is attribute
 - __but__ attribute is __not__ property
 
-### method
+## method
 - the first argument of a method : the instance of the object itself, we refer to it as _self_
 - Methods always have at least this one argument _self_
 ```python
@@ -73,8 +71,8 @@ teaching_table_area = circle.area(36 / 2)
 round_room_area = circle.area(11460 / 2)
 ```
 
-### object
-#### attribute = class varibles + instance variables
+## object
+### attribute = class varibles + instance variables
 - object : __attributes__ = class variables + instance variables
 - class : __property__
 - hasattr(object,"attribute") : has attributes
@@ -101,16 +99,17 @@ print(wikipedia.url)
 # prints "www.wikipedia.org"
 ```
 
-#### dir() : directory listing : list element of a tree-like structure
+### add grade function
+if type(grade) is Grade
 
-#### if type(grade) is Grade:
 ```python
 def add_grade(self, grade):
     if type(grade) is Grade:
       self.grades.append(grade)
 ```
 
-## [modules](https://docs.python.org/3/tutorial/modules.html)
+# modules
+- [modules](https://docs.python.org/3/tutorial/modules.html)
 - A module is a collection of Python declarations intended broadly to be used as a tool
 - Modules are also often referred to as “libraries” or “packages” — a package is really a directory that holds a collection of modules
 ```python
@@ -118,19 +117,19 @@ from module_name import object_name
 ```
 - a library will include a lot of code that you don’t need that may slow down your program or conflict with existing code
 - Because of this, it makes sense to only import what you need
-### random , datetime
+## random , datetime
 - `random.choice()` which takes a list as an argument and returns a number from the list
 - `random.randint()` which takes two numbers as arguments and generates a random number between the two numbers you passed in
 - strftime(),strptime()
 - 
 
-### matplotlib
+## matplotlib
 - `from matplotlib import pyplot as plt`, `plt.plot(num1,num2)`,`plt.show`
 - what is __plot__?
 - Using a package manager (like conda or pip3), you can install any modules available on the Python Package Index.
 
-### pypi, pipenv, virtual environment, requests library
-## work with files
+## pypi, pipenv, virtual environment, requests library
+# work with files
 - Learn Python: Files
 - you will learn :
     - __Open__ up file objects using open() and with.
@@ -141,7 +140,7 @@ from module_name import object_name
     - Apply all of the above to different types of data-carrying files including __CSV__ and __JSON__!
 You have all the skills necessary to __read__, __write__, and __update__ files programmatically, a very useful skill in the Python universe!
 
-### with
+## with
 - We’ve been opening these files with this with block so far, but it seems a little weird that we can only use our file variable in the indented block
 - Why is that? The `with` keyword invokes something called a __context manager__ for the file that we’re calling `open()` on
 - This __context manager__ takes care of opening the file when we call open() and then closing the file after we leave the indented block
@@ -160,7 +159,7 @@ fun_cities_file.write("Montréal")
 # But we need to remember to close the file
 fun_cities_file.close()
 ```
-### csv : comma-seperate values
+## csv : comma-seperate values
 - first row of the CSV file doesn’t represent any data, just the labels of the data that’s present in the rest of the file
 - we call all files with a list of different values a CSV file
 - then use different delimiters (like a comma or tab) to indicate where the different values start and stop
@@ -181,6 +180,6 @@ with open('logger.csv', 'w') as logger_csv:
   for line in access_log:
     log_writer.writerow(line)
 ```
-### json
+## json
 
-# comeback do portfolio project later
+comeback do portfolio project later

@@ -9,24 +9,24 @@ what is [binary file](binary file) ?
     - Proxying external repositories
     - and deployment of packaged binaries and JARs to share those artifacts with other developers and end-users
 
-<!-- vim-markdown-toc gfm -->
+## Contents
 
-* [what is a repository manager](#what-is-a-repository-manager)
-    * [management of software artifacts](#management-of-software-artifacts)
-    * [management of software metadata](#management-of-software-metadata)
-    * [proxying of external repositories](#proxying-of-external-repositories)
-    * [deployment to hosted repositories](#deployment-to-hosted-repositories)
-    * [searching an index of artifacts](#searching-an-index-of-artifacts)
-    * [infrastructure for artifact management](#infrastructure-for-artifact-management)
-* [enterprise repository management](#enterprise-repository-management)
-    * [managing project dependencies](#managing-project-dependencies)
-    * [managing a software release](#managing-a-software-release)
-    * [integration with ldap](#integration-with-ldap)
-    * [advanced security](#advanced-security)
-    * [settings templates](#settings-templates)
-    * [p2 repository support](#p2-repository-support)
+- [repository manager](#repository manager)
+    - [what is a repository manager](#repository manager#what is a repository manager)
+        - [management of software artifacts](#repository manager#what is a repository manager#management of software artifacts)
+        - [management of software metadata](#repository manager#what is a repository manager#management of software metadata)
+        - [proxying of external repositories](#repository manager#what is a repository manager#proxying of external repositories)
+        - [deployment to hosted repositories](#repository manager#what is a repository manager#deployment to hosted repositories)
+        - [searching an index of artifacts](#repository manager#what is a repository manager#searching an index of artifacts)
+        - [infrastructure for artifact management](#repository manager#what is a repository manager#infrastructure for artifact management)
+    - [enterprise repository management](#repository manager#enterprise repository management)
+        - [managing project dependencies](#repository manager#enterprise repository management#managing project dependencies)
+        - [managing a software release](#repository manager#enterprise repository management#managing a software release)
+        - [integration with ldap](#repository manager#enterprise repository management#integration with ldap)
+        - [advanced security](#repository manager#enterprise repository management#advanced security)
+        - [settings templates](#repository manager#enterprise repository management#settings templates)
+        - [p2 repository support](#repository manager#enterprise repository management#p2 repository support)
 
-<!-- vim-markdown-toc -->
 ## what is a repository manager
 > a __proxy__ for __remote repositories__ which caches __artifacts__ saving both bandwidth and time required to retrieve a __software artifact__ from a remote repository, and
 > a __host__ for internal __artifacts__ providing an organization with a deployment target for software __artifacts__

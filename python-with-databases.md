@@ -1,19 +1,20 @@
 # python with databases
-<!-- vim-markdown-toc GFM -->
 
-* [Python’s SQLite API](#pythons-sqlite-api)
-* [Connecting to SQLite in Python](#connecting-to-sqlite-in-python)
-* [Executing SQL Statements in Python](#executing-sql-statements-in-python)
-    * [Reading our SQL data with Python](#reading-our-sql-data-with-python)
-        * [for loop](#for-loop)
-        * [fetchone()](#fetchone)
-        * [fetchmany()](#fetchmany)
-        * [fetchall()](#fetchall)
-    * [other clauses](#other-clauses)
-* [SQlite with Pandas](#sqlite-with-pandas)
-* [Takeaways](#takeaways)
+## Contents
 
-<!-- vim-markdown-toc -->
+- [python with databases](#python with databases)
+    - [Python’s SQLite API](#python with databases#Python’s SQLite API)
+    - [Connecting to SQLite in Python](#python with databases#Connecting to SQLite in Python)
+    - [Executing SQL Statements in Python](#python with databases#Executing SQL Statements in Python)
+        - [Reading our SQL data with Python](#python with databases#Executing SQL Statements in Python#Reading our SQL data with Python)
+            - [for loop](#python with databases#Executing SQL Statements in Python#Reading our SQL data with Python#for loop)
+            - [fetchone()](#python with databases#Executing SQL Statements in Python#Reading our SQL data with Python#fetchone())
+            - [fetchmany()](#python with databases#Executing SQL Statements in Python#Reading our SQL data with Python#fetchmany())
+            - [fetchall()](#python with databases#Executing SQL Statements in Python#Reading our SQL data with Python#fetchall())
+        - [other clauses](#python with databases#Executing SQL Statements in Python#other clauses)
+    - [SQlite with Pandas](#python with databases#SQlite with Pandas)
+    - [Takeaways](#python with databases#Takeaways)
+
 ## Python’s SQLite API
 - With `DB-API 2.0`, we can __connect__ __Python to __RDBMS like PostgreSQL(psycopg2), MySQL(mysqlclient), Oracle(pyodbc), and SQLite__
 - `sqlite3` __module__ allows us to __create, read, update, and delete__ the data in our __SQLite relational databases__ within __Python script__

@@ -1,1 +1,0 @@
-# the digits regconition datasets

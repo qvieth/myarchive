@@ -3,7 +3,7 @@
 - linux depends on __packages__ that are administered through __software repositories__
 
 ## what is a packages
-- a package consists of a __collection__ of files that _perform a task_
+- a package consists of a __collection__ of files that perform a task
 - for example : GIMP distributes through a package
 - all the files that GIMP needs to run appear in a tidy __archive__
 - moreover, the package offers a small file that provides __important metadata__ about the program

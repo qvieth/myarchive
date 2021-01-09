@@ -1,26 +1,26 @@
 # web scraping 
 
-<!-- vim-markdown-toc GFM -->
+## Contents
 
-* [Introduction](#introduction)
-* [Rules of Scraping](#rules-of-scraping)
-* [Requests](#requests)
-* [The BeautifulSoup Object](#the-beautifulsoup-object)
-* [Object Types](#object-types)
-    * [Tags](#tags)
-    * [NavigableStrings](#navigablestrings)
-* [Navigating by Tags](#navigating-by-tags)
-* [Website Structure](#website-structure)
-* [Find All](#find-all)
-    * [Using Regex](#using-regex)
-    * [Using Lists](#using-lists)
-    * [Using Attributes](#using-attributes)
-    * [Using A Function](#using-a-function)
-* [Select for CSS Selectors](#select-for-css-selectors)
-* [Reading Text](#reading-text)
+- [web scraping](#web scraping)
+- [Introduction](#Introduction)
+- [Rules of Scraping](#Rules of Scraping)
+- [Requests](#Requests)
+- [The BeautifulSoup Object](#The BeautifulSoup Object)
+- [Object Types](#Object Types)
+    - [Tags](#Object Types#Tags)
+    - [NavigableStrings](#Object Types#NavigableStrings)
+- [Navigating by Tags](#Navigating by Tags)
+- [Website Structure](#Website Structure)
+- [Find All](#Find All)
+    - [Using Regex](#Find All#Using Regex)
+    - [Using Lists](#Find All#Using Lists)
+    - [Using Attributes](#Find All#Using Attributes)
+    - [Using A Function](#Find All#Using A Function)
+- [Select for CSS Selectors](#Select for CSS Selectors)
+- [Reading Text](#Reading Text)
 
-<!-- vim-markdown-toc -->
-## Introduction
+# Introduction
 - In Data Science, we can do a lot of exciting work with the right __dataset__
 - Once we have interesting data, we can use __Pandas__ or __Matplotlib__ to analyze or visualize trends
 - But how do we get that data in the first place?
@@ -34,7 +34,7 @@
 
 study pandas before comeback
 
-## Rules of Scraping
+# Rules of Scraping
 - When we scrape websites, we have to make sure we are following some guidelines so that we are treating the websites and their owners with respect
     - Always check a website’s Terms and Conditions before scraping
     - Read the statement on the legal use of data
@@ -44,7 +44,7 @@ study pandas before comeback
     - As a general rule of good practice, make one request to one webpage per second
     - If the layout of the website changes, you will have to change your scraping code to follow the new structure of the site
 
-## Requests
+# Requests
 - In order to get the HTML of the website, we need to make a request to get the content of the webpage
 - To learn more about requests in a general sense, you can check out this article
 - Python has a requests library that makes getting content really easy
@@ -65,7 +65,7 @@ webpage_response = requests.get('https://content.codecademy.com/courses/beautifu
 webpage = webpage_response.content
 print(webpage)
 ```
-## The BeautifulSoup Object
+# The BeautifulSoup Object
 - When we printed out all of that HTML from our request, it seemed pretty long and messy
 - How could we pull out the relevant information from that long string?
 - __BeautifulSoup__ is a Python library that makes it easy for us to traverse an HTML page and pull out the parts we’re interested in
@@ -100,9 +100,9 @@ soup = BeautifulSoup(webpage.content)
 - When we use __BeautifulSoup__ in combination with __pandas__
 - we can turn websites into DataFrames that are easy to manipulate and gain insights from
 
-## Object Types
+# Object Types
 - BeautifulSoup breaks the HTML page into several types of objects.
-### Tags
+## Tags
 - A Tag corresponds to an HTML Tag in the original document
 - These lines of code:
 ```python
@@ -125,7 +125,7 @@ print(soup.div.attrs)
 div
 {'id': 'example'}
 ```
-### NavigableStrings
+## NavigableStrings
 - NavigableStrings are the pieces of text that are in the HTML tags on the page
 - You can get the string inside of the tag by calling `.string`:
 ```python
@@ -134,7 +134,7 @@ print(soup.div.string)
 ```
 An example div
 ```
-## Navigating by Tags
+# Navigating by Tags
 - To navigate through a tree, we can call the tag names themselves
 - Imagine we have an HTML page that looks like this:
 ```html
@@ -194,13 +194,13 @@ for parent in soup.li.parents:
 - Then, it will print the tag that contains the `body` tag (so, the `html` tag of the document)
 
 
-## Website Structure
+# Website Structure
 - When we’re telling our Python script what HTML tags to grab, we need to know the structure of the website and what we’re looking for
 - Many browsers, including Chrome, Firefox, and Safari, have Dev Tools that help you inspect a webpage and see what HTML elements it is composed of
 - First, learn how to use [DevTools](https://www.codecademy.com/articles/use-devtools)
 - Then, when you’re preparing to scrape a website, first inspect the HTML to see where the info you are looking for is located on the page.
 
-## Find All
+# Find All
 - If we want to find all of the occurrences of a tag, instead of just the first one, we can use `.find_all()`
 - This function can take in just the name of a tag and returns a list of all occurrences of that tag
 ```python
@@ -212,7 +212,7 @@ print(soup.find_all("h1"))
 - `.find_all()` is far more flexible than just accessing elements directly through the `soup` object
 - With `.find_all()`, we can use __regexes, attributes__, or even __functions__ to select HTML elements more intelligently.
 
-### Using Regex
+## Using Regex
 - What if we want every `<ol>` and every `<ul>` that the page contains?
 - We can select both of these types of elements with a regex in our `.find_all()`:
 ```python
@@ -225,12 +225,12 @@ soup.find_all(re.compile("[ou]l"))
 import re
 soup.find_all(re.compile("h[1-9]"))
 ```
-### Using Lists
+## Using Lists
 - We can also just specify all of the elements we want to find by supplying the function with a list of the tag names we are looking for:
 ```python
 soup.find_all(['h1', 'a', 'p'])
 ```
-### Using Attributes
+## Using Attributes
 - We can also try to match the elements with relevant attributes
 - We can pass a dictionary to the attrs parameter of find_all with the desired attributes of the elements we’re looking for
 - If we want to find all of the elements with the `"banner"` class, for example, we could use the command:
@@ -243,7 +243,7 @@ soup.find_all(attrs={'class':'banner'})
 soup.find_all(attrs={'class':'banner', 'id':'jumbotron'})
 ```
 
-### Using A Function
+## Using A Function
 - If our selection starts to get really complicated, we can separate out all of the logic that we’re using to choose a tag into its own function
 - Then, we can pass that function into `.find_all()`!
 ```python
@@ -265,7 +265,7 @@ soup.find_all(has_banner_class_and_hello_world)
 <div class="banner">What's up, world!</div>
 ```
 
-## Select for CSS Selectors
+# Select for CSS Selectors
 - Another way to capture your desired elements with the `soup` object is to use CSS selectors
 - The `.select()` method will take in all of the CSS selectors you normally use in a `.css` file!
 ```css
@@ -294,7 +294,7 @@ for link in soup.select(".recipeLink > a"):
     - first make soup out of `<a href="spaghetti.html">Funfetti Spaghetti</a>`
     - then `<a href="lasagna.html">Lasagna de Funfetti</a>`, and so on
 
-## Reading Text
+# Reading Text
 - When we use BeautifulSoup to select HTML elements, we often want to grab the text inside of the element, so that we can analyze it
 - We can use `.get_text()` to retrieve the text inside of whatever tag we want to call it on
 ```html

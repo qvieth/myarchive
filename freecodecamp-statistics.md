@@ -2,38 +2,35 @@
 - https://www.youtube.com/watch?v=xxpc-HPKN28
 - https://brownmath.com/swt/symbol.htm
 
-<!-- vim-markdown-toc GFM -->
+## Contents
 
-* [Chapter 1.1 : What is statistics](#chapter-11--what-is-statistics)
-* [Chapter 1.2 : Sampling](#chapter-12--sampling)
-* [Chapter 1.3 : Introduction to experimental design](#chapter-13--introduction-to-experimental-design)
-* [Chapter 1.4 : Avoiding bias in survey design (important)](#chapter-14--avoiding-bias-in-survey-design-important)
-* [Chapter 1.5 : Topics in Randomization](#chapter-15--topics-in-randomization)
-* [Chapter 2.1 : Frequency histograms and distribution](#chapter-21--frequency-histograms-and-distribution)
-* [Chapter 2.2 : Other graphs](#chapter-22--other-graphs)
-* [Chapter 3.1 : Measures of Central Tendency](#chapter-31--measures-of-central-tendency)
-* [Chapter 3.2 : Measures of Variation](#chapter-32--measures-of-variation)
-    * [Chebyshev Theorem](#chebyshev-theorem)
-* [Chapter 3.3 : Percentiles and Box-and-Whisker Plots](#chapter-33--percentiles-and-box-and-whisker-plots)
-* [Chapter 4.1 : Scatter Plots and Linear Correlation](#chapter-41--scatter-plots-and-linear-correlation)
-    * [correlation coefficient r](#correlation-coefficient-r)
-    * [Lurking variables and 'correlation is not causation'](#lurking-variables-and-correlation-is-not-causation)
-    * [conclusion](#conclusion)
-* [Chapter 4.2 : Linear Regression and the Coefficient of Determination](#chapter-42--linear-regression-and-the-coefficient-of-determination)
-    * [Least-squares criterion](#least-squares-criterion)
-    * [coefficient of determination : get out of the r](#coefficient-of-determination--get-out-of-the-r)
-    * [summary](#summary)
-    * [Chapter 7.1 : normal distribution & empirical rule](#chapter-71--normal-distribution--empirical-rule)
-    * [empirical rule](#empirical-rule)
-* [Chapter 7.2 & 7.3 : Z-scores & Probabilities](#chapter-72--73--z-scores--probabilities)
-* [Chapter 7.4 & 7.5 : Sampling distributions and the central limit theorem](#chapter-74--75--sampling-distributions-and-the-central-limit-theorem)
-    * [types of inferences :](#types-of-inferences-)
-    * [frequency vs sampling distribution](#frequency-vs-sampling-distribution)
-    * [central limit theorem](#central-limit-theorem)
-
-<!-- vim-markdown-toc -->
-
-- Notion of statistics and parameters
+- [freecodecamp statistics](#freecodecamp statistics)
+- [Chapter 1.1 : What is statistics](#Chapter 1.1 : What is statistics)
+- [Chapter 1.2 : Sampling](#Chapter 1.2 : Sampling)
+- [Chapter 1.3 : Introduction to experimental design](#Chapter 1.3 : Introduction to experimental design)
+- [Chapter 1.4 : Avoiding bias in survey design (important)](#Chapter 1.4 : Avoiding bias in survey design (important))
+- [Chapter 1.5 : Topics in Randomization](#Chapter 1.5 : Topics in Randomization)
+- [Chapter 2.1 : Frequency histograms and distribution](#Chapter 2.1 : Frequency histograms and distribution)
+- [Chapter 2.2 : Other graphs](#Chapter 2.2 : Other graphs)
+- [Chapter 3.1 : Measures of Central Tendency](#Chapter 3.1 : Measures of Central Tendency)
+- [Chapter 3.2 : Measures of Variation](#Chapter 3.2 : Measures of Variation)
+    - [Chebyshev Theorem](#Chapter 3.2 : Measures of Variation#Chebyshev Theorem)
+- [Chapter 3.3 : Percentiles and Box-and-Whisker Plots](#Chapter 3.3 : Percentiles and Box-and-Whisker Plots)
+- [Chapter 4.1 : Scatter Plots and Linear Correlation](#Chapter 4.1 : Scatter Plots and Linear Correlation)
+    - [correlation coefficient r](#Chapter 4.1 : Scatter Plots and Linear Correlation#correlation coefficient r)
+    - [Lurking variables and 'correlation is not causation'](#Chapter 4.1 : Scatter Plots and Linear Correlation#Lurking variables and 'correlation is not causation')
+    - [conclusion](#Chapter 4.1 : Scatter Plots and Linear Correlation#conclusion)
+- [Chapter 4.2 : Linear Regression and the Coefficient of Determination](#Chapter 4.2 : Linear Regression and the Coefficient of Determination)
+    - [Least-squares criterion](#Chapter 4.2 : Linear Regression and the Coefficient of Determination#Least-squares criterion)
+    - [coefficient of determination : get out of the r](#Chapter 4.2 : Linear Regression and the Coefficient of Determination#coefficient of determination : get out of the r)
+    - [summary](#Chapter 4.2 : Linear Regression and the Coefficient of Determination#summary)
+    - [Chapter 7.1 : normal distribution & empirical rule](#Chapter 4.2 : Linear Regression and the Coefficient of Determination#Chapter 7.1 : normal distribution & empirical rule)
+    - [empirical rule](#Chapter 4.2 : Linear Regression and the Coefficient of Determination#empirical rule)
+- [Chapter 7.2 & 7.3 : Z-scores & Probabilities](#Chapter 7.2 & 7.3 : Z-scores & Probabilities)
+- [Chapter 7.4 & 7.5 : Sampling distributions and the central limit theorem](#Chapter 7.4 & 7.5 : Sampling distributions and the central limit theorem)
+    - [types of inferences :](#Chapter 7.4 & 7.5 : Sampling distributions and the central limit theorem#types of inferences :)
+    - [frequency vs sampling distribution](#Chapter 7.4 & 7.5 : Sampling distributions and the central limit theorem#frequency vs sampling distribution)
+    - [central limit theorem](#Chapter 7.4 & 7.5 : Sampling distributions and the central limit theorem#central limit theorem)
 
 | measure            | statistic | parameter     |
 |--------------------|-----------|---------------|
@@ -42,14 +39,14 @@
 | standard deviation | s         | sigma         |
 | propotion          | p-hat     | p             |
 
-## Chapter 1.1 : What is statistics
+# Chapter 1.1 : What is statistics
 - population(people or objects) parameters vs sample statistics
 - individual vs variables
 - classifying variable (levels of measurement):
     1. quantitative : interval + ratio
     2. category : norminal(can't be ordered) + ordinal(can be ordered)
 - describing vs inferring statistics
-## Chapter 1.2 : Sampling 
+# Chapter 1.2 : Sampling
 - 34:27
 - at the end of this lecture, the student should be able to :
     - define '__sampling frame__' and '__sampling error__'
@@ -80,7 +77,7 @@
 - __sample error__ vs __non-sample error__
 - data datum, strata stratum
 
-## Chapter 1.3 : Introduction to experimental design
+# Chapter 1.3 : Introduction to experimental design
 - 1:21:33
 - at the end of this lecture, the student should be able to :
     - state the steps of conducting a __statistical study__
@@ -104,7 +101,7 @@
 - eperiment vs observational study
 - replication : studies must be done rigorously enough to be replicated
 
-## Chapter 1.4 : Avoiding bias in survey design (important)
+# Chapter 1.4 : Avoiding bias in survey design (important)
 - surveys can provide a lot of useful information
 - however, it is important that all aspects of survey design and administration __minimize__ 'bias'
 - several considerations should be made
@@ -132,10 +129,10 @@
 - instead of asking if a person have waited 'a long time' in the waiting room, ask the number of minutes
 6 lurking variables (can cause confounding)
 
-## Chapter 1.5 : Topics in Randomization
+# Chapter 1.5 : Topics in Randomization
 - randomize: help distributing lurking variables evenly 
 
-## Chapter 2.1 : Frequency histograms and distribution
+# Chapter 2.1 : Frequency histograms and distribution
 - histogram vs reletive frequency histogram
 - 5 main types of distributions
 1. normal distribution (symetric)
@@ -148,7 +145,7 @@
 - the purpose of histogram and stem-leaf plot is to reveal the distribution
 - knowing the distribution is important in statistics
 
-## Chapter 2.2 : Other graphs
+# Chapter 2.2 : Other graphs
 - at the end of this lecture, the student should be able to:
     - describe a case in which a __time-series graph__ would be appropriate
     - explain the difference between what would be graphed on a __bar__ vs a __time-series__ graph
@@ -166,7 +163,7 @@
         - no need to count
         - quicker than frequency table to do
 
-## Chapter 3.1 : Measures of Central Tendency
+# Chapter 3.1 : Measures of Central Tendency
 - At the end of this lecture, the student should be able to:
     - Explain how to calculate the mean
     - Describe what a mode is and say how many modes a dataset can have
@@ -175,11 +172,11 @@
 - what is Central Tendency things : mean median mode
 - __sigma__ (sum of) is used a lot in statistics 
 
-## Chapter 3.2 : Measures of Variation
+# Chapter 3.2 : Measures of Variation
 - __coefficient__ of variation
 - coefficient is use for comparison
 - s
-### Chebyshev Theorem
+## Chebyshev Theorem
 - 1 - 1/(k**2) = % of data between x-bar minus k and x-bar plus k
 - take-home message on chebyshev interval :
     - it works for any distribution(normal, skewed, etc)
@@ -190,7 +187,7 @@
         - in statistics, we often use the s o 6 and add/subtract it from the mean
         - because it is a good way to make lower and upper limits that have special significance
 
-## Chapter 3.3 : Percentiles and Box-and-Whisker Plots
+# Chapter 3.3 : Percentiles and Box-and-Whisker Plots
 - at the end of this lecture, the student should be able to :
     - explain what a percentile means
     - describe what the 'interquartile range' is and how to calculate it
@@ -226,7 +223,7 @@
     - another way to look at distribution
     - also can see spread of data
 
-## Chapter 4.1 : Scatter Plots and Linear Correlation
+# Chapter 4.1 : Scatter Plots and Linear Correlation
 - linear correlation :
     - direction : positive, negative, no correlation
     - strength : strong, moderate, weak
@@ -235,7 +232,7 @@
 - an outlier can also change the correlation from __strong and moderate to weak__
 - it's good to look at a scatterplot to make sure you identify outliers
 
-### correlation coefficient r
+## correlation coefficient r
 - putting a number on correlation
 - a numerical quantification of how correlated a set of x,y pairs are
 - calculated from plugging x,y pairs into an equation
@@ -253,7 +250,7 @@
     - negative r means as x goes up, y goes down, as x goes down, y goes up
     - even if you switched x and y on the axes, you'd get the same r
 
-### Lurking variables and 'correlation is not causation'
+## Lurking variables and 'correlation is not causation'
 - beware of lurking variables
 - selecting x and y is political - you are implying x could cause y
     - example : taller people are heavier so x=height and y=weight 
@@ -263,12 +260,12 @@
     - a genetic profile that leads to tallness and obesity could be a lurking variable in the relationship between height and weight 
 - examples => please don't ...ban ice cream just to bring down the murder rate, ...make us eat tons of onions just to increase the stock market
 
-### conclusion 
+## conclusion
 - when doing correlations, make scatterplots first to get an idea of strength, direction, and outliers
 - be careful when calculating r by hand
 - beware of lurking variables - __correlation__ is not necessarily __causation__
 
-## Chapter 4.2 : Linear Regression and the Coefficient of Determination
+# Chapter 4.2 : Linear Regression and the Coefficient of Determination
 - at the end of this lecture, the student should be able to:
     - explain what the 'least-squares line' is
     - identify and describe the components of the least-squares line equation
@@ -281,16 +278,16 @@
     - dealing with prediction using the least-squares line
     - coefficient of determination
 
-### Least-squares criterion
+## Least-squares criterion
 - residual : y minus y-hat
 - y-hat = ax - b
 - to evaluate if our least-squares line equation is should be used for interpretation, we use the coefficient of determination
 
-### coefficient of determination : get out of the r
+## coefficient of determination : get out of the r
 - also called r^2 : like CV, we turn it into a %
 - 100% - CD = unexplained variation
 
-### summary
+## summary
 - we started with quantitative x,y pairs
 - we made a scatterplot to look at the linear relationship between x and y, and look at outliers
 - we calculated r to see if our correlation was positive or negative, and weak, moderate or strong
@@ -305,13 +302,13 @@
 - reviewing issues with prediction using the least-squares line
 - coefficient of determination
 
-### Chapter 7.1 : normal distribution & empirical rule
+## Chapter 7.1 : normal distribution & empirical rule
 - at the end of this lecture, the student should be able to :
     - state two properties of the normal curve
     - state two differences between Chebyshev Intervals and the Empirical Rule
     - explain how to apply the Empirical Rule to a normal distribution
 
-### empirical rule
+## empirical rule
 - remember chebyshev?
     - intervals have boundaries, or limits : lower limit and upper limit
 - chebyshev vs empirical rule :
@@ -326,7 +323,7 @@
     - these intervals have a certain percentage of the data points in them
     - these intervals depend on the __mean__ and __standard deviation__ of the data distribution
 
-## Chapter 7.2 & 7.3 : Z-scores & Probabilities
+# Chapter 7.2 & 7.3 : Z-scores & Probabilities
 - at the end of this lecture, the student should be able to :
     - explain how to convert an x to a z-score
     - show how to look up a z-score in a z-table
@@ -350,7 +347,7 @@
     4. what if the question asks for x : use the x formula
     5. what if a question give you a p : dig around in the table to find the p to map back to z, then use x formula
 
-## Chapter 7.4 & 7.5 : Sampling distributions and the central limit theorem
+# Chapter 7.4 & 7.5 : Sampling distributions and the central limit theorem
 - at the end of this lecture, the student should be able to :
     - state the statistical notation for parameters and statistics for two measures of variation
     - name one type of __inference__ and describe it
@@ -370,14 +367,14 @@
 | standard deviation | s         | sigma         |
 | propotion          | p-hat     | p             |
 
-### types of inferences :
+## types of inferences :
 - inferences is something you do in statistics
 1. estimation : we estimate the value of a population parameter using a sample
 2. testing : we do a test to help us make a decision about a population parameter
 3. regression : we make predicitons or forecasts about a statistics
 - requres understanding sampling distributions and the central limit theorem
 
-### frequency vs sampling distribution
+## frequency vs sampling distribution
 - frequency distribution :
     1. make a histogram of a quantitative variable
     2. draw the shape and name the distribution
@@ -392,7 +389,7 @@
         - of a __sample statistic__ based on
             - all possible __simple random samples__ of the __same size__ from the __same population__
 
-### central limit theorem
+## central limit theorem
 - for any normal distribution :
     1. the sampling distribution (the distributions of x-bars from all possible samples) is also a normal distribution
     2. the mean of the x-bars is actually mu

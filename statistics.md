@@ -1,4 +1,4 @@
-[#](#) statistics
+# statistics
 - https://brownmath.com/swt/symbol.htm
 - statistics is about making sense of data, and figuring out how to put that information to use
 

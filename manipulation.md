@@ -1,20 +1,20 @@
 # manipulation
 
-<!-- vim-markdown-toc GFM -->
+## Contents
 
-* [introduction to sql](#introduction-to-sql)
-* [relational database](#relational-database)
-* [statement](#statement)
-    * [create](#create)
-    * [Insert](#insert)
-    * [Select](#select)
-    * [Alter](#alter)
-    * [Update](#update)
-    * [Delete](#delete)
-* [Constraints](#constraints)
+- [manipulation](#manipulation)
+- [introduction to sql](#introduction to sql)
+- [relational database](#relational database)
+- [statement](#statement)
+    - [create](#statement#create)
+    - [Insert](#statement#Insert)
+    - [Select](#statement#Select)
+    - [Alter](#statement#Alter)
+    - [Update](#statement#Update)
+    - [Delete](#statement#Delete)
+- [Constraints](#Constraints)
 
-<!-- vim-markdown-toc -->
-## introduction to sql
+# introduction to sql
 - SQL, __Structured__ Query Language, is a __programming language__ designed to __manage data stored in relational databases__
 - SQL operates through __simple, declarative statements__
 - This keeps data accurate and secure, and helps __maintain the integrity of databases, regardless of size__
@@ -24,7 +24,7 @@
 - The statements covered in this course use __SQLite__ Relational Database Management System (RDBMS)
 - You can also access a glossary of all the SQL commands taught in this course
 
-## relational database
+# relational database
 - A __relational database__ is a database that organizes information into one or more tables
 - All data stored in a __relational database__ is of a certain data type
 - Some of the most common data types are:
@@ -33,7 +33,7 @@
     - `DATE`, the date formatted as YYYY-MM-DD
     - `REAL`, a decimal value
 
-## statement
+# statement
 - The code below is a SQL statement
 - A statement is text that the database recognizes as a valid command
 - Statements always end in a semicolon `;` 
@@ -58,7 +58,7 @@ CREATE TABLE table_name (
 - A __statement__ can be written all on one line, or split up across multiple lines if it makes it easier to read
 - In this course, you will become familiar with the structure of common statements
 
-### create
+## create
 - `CREATE` statements allow us to create a new table in the database
 - You can use the `CREATE` statement anytime you want to create a new table from scratch
 - The statement below creates a new table named celebs 
@@ -73,7 +73,7 @@ CREATE TABLE celebs (
 2. `celebs` is the __name of the table__
 3. `(id INTEGER, name TEXT, age INTEGER)` is a list of __parameters__ defining each column, or attribute in the table and its data type
 
-### Insert
+## Insert
 - The `INSERT` statement inserts a new row into a table
 - You can use the `INSERT` statement when you want to add new records
 - The statement below enters a record for Justin Bieber into the celebs __table__
@@ -89,7 +89,7 @@ VALUES (1, 'Justin Bieber', 22);
 4. `VALUES` is a __clause__ that indicates the data being inserted
 5. `(1, 'Justin Bieber', 22)` is a __parameter__ identifying the values being inserted
 
-### Select
+## Select
 - `SELECT` statements are used to fetch data from a database
 - In the statement below, `SELECT` returns all data in the name column of the celebs table
 
@@ -112,7 +112,7 @@ SELECT * FROM celebs;
 
 `SELECT` statements always return a new table called the __result set__
 
-### Alter
+## Alter
 - The ALTER TABLE statement adds a new column to a table
 - You can use this command when you want to add columns to a table
 - The statement below adds a new column twitter_handle to the celebs table
@@ -126,7 +126,7 @@ ADD COLUMN twitter_handle TEXT;
 4. `NULL` is a special __value__ in SQL that represents __missing__ or __unknown__ data
     - Here, the rows that existed before the column was added have NULL (∅) values for twitter_handle.
 
-### Update
+## Update
 - The `UPDATE` statement edits a row in a table
 - You can use the `UPDATE` statement when you want to change existing records
 - The statement below updates the record with an `id` value of 4 to have the `twitter_handle` `@taylorswift13`
@@ -143,7 +143,7 @@ WHERE id = 4;
 4. `WHERE` is a clause that indicates which row(s) to update with the new column value
     - Here the row with a `4` in the `id` column is the row that will have the `twitter_handle` updated to `@taylorswift13`
 
-### Delete
+## Delete
 - The DELETE FROM statement deletes one or more rows from a table
 - You can use the statement when you want to delete existing records
 - The statement below deletes all records in the celeb table with no twitter_handle:
@@ -157,7 +157,7 @@ WHERE twitter_handle IS NULL;
     - Here we want to delete all of the rows where the `twitter_handle` column `IS NULL`
 5. `IS NULL` is a __condition__ in SQL that returns true when the value is `NULL` and false otherwise
 
-## Constraints
+# Constraints
 - __Constraints__ that add information about how a column can be used are invoked after specifying the data type for a column
 - They can be used to tell the database to reject inserted data that does not adhere to a certain __restriction__
 - The statement below sets __constraints__ on the `celebs` table

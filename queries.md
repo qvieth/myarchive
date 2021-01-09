@@ -1,27 +1,26 @@
 # queries
-
-<!-- vim-markdown-toc GFM -->
-
-* [Select : query clause](#select--query-clause)
-* [As : renames column or table](#as--renames-column-or-table)
-* [Distinct : return unique values](#distinct--return-unique-values)
-* [Where : filter results based on defined conditions](#where--filter-results-based-on-defined-conditions)
-* [special operators](#special-operators)
-    * [Like I : _](#like-i--)
-    * [Like II : %](#like-ii--)
-    * [Is Null / is not null](#is-null--is-not-null)
-    * [Between](#between)
-    * [And](#and)
-    * [Or](#or)
-* [Order By : sort the result](#order-by--sort-the-result)
-* [Limit : limit rows query will return](#limit--limit-rows-query-will-return)
-* [Case : create a case column](#case--create-a-case-column)
-
-<!-- vim-markdown-toc -->
 - One of the core purposes of the SQL language is to __retrieve information__ stored in a database
 - This is commonly referred to as __querying__
 - Queries allow us to communicate with the database by __asking questions__ and __returning a__ result set with data relevant to the question
 - Fun fact: IBM started out SQL as SEQUEL (Structured English QUEry Language) in the 1970’s to query databases
+
+## Contents
+
+- [queries](#queries)
+    - [Select : query clause](#queries#Select : query clause)
+    - [As : renames column or table](#queries#As : renames column or table)
+    - [Distinct : return unique values](#queries#Distinct : return unique values)
+    - [Where : filter results based on defined conditions](#queries#Where : filter results based on defined conditions)
+    - [special operators](#queries#special operators)
+        - [Like I : _](#queries#special operators#Like I : _)
+        - [Like II : %](#queries#special operators#Like II : %)
+        - [Is Null / is not null](#queries#special operators#Is Null / is not null)
+        - [Between](#queries#special operators#Between)
+        - [And](#queries#special operators#And)
+        - [Or](#queries#special operators#Or)
+    - [Order By : sort the result](#queries#Order By : sort the result)
+    - [Limit : limit rows query will return](#queries#Limit : limit rows query will return)
+    - [Case : create a case column](#queries#Case : create a case column)
 
 ## Select : query clause
 - Previously, we learned that `SELECT` is used every time you want to `query` data from a database and * means all columns

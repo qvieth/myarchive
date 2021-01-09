@@ -1,4 +1,5 @@
-# [reseach skill tutorial](https://subjectguides.esc.edu/researchskillstutorial/primary)
+# reserch skill
+- [reseach skill tutorial](https://subjectguides.esc.edu/researchskillstutorial/primary)
 
 - throughout your college career, many of your assignments will be written assignments
 - there are multiple types of academic writing assignments
@@ -18,8 +19,8 @@ Learning objectives :
 [... read more](https://subjectguides.esc.edu/researchskillstutorial/primary)
 
 
-[another link about research](https://ori.hhs.gov/module-1-introduction-what-research) : research is a process to __discover new knowledge__
-[documentattion styles](documentattion styles)
-google scholar
-EBSCO
-research platform
+- [another link about research](https://ori.hhs.gov/module-1-introduction-what-research) : research is a process to __discover new knowledge__
+- [documentattion styles](documentattion styles)
+- google scholar
+- EBSCO
+- research platform
