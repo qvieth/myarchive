@@ -1,4 +1,6 @@
 # statistics
+* [X] probability - distribution - the number 'one'
+* [X] heatmap for correlation
 - https://brownmath.com/swt/symbol.htm
 - statistics is about making sense of data, and figuring out how to put that information to use
 

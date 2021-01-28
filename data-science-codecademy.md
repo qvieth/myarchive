@@ -14,7 +14,7 @@ https://www.quora.com/How-can-I-become-a-data-scientist-1/answer/DataCamp-5?pa_s
 
 ## path description
 1. [data science foundation](data-science-foundation)
-4. [python](python)
+4. [python](python-codecademy)
 5. [Data Acquisition](Data Acquisition)
 6. [Data manipulation with Pandas](pandas)
 7. [Data Wrangling and Tidying](Data-Wrangling-and-Tidying)

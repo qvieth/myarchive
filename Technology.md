@@ -8,8 +8,6 @@
 * [crash course chemistry](crash-course-chemistry)
 * [crash course physics](crash-course-physics)
 * [crash course game](crash-course-game)
-* [crash course world history](crash-course-world-history)
-* [crash course big history](crash-course-big-history) : need chemistry, a bit of physics
 * [crash coure engineering](crash-cour-engineering)
 * [crash course AI](crash-course-AI)
 * [data science datacamp](data-science-datacamp)
@@ -27,4 +25,5 @@
 * https://unix.stackexchange.com/questions/325938/unauthorized-installations-in-dnf-after-entering-a-command-thats-not-found/ : sudo vs policykit, sudoers file, wheel group
 
 # unclassified
+* https://www.quora.com/Is-reinforcement-learning-considered-a-branch-of-semi-supervised-learning : great insight - noether's theorem
 * [ux/ui design principles](https://www.springboard.com/blog/ux-design-principles/)

@@ -1,65 +1,35 @@
 # My note
-# THIS NOTE IS CLOSED (READ ONLY)
+- what to do next day : learn math with programming 
+- Wed Jan 27 08:19:16 PM +07 2021
+## quick note
+* [ ] my principles :
+    1. [ ] 50% understanding : mermorizing + connecting
+    2. [ ] reverse classification system : categorization | abstraction - specification
+    3. [ ] how to navigate to the knowledge > knowledge
+    4. [ ] communicating : outcomes{goal{what |though, ideas, concept| you want to transfer to target}}
+    5. [ ] imagination : <= do this everywhere : read book like watching a video
+    6. [ ] epistemology : value of knowledge
+    7. [ ] no need to go fast with foundation knowledge 
+    8. [ ] i just realize how my brain react when i meet so many things new/diffcult/alreadyforgot
+8. [ ] usefel knowledge = **right** information acquisition * time spent
+- slope = rise/run = ds/dt = v
 ```
 howdoi how2 tldr curl
-SxH@256256-3Finger
+SxH@256256 3Finger
 ALWAYS WATCH YOUR BB - bias bitch
 ```
-## End goal
-* read book like watching a video
-* wiki-navigate-linkedlist-**readbook** | Thu Jan 14 03:38:27 PM +07 2021
-* google analytics
-* study literature - writing style,...
-* bias - systematic error
-* __writing styles, citation styles__
-* [o] When a technologically-minded person is asked to help a friend, family member, or colleague with a computer problem
-    * [X] most of the time it's less a matter of knowing the answer
-    * [X] as much as knowing how to quickly find an unknown answer
-    * [ ] => here's my take : everything should be balance : knowledge and how to search for knowledge
-* learn asynchronous communicating : email
-* learn lua for scripting with vim
-* [ ] DO THIS 1 THING : LEARN ABILITY TO __READ DOCS__, ALWAYS REMIND YOUR SELF HOW TO READ THE DOC EASIER AND LATER WHEN YOU COME BACK YOU KNOW HOW TO NAVIGATE TO THE NEEDED PART
-    * currently i think read doc don't need to be read official doc, navigate to whatever doc should be consider
-* think : where did the one teach you get the knowledge? of course it's from the docs, so only read docs
-* [ ] The reason for this is not everything in a book has the same level of important
-    * [ ] so it makes no sense to read them at a fixed gear
-    * [ ] That's what active reading is, and speed reading is active reading
-* [ ] crash course algebra 
 
-## tools
+## Reverse classification tree
+
 * [Mathematics](Mathematics)
 * [Ideology](Ideology)
 * [Technology](Technology)
+
+* [MYDOCS](MYDOCS)
 * [MYPROJECT](MYPROJECT)
+
 * [Elon Musk](Elon-Musk)
-* [hpbdMH](hpbdMH)
+* [hpbd](hpbdMH)
 
-## BEFORE YOU SLEEP, REMEMBER TO PUSH EVERYTHING TO GITHUB
-## I SHOULD MAKE A SCRIPT FOR THIS
-
-# Key ideas (useful but don't fully understand yet, don't know where to put/classify)
-* [X] you thought you understand but you're not, the abstraction trick you as you understand it but when dig deeper, it's not
-* [X] domain knowledge vs general knowledge?
-    * [X] in software engineer, domain knowledge is knowledge about the environment in which the target system operates 
-* [ ] [api vs sdk](https://nordicapis.com/what-is-the-difference-between-an-api-and-an-sdk/)
-* [ ] [linear programming](https://en.wikipedia.org/wiki/Linear_programming)
-* [ ] linear problems vs non-linear problem
-* [X] echo chamber
-* [X] probability - distribution - the number 'one'
-* [X] dunning - kruger effect : the more you know about something, the less you know about it => you must always be humble
-* [ ] [skills needed for data scientist](https://www.youtube.com/watch?v=em8nBc-zRaM)
-* [X] ETL : extract tranform load
-* [X] great insight :
-    * [X] When you are looking for a job in industry, you should not even mention LaTex on your CV
-    * [X] because it shows a big __lack of understanding of industry standards and productivity oriented procedures__
-* [X] learn pandoc + latex
-* [X] heatmap for correlation
-* [ ] dopamine : - relax - easy - more tolerance https://www.youtube.com/watch?v=9QiE-M1LrZk 
-* [X] halo effect
-* [ ] [10 cognitive bias](https://www.verywellmind.com/cognitive-biases-distort-thinking-2794763)
-* [X] features and target variables
-* [ ] [computational finance](https://en.wikipedia.org/wiki/Computational_finance)
-* [ ] [top 100 theorem](http://pirate.shu.edu/~kahlnath/Top100.html)
-* [ ] [Interactive Data Analysis](https://www.youtube.com/watch?v=hsfWtPH2kDg) : many insight for DS
-* [ ] data science hierarchy of needs, google auto ML https://www.youtube.com/watch?v=VQq8DwEJeoU
-
+## PUSH EVERYTHING TO GITHUB BEFORE SLEEPING - NEED CRONJOB
+* [Archive](archive)

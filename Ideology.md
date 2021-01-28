@@ -1,24 +1,22 @@
 # Ideology
 * [ ] [science](science) of ideas - belief - philosophy - epistemic
     * [ ] to develop a rational system of ideas to oppose the irrational impulses - group decisions
-
-
-## Contents
-
-- [Ideology](#Ideology)
-- [Toolbox](#Toolbox)
-- [Lessons](#Lessons)
-- [Self remind notes](#Self remind notes)
-
 # Toolbox
 * black box (remember) - reasoning (connecting) => 50% understanding
 * abstraction - reverse engineering
 * buy - sell, problem - solution
 
 # Lessons
+* [geography](geography)
+* [should knowledge be free](should-knowledge-be-free)
+* [how to become a straight A student](how-to-become-a-straight-A-student)
+* [imagination its not what you think its how you think](imagination-its-not-what-you-think-its-how-you-think)
+* [Art](Art)
+* [crash course world history](crash-course-world-history)
+* [crash course big history](crash-course-big-history) : need chemistry, a bit of physics
 * [PMBOK-projectmanagement](PM-simplified-PMIframework-fundamentals)
 * [[fake it til you make it]] : powerpose
-* [[how to stay calm when you know you'll be stressed|https://www.youtube.com/watch?v=8jPQjjsBbIc]] : => when stressed, put system in place, prepare for the moment
+* [how to stay calm when you know you'll be stressed](https://www.youtube.com/watch?v=8jPQjjsBbIc) : => when stressed, put system in place, prepare for the moment
 * [crash course philosophy](crash-course-philosophy)
 * [crash course economics](crash-course-economics)
 * [crash course business](crash-course-business)
@@ -30,6 +28,12 @@
 * [how to master emotions](https://www.youtube.com/watch?v=QGQQ7pJQqHk) : different viewpoint => different emotions
 
 # Self remind notes
+
+```important
+To prevent relapse
+you have to plan for what happens if you ever failed
+to control your behavior
+```
 * concise
 * control emotion
 * respect
