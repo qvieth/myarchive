@@ -5,8 +5,15 @@
 * black box (remember) - reasoning (connecting) => 50% understanding
 * abstraction - reverse engineering
 * buy - sell, problem - solution
+* tool for dealing with email things : grammarly, languagetool
+* Any company that provide technology solution they all have kind of training :
+    * microsoft training, wolfram U, mysql,...
+    * vsbenefits-wolfram
+    * business - solution
 
 # Lessons
+* [khan academy navigate your career](khan-academy-navigate-your-career)
+* [crash course linguistics](crash-course-linguistics)
 * [geography](geography)
 * [should knowledge be free](should-knowledge-be-free)
 * [how to become a straight A student](how-to-become-a-straight-A-student)

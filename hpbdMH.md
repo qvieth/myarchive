@@ -1,2 +1,4 @@
 - gui minh hang thuyen truong, vua dau bep, cao thu bong ro, hinh nhu con gi nua ma quen roi
 - 
+- i did my best, please don't burn this
+- her, her dog, fish, mouse

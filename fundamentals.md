@@ -20,3 +20,9 @@
 
 # web framwork
 * [Django](Django)
+
+* If you are a programmer, learning a new language is just a matter of 3 hours.
+Step 1: learn what that language can do.
+Step 2: explore the best way to write a program in that language.
+Step 3: Figure out how to debug and deploy that program
+Now, start writing your own program. Keep googling

@@ -3,8 +3,14 @@
 # end goal
 * organize this mess of idea | Sat Jan  9 12:56:37 PM +07 2021
 * [fundamentals](fundamentals)
+# note
+
+- theory of computation
+
 
 # data scientist career
+* [standford automata theory cs154](standford-automata-theory-cs154)
+* [Top 6 Python Libraries for Visualization Which one to Use?](Top-6-Python-Libraries-for-Visualization-Which-one-to-Use)
 * [crash course chemistry](crash-course-chemistry)
 * [crash course physics](crash-course-physics)
 * [crash course game](crash-course-game)
@@ -25,5 +31,6 @@
 * https://unix.stackexchange.com/questions/325938/unauthorized-installations-in-dnf-after-entering-a-command-thats-not-found/ : sudo vs policykit, sudoers file, wheel group
 
 # unclassified
+* [bigO complexity charts](https://www.bigocheatsheet.com/)
 * https://www.quora.com/Is-reinforcement-learning-considered-a-branch-of-semi-supervised-learning : great insight - noether's theorem
 * [ux/ui design principles](https://www.springboard.com/blog/ux-design-principles/)

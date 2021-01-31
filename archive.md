@@ -1,4 +1,5 @@
 # archive
+- what to do next day : learn math with programming 
 * [X] you thought you understand but you're not, the abstraction trick you as you understand it but when dig deeper, it's not
 * [X] domain knowledge vs general knowledge?
     * [X] in software engineer, domain knowledge is knowledge about the environment in which the target system operates 
