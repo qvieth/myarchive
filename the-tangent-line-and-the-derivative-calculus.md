@@ -1,0 +1,16 @@
+# the tangent line and the derivative calculus
+- line that touch circle :
+    - at 1 point : tangent line
+    - 2 points : secant line
+- tangentline : it's the line that is most similar to the curve at the point A
+    - means that when you zoom those lines out they are so similar
+- derivative = slope of tangent line
+- **8:21 as P -> A, secant -> tangent, m=\frac{\delta y}{\delta x} -> derivative
+- there are several ways to write the derivative - but a common way is dy/dx
+    - secant lines : m=$\frac{\delta y}{\delta x}$ <- delta x delta y are numbers
+    - tangent lines : m = dy/dx <- dx, dy are differentials(infinitesimals)
+- point slope form :
+    - y-y_{1} = m(x-x_{1})
+- point : A = (x_{1},y_{1})
+- slope : m = \frac{dy}{dx}
+- the tangent line through a point A is the line that passes through A and whose slope is the derivative at A

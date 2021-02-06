@@ -1,0 +1,17 @@
+# 07 What is an Exponential Function Exponential Growth Decay Graphing
+- https://www.youtube.com/watch?v=_rKZHpfrAuY
+- exponential is so incredibly important
+- growth of money follows exponential growth
+- steepness depends on the base :
+    - always cross y = 1 at x = 0
+   - 0 < x < 1
+   - x = 1
+   - x > 1
+   - function note :
+       - you're not gonna get exponential function if :
+           - base is 0
+           - base is 1
+           - base is negative
+   - f(x) = x^2 , x**3 is polynomial (not exponential)
+   - f(x) = 6^x is exponential
+   - f(-2)^x : is just a valid function, it's just not a exponential function

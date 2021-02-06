@@ -12,6 +12,7 @@
     * business - solution
 
 # Lessons
+* [the counterintuitive way to be more persuasive](the-counterintuitive-way-to-be-more-persuasive)
 * [khan academy navigate your career](khan-academy-navigate-your-career)
 * [crash course linguistics](crash-course-linguistics)
 * [geography](geography)

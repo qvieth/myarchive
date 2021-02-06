@@ -1,6 +1,8 @@
 # My note
+- coursera - mathematical thinking - Sat Feb  6 10:04:17 PM +07 2021
 ## quick note
 * [ ] my principles :
+    0. [ ] mathematics is about REFRAMING THE PROBLEMS
     1. [ ] 50% understanding : mermorizing + connecting
     2. [ ] reverse classification system : categorization | abstraction - specification
     3. [ ] how to navigate to the knowledge > knowledge
@@ -10,6 +12,7 @@
     7. [ ] no need to go fast with foundation knowledge 
     8. [ ] i just realize how my brain react when i meet so many things new/diffcult/alreadyforgot
     9. [ ] for visualization(or anything) : code should be the last thing to be paid attention, focus on the process, ideas
+    10. [ ] search for trigon cheatsheet, ...
 - slope = rise/run = ds/dt = v
 - [X] theory of computation - comeback after done maths
 - numerical vs symbolic work - computing - model?

@@ -1,0 +1,11 @@
+# intro to the philosophy of mathematics
+- https://www.youtube.com/watch?v=bqGXdh6zb2k
+- analytical truth vs synthesis truth
+- priori
+- posteriori
+- analytic goes with priori
+- synthesis goes with posteriori
+- kant : mathematics is synthetic a priori
+- how can we know thing synthetic a priori
+- kant's critique of pure reason
+- transcendental idealism

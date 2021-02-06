@@ -1,0 +1,21 @@
+# introduction to geometry
+- https://www.youtube.com/watch?v=302eJ3TzJQU
+- line
+    - ray
+    - segment
+- angles
+    - acute
+    - right
+    - obtuse
+    - straight
+- midpoint
+- angle bisector
+- parallel lines : same slopes
+- perpendicular lines
+- complementary angles : angles that add up to 90 degrees
+- supplementary angles : angles that add up to 180 degrees
+- transitive property : congruent(equal)
+- vertical angles : 2 equal / symmetry angles
+- median : a line drawn from the vertex of a triangle to its midpoint
+- altitude : a line drawn from the vertex of a trinagle to form right triangels
+- perpendicular bisector : line that is perpendicular and bisector at the same time

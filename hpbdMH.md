@@ -1,4 +1,114 @@
+- this book looks a litte bit old, because i bought it a little bit ... while
+- remember the time you send me your letter, well... i wish i could tell you that yours is kinda lame... and somehow funny at the same time..
+- graph timeline of her life, fill with picture of her, on the last upcoming year, wish her happy life
+- yeah yeah, i know... for anyone, a boyfriend like me should be hang up
+- well, your appearing make everyone's the e^{ipi} + 1 = 0 moments
 - gui minh hang thuyen truong, vua dau bep, cao thu bong ro, hinh nhu con gi nua ma quen roi
-- 
+- her younger bigture, paste on the birthdaycard
+- birth day card : her, her dog, fish, mouse
+- a perfect metaphor for your ex-boyfriend - susana discretemath
+- [screenshot this link and glue them on the birthday card](https://www.google.com/search?client=firefox-b-d&q=what+to+write+in+happy+birthday+card)
+- https://dogparadise.vn/collections/vong-co-day-dan-cho-cho/products/vong-co-cho-meo-kieu-that-no-amigo
+- letters from your stalker ex, well... kinda creepy... i know
+- but don't worry, i'm just weird sometimes
 - i did my best, please don't burn this
-- her, her dog, fish, mouse
+- a book, a dog bell
+- hello ban nguyen minh hang..
+- nguyen minh hang - nguyen mun lai 
+- why didn't i call you this name, lol
+- toi khong biet ban co con ghet toi khong
+- nhung ma hi vong ban doc cai nay
+- se khong cam thay buc boi
+- it's your birthday
+- i don't think i should do this - yeah, but i did it anyway
+- lol
+- you may asked how did i come up with these style of writing
+- well, i tried writing you a letter
+- but writing a formal letter was so hard
+- so here you are
+- ..pieces of that letter one
+- stalking your insta was fun - well, not really...
+- felt like you throwing all your hating at me
+- or maybe you're not, it's just me halucinating
+- but anyway, glad your last birthday was happy
+- 
+- .. unlike the last last one
+- happy birthday!...
+- i'm not showing my english skills! it just i feel it will be less cringe
+- beside i don't have 8.0 or 9.0 ielts like you
+- so don't expect my writing can be as good as yours!
+- moreover i don't really like literature neither
+- for writing these, i must be very brave..., can you feel?
+- i'm thinking i will make like.. 293 pieces like this
+- or maybe 2931 ones
+- lemme try my best
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- i cheated 20
+- it's current the 43th line
+- Viet khong co viet cai dam nay trong 1 lan nen co lon xon thi cung de hieu ma pk
+- gui Nguyen Minh Hang, my ban cung lop - thuyen truong - cao thu bong ro - vua dau bep
+- khong hieu sao toi vua chia tay voi ban, lien co may ban khac vo tranh ban lien v
+- nghe don ban Minh Hang sap lam o tiki
+- chia tay cong ty thoi lam gi nho v, co ai o do ha
+- this one? i don't know, like the 100th one
+- i already felt regret, but what can i do
+- i wish you were there, nah... but i'm good now
+- if your friends are reading this, sends them my words :'f*ck you'
+- doc xong cai dong nay roi thi chon no het hay
+- viet bat dau cam thay cai y tuong viet nay no ngu ngu roi
+- kieu nhu a too lazy for writting letter
+- ma khong le viet toi day roi gio dung viet nua
+- neu Viet viet nhung cai nay som hon thi chac MH khong gian toi v ha
+- i think i should also write you a formal letter not something like these
+- but first let me consult the web how to do it..
+- neu ma bay gio quay lai luc viet voi hang chia tay ngay cai san sau do, cho ma viet hay cho minh hang ra cho di hoc do
+- viet van se chon khong tiep tuc quen nua
+- hang cung vay ma phai khong
+- du sao moi thu cung tot ca roi, dang le viet khong nen nhac lai nhi
+- o thoi diem do viet chi muon tranh Hang mot thoi gian, khong biet neu Viet noi thang ra la Viet can o yen 1 thoi gian thay vi khong noi gi ca thi moi chuyen co khac khong
+- ma viet noi may cai do chi v khong biet, du sao thi moi thu van tot dep nhi
+- i'm starting to become an emoboy lol
+- but you know, i'm writing these for you and me...
+- just to remind myself, can't let anything bad already happened happen in the future
+- i'll remember this, i promise
+- tu nhien viet nhung dong nay cai thay minh truong thanh ra
+- doc toi day chac chang cung cha hieu gi dau, viet kieu nay ai ma hieu noi
+- ma viet luu lai trong laptop roi, no la 1 cai buc thu hoan chinh chu khong co viet le te nhu the nay dau
+- viet khong biet noi xin loi la gi dau, day cung khong phai la 1 buc thu xin loi 
+- vo y chinh day, tui minh quay lai dc khong
+- some random fact : i gift you book so i can read it free
+- hope you and Rudy like my gift, lol, btw i miss that rudy boy
+- how's he
+- ..and you?
+- why i feel so scared to see people these days, especially you
+- i know you won't have time reading all of these
+- this is just arbitrary thoughts of mine
+- why i'm hoping you'll read all of these
+- Viet cuoi cung cung giu loi hua do roi do ,haha
+- nguyen minh hang oi, hoi minh hang cai nay dc khong
+- why you don't watch my story anymore?
+- you shouldn't ask me to keep the friendship at that time
+- do you feel regret now
+- Viet of the past write for Minh Hang of 29/03/2021
+- i won't lie to you anymore - this is line 100
+- in mathmetics, e^{ipi} + 1 = 0 is the most beautiful
+- immanuel kant :'if something is true mathematically, it's necessarily true'
