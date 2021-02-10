@@ -1,0 +1,2 @@
+# math vocab
+- [procedure](procedure)

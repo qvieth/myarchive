@@ -1,5 +1,6 @@
 # My note
 - coursera - mathematical thinking - Sat Feb  6 10:04:17 PM +07 2021
+- need to transcribe the firefox bookmark to nvim
 ## quick note
 * [ ] my principles :
     0. [ ] mathematics is about REFRAMING THE PROBLEMS
@@ -17,18 +18,22 @@
 - [X] theory of computation - comeback after done maths
 - numerical vs symbolic work - computing - model?
 - finish geometry, trigonometry then comeback to calculus, linear algebra, statistics, algorithms & data structure
+- 'do not ask whether a statement is true until you know what it means' - errett bishop
 ```
 howdoi how2 tldr curl
 SxH@256256 3Finger
 ```
 
 ## Reverse classification tree
+* [MYDOCS](MYDOCS) : IMPORTANT
+    * a pratical summary of many fields
+    * transform what you've studied
+    * for future use and put it here
 
 * [Mathematics](Mathematics)
 * [Ideology](Ideology)
 * [Technology](Technology)
 
-* [MYDOCS](MYDOCS)
 * [MYPROJECT](MYPROJECT)
 
 * [Stephen Wolfram](Stephen-Wolfram)

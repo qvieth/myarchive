@@ -11,6 +11,15 @@
     * vsbenefits-wolfram
     * business - solution
 
+* [craft.co top competitors - owler](https://www.owler.com/company/craft)
+    * wolfram alpha
+    * thomson reuters
+    * dun & bradstreet
+    * owler
+    * craft.co
+    * -> what kinds of company are these guys?
+    * -> so much insight
+
 # Lessons
 * [the counterintuitive way to be more persuasive](the-counterintuitive-way-to-be-more-persuasive)
 * [khan academy navigate your career](khan-academy-navigate-your-career)
@@ -50,6 +59,9 @@ to control your behavior
 * cooperative
 * problem-driven
 * Pay attention to your tone of voice, facial expression and gestures
+* do not show off, when communicating, listen, then ask question which is relevant for a specific purpose
+    * do not ask just for show off
+    * da banh - talked to huy ngo, repeat big O
 
 * [ ] __ALWAYS__, __ALWAYS__ ASK , WHAT IT MEANS TO __"LEARN BY YOURSELF"__? : oh my fucking god, i just answered this question!  Sat Dec 19 07:34:27 PM +07 2020
     * [ ] __First-principles__ thinking is one of the best ways to __reverse-engineer__ complicated problems and unleash creative possibility

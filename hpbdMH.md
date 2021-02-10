@@ -1,5 +1,10 @@
+- 2 years passed, it's your 3rd birthdays since that time..., 29/3, wow.. do you see the correlation between these numbers?... btw i'm i talking about is...
 - this book looks a litte bit old, because i bought it a little bit ... while
-- remember the time you send me your letter, well... i wish i could tell you that yours is kinda lame... and somehow funny at the same time..
+- that letter you send me at the time, it was kinda ...lame but funny at the same time..
+- here's mine, took so much time to think what to write, how to write,... you know..., i change from D5 class, which is a literature class to our class, just because literature or writing is not my kind of things, it's totally shit(actually there's many more reason than just literature but, yeah ..)
+- so... because i hate literature things, also don't have 8 or 9. ielts like you, don't expect these pieces of letters to be easy to be read
+- i just write... don't really care if you could read or not, there's even a chance you won't read it...
+- i call these 'pieces of letter' because, i tried wrting you a letter, but it would take forever, i could'nt do that, sorry, but, yes there's but, i'm genius , i came up with this idea of writing so i called them 'pieces of letter' so when i each time i suddenly has something to talk to you, i write it down, in the computer, later i encrypt it, then write it down, therefore you're holding this my masterpiece of work(actually it's my lazy way of talking to you)
 - graph timeline of her life, fill with picture of her, on the last upcoming year, wish her happy life
 - yeah yeah, i know... for anyone, a boyfriend like me should be hang up
 - well, your appearing make everyone's the e^{ipi} + 1 = 0 moments
@@ -112,3 +117,4 @@
 - i won't lie to you anymore - this is line 100
 - in mathmetics, e^{ipi} + 1 = 0 is the most beautiful
 - immanuel kant :'if something is true mathematically, it's necessarily true'
+- btw, cam on vi da chuc mung sn Viet, dung bat ngo haha, 25 thang 10 haha
