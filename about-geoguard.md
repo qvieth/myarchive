@@ -1,0 +1,33 @@
+# about geoguard
+- real-time security and analysis
+- solutions :
+- Whether you’re a
+    - streaming video broadcaster
+    - financial institution
+    - payments processor
+    - iGaming operator
+    - or someone involved in the digital assets industry
+- geolocation fraud can put your business at serious financial and regulatory risk
+- Accurate - reliable - and unaltered - geolocation data
+    - plays a critical role in establishing the true digital identity of your
+        - subscriber
+        - client
+        - or customer
+- Whether that’s to allow a
+    - video to stream
+    - a payment or merchant to be processed
+    - or a crypto-trade to happen
+- integrating geolocation data into your business processes is essential
+    - to evaluating risk
+    - as well as identifying
+    - and stopping fraudulent activity
+- GeoGuard offers a number of products to meet your particular needs
+    - from industry-leading VPN/DNS proxy detection
+    - to a full suite of geolocation compliance solutions for **regulated markets**, we are ready to help
+- GeoGuard’s solutions are third-party tested with leading standards and regulatory certification organizations and are “Hollywood Studio Approved”
+
+## our solutions
+- database
+- solus
+- true location api
+- idcomply

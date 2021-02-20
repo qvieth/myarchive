@@ -1,6 +1,7 @@
 # Discrete Mathematics with Applications Susanna S
 ## preface
 - the goal of this book is to lay the mathematical foundation for
+```
 - computer science courses such as
     - data structures
     - algorithms
@@ -15,7 +16,9 @@
     - logic
     - and set theory
     - and number theory
-- discrete mathematics describes processes that consist of a sequence of **individual** steps
+```
+- discrete mathematics describes processes
+    - that consist of a sequence of **individual** steps
 - contrast with calculus : which describes processes that change in a **continuous** fashion
 - The main themes of a first course in discrete mathematics are
     - logic and proof
@@ -61,3 +64,9 @@
     - and “if-then”
 - if a 1 , a 2 , a 3 , is a sequence of real numbers, saying that
     - the limit of an as n approaches infinity is L
+
+## comebacklater
+- graph theory
+- combinator = permutation * frac{1}{r!}
+- binomial coefficient
+- pascal's formular

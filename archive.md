@@ -1,4 +1,8 @@
 # archive
+```
+howdoi how2 tldr curl
+SxH@256256 3Finger
+```
 - what to do next day : learn math with programming 
 * [X] you thought you understand but you're not, the abstraction trick you as you understand it but when dig deeper, it's not
 * [X] domain knowledge vs general knowledge?

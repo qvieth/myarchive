@@ -1,0 +1,12 @@
+# radian angle
+- https://www.youtube.com/watch?v=Aqm8v0fJDzM
+- degrees came from history
+- radians is more fundamentals
+- radius = 1
+- circuference = 2 \pi radius
+- => C = 2 \pi cm
+- or C = 2\pi rad
+- NOTE : 360 **deg** = 2 \pi **rad**
+- convert degree to radian
+- think about how you add or subtract 360 degree to get a new angle
+- do the same to 2 \pi

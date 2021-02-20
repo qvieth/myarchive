@@ -28,3 +28,4 @@
     * math is about problem solving, reasoning, using intuition, and making connections
     * stereotype : math person, literature person, fuck that
     * for doing survey, you can't just ask people for giving their time do the survey, you have to give something, like a free course or lesson, then ask them back
+    * 

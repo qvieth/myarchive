@@ -1,4 +1,5 @@
 # introduction to mathematical thinking
+- https://www.coursera.org/learn/mathematical-thinking
 ```lecture3
 * think of implies as :
     - superset => subset

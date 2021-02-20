@@ -4,11 +4,16 @@
 * organize this mess of idea | Sat Jan  9 12:56:37 PM +07 2021
 * [fundamentals](fundamentals)
 # note
+[developer platform](developer-platform)
+[.NET](.NET)
 
 - theory of computation
 
 
 # data scientist career
+ 
+* [google merge sort and copy paste it](https://www.youtube.com/watch?v=X34ZmkeZDos) : **insight
+* [introduction to algorithms by cormen](introduction-to-algorithms-by-cormen)
 * [standford automata theory cs154](standford-automata-theory-cs154)
 * [Top 6 Python Libraries for Visualization Which one to Use?](Top-6-Python-Libraries-for-Visualization-Which-one-to-Use)
 * [crash course chemistry](crash-course-chemistry)
@@ -31,6 +36,7 @@
 * https://unix.stackexchange.com/questions/325938/unauthorized-installations-in-dnf-after-entering-a-command-thats-not-found/ : sudo vs policykit, sudoers file, wheel group
 
 # unclassified
+* [The 1 coding project idea guaranteed to get you a Software Development job](https://www.youtube.com/watch?v=oC483DTjRXU)
 * [bigO complexity charts](https://www.bigocheatsheet.com/)
 * https://www.quora.com/Is-reinforcement-learning-considered-a-branch-of-semi-supervised-learning : great insight - noether's theorem
 * [ux/ui design principles](https://www.springboard.com/blog/ux-design-principles/)
