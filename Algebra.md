@@ -1,5 +1,5 @@
 # Algebra
-- 
+
 - fundamental theorem of algebra
     - https://www.mathsisfun.com/algebra/fundamental-theorem-algebra.html
 - log_{6}216 : log base six of two hundred and sixteen
@@ -22,7 +22,7 @@
         - that anybody learns about linear algebra / matrices
     - which means you have 3 equations and 3 unknowns
     - or 6 equations and 6 unknowns
-- you learn in basic algebra how to solve those ystems :
+- you learn in basic algebra how to solve those systems :
     - you might use substitution
     - you might try to graph them and see where they intersect
     - or whatever, which is fine for small systems

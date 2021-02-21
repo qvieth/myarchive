@@ -22,7 +22,7 @@
     - -> if it is true, then it can be use for **solving problems**
 * **STUDY MATH FROM THE BIG IDEAS or FUNDAMENTAL THEOREM DOWN**
 * **numerically** vs geometrically
-    * focus on **numerically ideas** then reverse engineer down from the **numericallly ideas**
+    * focus on **numerically ideas** then reverse engineer down to the **numericallly ideas**
 * [fundamental theorems](https://blogs.sas.com/content/iml/2014/02/12/fundamental-theorems-of-mathematics-and-statistics.html)
 * [lists of theorems called fundamental](https://en.wikipedia.org/wiki/List_of_theorems_called_fundamental)
 - [reddit - ordered math list](https://www.reddit.com/r/learnmath/comments/5nk3ze/could_somebody_please_give_me_an_ordered_list_of/dcc8d1m/)
@@ -31,24 +31,24 @@
 - [Summation - arithmetic operations template](https://en.wikipedia.org/wiki/Summation)
 
 ## branches of mathematics :
-    * Pure mathematics
-        * [Arithmetic](Arithmetic)
-        * [Algebra](Algebra)
-        * [Geometry](Geometry)
-        * [Trigonometry](Trigonometry)
-        * [Calculus](Calculus) 
-        * Analysis 
-        * Number theory
-        * Logic
-        * Combinatorics
-        * Topology
-    * Applied Mathematics
-        * Dynamical systems and differential equations
-        * Mathematical physics
-        * Computation
-        * Information theory and signal processing
-        * [Probability](Probability) and [statistics](statistics)
-        * [Discrete Mathematics](Discrete-Mathematics)
+* [wp:start -> mathematics -> outlines](https://en.wikipedia.org/wiki/Wikipedia:Contents/Mathematics_and_logic)
+* Formal science
+    * mathematics
+        * [ ] [Foundations](Foundations)
+        * [ ] [Arithmetic](Arithmetic)
+        * [ ] [Algebra](Algebra)
+        * [ ] [Calculus](Calculus) / Analysis 
+        * [ ] Category theory
+        * [ ] [Discrete Mathematics](Discrete-Mathematics)
+            * Combinatorics
+        * [ ] [Geometry](Geometry)
+        * [ ] Topology
+        * [ ] [Trigonometry](Trigonometry)
+    * [ ] Logic
+    * [ ] Other mathemactical sciences
+        * [statistics](statistics)
+        * and [Probability](Probability)
+        * [theoretical computer science](theoretical-computer-science)
 
 ## books :
 * [precalculus james stewart](precalculus-james-stewart)

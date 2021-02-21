@@ -13,3 +13,7 @@ real number
 * properties : commutative, associative, distributive
 * laws of exponents : a^{-1} = frac{1}{a}
 * https://www.mathsisfun.com/algebra/negative-exponents.html
+
+## things to pay attention :
+- 
+- chapter 10 : focus on modeling : linear programming

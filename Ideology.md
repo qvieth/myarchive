@@ -32,7 +32,7 @@
 * [crash course world history](crash-course-world-history)
 * [crash course big history](crash-course-big-history) : need chemistry, a bit of physics
 * [PMBOK-projectmanagement](PM-simplified-PMIframework-fundamentals)
-* [[fake it til you make it]] : powerpose
+* fake it til you make it : powerpose
 * [how to stay calm when you know you'll be stressed](https://www.youtube.com/watch?v=8jPQjjsBbIc) : => when stressed, put system in place, prepare for the moment
 * [crash course philosophy](crash-course-philosophy)
 * [crash course economics](crash-course-economics)
@@ -68,4 +68,3 @@ to control your behavior
     * [ ] Reasoning by first principles removes the impurity of assumptions and conventions
     * [ ] element, base, basic, basis
     * [ ] https://www.valueinspiration.com/incremental-or-exponential-thinking-down-and-dirty-on-the-gamechanging-shift/ incremental vs exponential thinking
-    * [ ] there's no one size fit all

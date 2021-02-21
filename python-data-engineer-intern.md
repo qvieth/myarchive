@@ -1,4 +1,5 @@
 # python data engineer intern
+- https://geoguard.bamboohr.com/jobs/view.php?id=218
 - We are looking for a  Python Data Engineer, Intern  to join our Ho Chi Minh City team!
 - The Python Data Engineer contributes to GeoGuard's success by building and maintaining reporting tools, which assist our customers by staying up-to-date on the activity of their users on their software. This position contributes ideas to weekly team calls and ensures reports are accurate and of high quality. 
 - Our ideal candidate has relevant experience in database technologies with MySQL and NoSQL. You are able to interact daily with systems that are used in professional software development such as JIRA.  You are able to, and enjoy, working across multiple teams across locations, have good communication and interpersonal skills. You have proven your ability to work under tight timelines in your previous work experience and are highly organized and detail-oriented.
