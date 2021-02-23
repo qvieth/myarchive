@@ -22,7 +22,7 @@
     - -> if it is true, then it can be use for **solving problems**
 * **STUDY MATH FROM THE BIG IDEAS or FUNDAMENTAL THEOREM DOWN**
 * **numerically** vs geometrically
-    * focus on **numerically ideas** then reverse engineer down to the **numericallly ideas**
+    * focus on **conceptual/geometric ideas** then reverse engineer down to the **numerical formular**
 * [fundamental theorems](https://blogs.sas.com/content/iml/2014/02/12/fundamental-theorems-of-mathematics-and-statistics.html)
 * [lists of theorems called fundamental](https://en.wikipedia.org/wiki/List_of_theorems_called_fundamental)
 - [reddit - ordered math list](https://www.reddit.com/r/learnmath/comments/5nk3ze/could_somebody_please_give_me_an_ordered_list_of/dcc8d1m/)
