@@ -1,7 +1,7 @@
 # business analyst intern
 - https://geoguard.bamboohr.com/jobs/view.php?id=222
 - We are looking for a Business Data Analyst Intern to join our Ho Chi Minh City team!
-- The Business Data Analyst Intern contributes to GeoGuard’s success by developing reports for customers, providing them with intel regarding their users based on information and data gathered through the back office of our systems
+- The Business Data Analyst Intern contributes to GeoGuard’s success by **developing reports** for customers, providing them with intel regarding their users based on information and data gathered through the back office of our systems
 - This position reports to the Business Data Analyst Lead on a day-to-day basis
 
 ## Key responsibilities and accountabilities include (but not limited to):

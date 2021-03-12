@@ -8,3 +8,4 @@
 - [bound](https://www.mathsisfun.com/definitions/bounds.html)
 - [vector](vector)
 - finite-state-machine** : which math subject this word come from?
+- logistics function - sigmoid function

@@ -28,6 +28,8 @@
 * [should knowledge be free](should-knowledge-be-free)
 * [how to become a straight A student](how-to-become-a-straight-A-student)
 * [imagination its not what you think its how you think](imagination-its-not-what-you-think-its-how-you-think)
+    * stop label people or yourself
+    * this is hard -> no it's not
 * [Art](Art)
 * [crash course world history](crash-course-world-history)
 * [crash course big history](crash-course-big-history) : need chemistry, a bit of physics

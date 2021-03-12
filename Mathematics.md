@@ -9,6 +9,7 @@
     5. connect the unknown with the given
 ```
 ## big ideas, insights :
+- mathematics is about modeling (get this ideas from reading precalculus)
 - http://www.corestandards.org/Math/
 - **http://www.corestandards.org/other-resources/key-shifts-in-mathematics/
 - [Q: How can something be “proven” in science or math?](https://www.askamathematician.com/2017/08/q-how-can-something-be-proven-in-science-or-math/)
@@ -44,7 +45,7 @@
         * [ ] [Geometry](Geometry)
         * [ ] Topology
         * [ ] [Trigonometry](Trigonometry)
-    * [ ] Logic
+    * [ ] [Logic](Logic)
     * [ ] Other mathemactical sciences
         * [statistics](statistics)
         * and [Probability](Probability)
@@ -52,6 +53,9 @@
 
 ## books :
 * [precalculus james stewart](precalculus-james-stewart)
+* [a common sense guide to data structures and algorithms jay wengrow](a-common-sense-guide-to-data-structures-and-algorithms-jay-wengrow)
+* **[the algorithm design manual steven s skiena](the-algorithm-design-manual-steven-s-skiena)
+* ***[mathematics for machine learning](mathematics-for-machine-learning)
 
 ## course site :
     - [EDX](EDX)

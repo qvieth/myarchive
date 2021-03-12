@@ -1,4 +1,5 @@
 # math archive
+- https://www.quora.com/What-is-the-difference-between-studying-pre-calculus-and-studying-algebra-and-other-topics-like-trigonometry
 * -> search for FUNDAMENTAL THEOREM OF ... | BIG IDEAS OF ... | CHEATSHEET | CALCULATOR | NOTATION
 * new math :
     * visualization
