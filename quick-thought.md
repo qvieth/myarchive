@@ -35,6 +35,7 @@
     -   i use math for reasoning, for learning faster, making sense and remembering longer
 
 ## my CV
+- background : name, school my **GOAL** -> with that goal in mand, -> the plans -> what want to achieve along the way, mentor, people, more experience -> all in 3 years
 ```
 do CV in programming IDE styles
 ```

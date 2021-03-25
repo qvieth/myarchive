@@ -1,8 +1,44 @@
 # archive
+
+- tree | set
+- reverse engineering + studying from big ideas down
+- cv :
+    - .about me {
+    -     seeking an entry-level position in the field of information technology(IT), my objective is to be a leaderand influencer, to make sure that the project is fit to purpose and execution is being well optimized costand time wise and that the job is well done. to share my experience and know ledge with teammembersand to suggest any ideas contributing to the development of the project or the company's projectmanagement policies
+    - }
+    
+    - .techical expertise{
+    - python -data-science
+    - nodejs,ES6 /reactjs/html/css/bootstrap/sass
+    - reactjs, ant design
+    - mysql, sqlite
+    - linux,git,adobe,microsoft office
+    - scripting : bash
+    - markdown,latex
+    
+
+    - math
+    - project management
+    - reading
+    
+
+
+    - .competitions{
+    - hultprize vietnam 2017-2018 - 3rd place, represent vietnam to participate in shanghai
+    - }
+
+    - certificate  {
+    -     codecademy - pandas
+    - }
+- [ ] current goal : connecting math and programming concepts for interview preparing -> this goal suck
+```
+python -m venv my-project
+pip install -r requirements.txt
+```
 - https://scontent.fsgn5-6.fna.fbcdn.net/v/t1.0-9/154102135_291762139045407_75889222993735683_n.png?_nc_cat=109&ccb=3&_nc_sid=730e14&_nc_ohc=1oMgpE0GfRIAX_IsrZB&_nc_ht=scontent.fsgn5-6.fna&oh=3d4ad31b4ad1d5f185522567fa52c162&oe=605C1104
 ```
 howdoi how2 tldr curl
-SxH@256256 3Finger
+SxH@256256 3Finger buttercup
 ```
 - what to do next day : learn math with programming 
 * [X] you thought you understand but you're not, the abstraction trick you as you understand it but when dig deeper, it's not

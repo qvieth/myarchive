@@ -1,4 +1,7 @@
 # math archive
+- A formular :
+    -   whether it is truth (so that it can be used or not)?
+    -   if it is true, then it can be use for **solving problems**
 - https://www.quora.com/What-is-the-difference-between-studying-pre-calculus-and-studying-algebra-and-other-topics-like-trigonometry
 * -> search for FUNDAMENTAL THEOREM OF ... | BIG IDEAS OF ... | CHEATSHEET | CALCULATOR | NOTATION
 * new math :
