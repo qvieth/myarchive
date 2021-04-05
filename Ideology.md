@@ -26,6 +26,8 @@
 
 # Lessons
 
+-   [introduction to business analytics](introduction-to-business-analytics)
+-   [think fast talk smart communication techniques](think-fast-talk-smart-communication-techniques)
 -   [the counterintuitive way to be more persuasive](the-counterintuitive-way-to-be-more-persuasive)
 -   [khan academy navigate your career](khan-academy-navigate-your-career)
 -   [crash course linguistics](crash-course-linguistics)

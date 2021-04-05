@@ -1,6 +1,7 @@
 # Logic
 - https://en.wikipedia.org/wiki/Mathematical_logic
 - https://www.quora.com/What-should-one-do-to-study-mathematical-logic
+- https://en.wikipedia.org/wiki/Outline_of_logic
 
 - set theory
 - model theory

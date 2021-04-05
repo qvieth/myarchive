@@ -1,4 +1,8 @@
 # Mathematics
+- [ ] chieu thu 3 - MINDX - huy vu
+    - [ ] CS50 : learn the way the teacher explain
+    - [ ] show my english skill, use to present in another country
+    - [ ] [my lecture](my-lecture)
 
 ```Rome wasn't built in a day
  STRUCTURE : TOP - QUICK NOTE, MIDDLE - IMPORTANT NOTE, BOTTOM - ORGANIZED NOTE
@@ -48,28 +52,30 @@
 ## middle
 
 1.  [math vocab](math-vocab)
-2.  https://en.wikipedia.org/wiki/Logic#/media/File:Argument_terminology_used_in_logic_(en).svg
-3.  There are two aspects to mathematics - discovery and proof
-4.  For every k, if P1 k2 is true, then P1 k  12 is true
+2.  IMPORTANT : combination = permutation devided by `number of ways that you can arrange k people`
+3.  https://en.wikipedia.org/wiki/Logic#/media/File:Argument_terminology_used_in_logic_(en).svg
+4.  There are two aspects to mathematics - discovery and proof
+5.  For every k, if P1 k2 is true, then P1 k  12 is true
     -   mathematical induction - induction step - sequence chapter
-5.  mathematics is about modeling (get this ideas from reading precalculus)
-6.  http://www.corestandards.org/Math/ | http://www.corestandards.org/other-resources/key-shifts-in-mathematics/
-7.  MATH IS A LANGUAGE : => think about how you use dictionary to search words
-8.  **STUDY MATH FROM THE BIG IDEAS or FUNDAMENTAL THEOREM DOWN**
-9.  **numerically** vs geometrically
+6.  mathematics is about modeling (get this ideas from reading precalculus)
+7.  http://www.corestandards.org/Math/ | http://www.corestandards.org/other-resources/key-shifts-in-mathematics/
+8.  MATH IS A LANGUAGE : => think about how you use dictionary to search words
+9.  **STUDY MATH FROM THE BIG IDEAS or FUNDAMENTAL THEOREM DOWN**
+10.  **numerically** vs geometrically
     -   focus on **conceptual/geometric ideas** then reverse engineer down to the **numerical formular**
-10. [fundamental theorems](https://blogs.sas.com/content/iml/2014/02/12/fundamental-theorems-of-mathematics-and-statistics.html)
-11. [lists of theorems called fundamental](https://en.wikipedia.org/wiki/List_of_theorems_called_fundamental)
-12. [reddit - ordered math list](https://www.reddit.com/r/learnmath/comments/5nk3ze/could_somebody_please_give_me_an_ordered_list_of/dcc8d1m/)
-13. [Fields of Mathematics Mindmap](http://www.gogeometry.com/education/mathematics_fields_mind_map.html)
-14. [four big ideas in algebra](four-big-ideas-in-algebra)
-15. [Summation - arithmetic operations template](https://en.wikipedia.org/wiki/Summation)
-16. loop : thik of mathematical induction(sequences) with pre and post conditions
+11. [fundamental theorems](https://blogs.sas.com/content/iml/2014/02/12/fundamental-theorems-of-mathematics-and-statistics.html)
+12. [lists of theorems called fundamental](https://en.wikipedia.org/wiki/List_of_theorems_called_fundamental)
+13. [reddit - ordered math list](https://www.reddit.com/r/learnmath/comments/5nk3ze/could_somebody_please_give_me_an_ordered_list_of/dcc8d1m/)
+14. [Fields of Mathematics Mindmap](http://www.gogeometry.com/education/mathematics_fields_mind_map.html)
+15. [four big ideas in algebra](four-big-ideas-in-algebra)
+16. [Summation - arithmetic operations template](https://en.wikipedia.org/wiki/Summation)
+17. loop : thik of mathematical induction(sequences) with pre and post conditions
     1. a_n = frac{-1^n}{n+1} for every interger n \geq 0
     2. -> BIG IDEA : THINK OF THE FORMULA FIRST, NOT THE FOR FIRST
 
 ## bottom
 
+*   [glossary of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 -   branches of mathematics :
 -   [wp:start -> mathematics -> outlines](https://en.wikipedia.org/wiki/Wikipedia:Contents/Mathematics_and_logic)
 -   Formal science
@@ -86,8 +92,7 @@
         -   [ ] [Trigonometry](Trigonometry)
     -   [ ] [Logic](Logic)
     -   [ ] Other mathemactical sciences
-        -   [statistics](statistics)
-        -   and [Probability](Probability)
+        -   [statistics and probability](statistics and probabilities)
         -   [theoretical computer science](theoretical-computer-science)
 
 ### books :

@@ -4,6 +4,53 @@
 
 ## top
 
+-   [ ] [programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
+-   [ ] programming : types are object, functions are morphisms | a -> b -> b | arrow : f = a -> b, id_b = b -> b | id_b after f
+- [ ] composition of functions is associative
+-   Think of async/await as an **API for asynchronous programming**
+-   [Is it possible to append to innerHTML without destroying descendants' event listeners?](https://stackoverflow.com/questions/595808/is-it-possible-to-append-to-innerhtml-without-destroying-descendants-event-list)
+-   event loop: when A happens, do B
+-   async/await is the best way to express asynchronous I/O in combination with using an event loop
+-   7 primitive types of data : string, number, array, set, true, false, null
+-   loop : thik of mathematical induction(sequences) with pre and post conditions
+    -   a_n = frac{-1^n}{n+1} for every interger n \geq 0
+    -   -> BIG IDEA : THINK OF THE FORMULA FIRST, NOT THE FOR FIRST
+-   a third way to define a sequence is to use recursion, as was done in example 5.3.3, 5.4.2, 5.4.3
+-   Defining sequences recursively is similar to proving theorems by mathematical induction - discrete math book page 325
+-   Recursive Thinking : The process of solving large problems by breaking them down into smaller, simpler problems that have identical forms.
+-   https://www.youtube.com/watch?v=g-PaL3GKL6U : good video - think about what not how, post condition not recursive part
+
+-   CALLBACK FUNCTION AKA HANDLER FUNCTION
+
+-   JS promises
+-   callback, arrow functions - middleware function(1,2,next) vs route handler callback
+
+-   For sequential circuits one cannot predict the output corresponding to a particular input, unless one knows the state the circuit was in
+
+-   closure of a function : a variable act like arugment but cannot be passed as parameter
+-   A finite-state automaton A **consists of five objects**:
+
+    1. A finite **set** I, called the **input** alphabet, of input symbols
+    2. A finite **set** S of **states** the automaton can assume
+    3. A designated state s 0 called the **initial state**
+    4. A designated set of states called the set of **accepting states**
+    5. A next-state **function** N : S X I -> S that associates a “next-state” to each
+        - ordered pair consisting of a “current state” and a “current input”
+
+    -   https://www.youtube.com/watch?v=SuoDmiJ6zLQ : insight for finite state automata and regular expression
+    -   definition page 843
+
+    *   all regular expression can be represented as **state transition diagram**
+    *   https://people.cs.clemson.edu/~goddard/texts/theoryOfComputation/5.pdf
+
+    -   Each piece of input to a finite-state automaton leads to a change in the state of the automaton
+
+-   [10 tips tricks python - corey schafer](https://www.youtube.com/watch?v=C-gEQdGVXbk)
+-   [corey schafer pandas](corey-schafer-pandas)
+-   https://www.youtube.com/watch?v=Xcet6msf3eE : 10:23
+-   build a better spotify with react - wds : https://www.youtube.com/watch?v=Xcet6msf3eE
+-   https://www.youtube.com/watch?v=9CEW3Tmx2tg : must use websites & tools for web developers
+-   https://www.youtube.com/watch?v=xxpc-HPKN28 statistics freecodecamp
 -   node.js mvc | django mvt
 -   https://www.youtube.com/watch?v=8kDs8QkFI2Y : watch this
 -   https://www.youtube.com/watch?v=2bW3HuaAUcY : mysql in 10 minutes
@@ -398,7 +445,7 @@ The correct way to do this is to _.map(Files, ... ) into either a) functions wit
 The key idea here is to be able to treat "code i am going to run" as objects. _.map captures that semantics very well.
 ```
 
--   [o] [Better error handling with async/await ](https://dev.to/sobiodarlington/better-error-handling-with-async-await-2e5m)
+-   [o][better error handling with async/await ](https://dev.to/sobiodarlington/better-error-handling-with-async-await-2e5m)
     -   [ ] from callback hell to promises
     -   [x] The example below use promises to solve callback hell
         -   [x] by using multiple chained `.then` calls

@@ -25,6 +25,7 @@
 - there're 2 related but seperate meanings of the word __statistics__ 
     - __field of statistics__ : the study and practice of collecting and analyzing data
     - __statistics__ : facts about, or summaries of data
+- test the claim
 - statistics are __tools__ for us to use
 - but you're not measuring why people eat fast food everyday
 - you're measuring what we call a "proxy", something that is related to what we want to measure, but isn't __exactly__ what we want to measure

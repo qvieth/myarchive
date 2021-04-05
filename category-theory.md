@@ -29,3 +29,11 @@
 
 ## Category Theory 1.1: Motivation and Philosophy
 - https://www.youtube.com/watch?v=I8LbkfSSR58
+    - our tools for describing things : composition - abstraction - identity
+    - compostion and identity they just define category theory
+    - category is bunch of objects | objects just identify the end of arrow(functions) - they don't serve other purpose
+    * different composition table give you different categories
+    * objects and arrows don't have structure, they don't contain information, their composition contain information
+    - things are chopable
+    - sets and functions between sets
+    - think of the 2 square image and the arrows

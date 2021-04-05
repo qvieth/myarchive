@@ -1,5 +1,8 @@
 # MYDOCS
 
+```
+list comprehension = [expression + for iteration]
+```
 -   [cheatsheet](cheatsheet)
 -   [theoretical computer science cheat sheet](https://www.tug.org/texshowcase/cheat.pdf)
 -   [set theory cheatsheet](https://3.bp.blogspot.com/-Y8-5C4B-9qs/W_VMSJfFhrI/AAAAAAAACyE/onfwtg7zj74u03PTw36Pj_vWY6UkvH9DACLcBGAs/s1600/Set-Theory-min.png)
@@ -18,6 +21,7 @@
 
 *   [Summation - arithmetic operations template](https://en.wikipedia.org/wiki/Summation)
 *   [math is fun](math-is-fun)
+*   [glossary of mathematical symbols](https://en.wikipedia.org/wiki/Glossary_of_mathematical_symbols)
 
 ## web dev
 

@@ -6,6 +6,25 @@
 -   Sat Feb 13 01:21:48 PM +07 2021
 -   https://jobs.dxc.technology/ListJobs?DXC%20Location=Vietnam%20-%20Ho%20Chi%20Minh&fbclid=IwAR0_b1E3XNd4-rISZyxq0jVDf7O_5Zn1R8_vRNTBDkWUK-0q1DKCLyQbIAY
 
+-
+-   cover letter : 3 things : respect person's time
+
+Dear sir/madam
+I'm writing to inquire about the opening for Source Code Data Analyst (intern) position of your company.
+I offer 2 years of working experience. What make me a strong candidate for this position is my attitude of learning and working, my mathematical thinking skill.
+The first page of my resume highlights my career profile and three significant accomplishment that are also in alignment with this position.
+I'd welcome the opportunity to speak with you if you feel I'd be a strong candidate for this or any position in your organization. Thank you for your time.
+
+-   currently read the book Probability 1.3 naive probability
+-   those are good prepare for tiki
+
+    -   https://bidmath.com/careers/graduate-intern-programmatic-vietnam/
+    -   http://www.beetutor.com/tuyen-dung/hcm-cong-ty-cong-nghe-vng-corporation-tuyen-dung-thuc-tap-sinh-risk-analyst-funding-channel-risk-full-time-2021-60593f2cc89ae12365c8f3eb?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic
+    -   https://careerfoundry.com/en/blog/data-analytics/different-types-of-data-analysis/
+    -   https://www.investopedia.com/terms/s/statistics.asp
+
+-   https://tuyendung.tiki.vn/software-engineer-intern-retail-iq/
+
 # Geoguard
 
 -
