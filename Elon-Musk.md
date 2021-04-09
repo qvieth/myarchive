@@ -17,3 +17,4 @@
 
 - [ ] https://www.youtube.com/watch?v=q-g7BPdSmP4
 - [ ] https://www.youtube.com/watch?v=iuNJLtj10Lg
+- [ ] https://www.wired.co.uk/article/whats-driving-elon-musk : what's driving elon
