@@ -6,7 +6,7 @@
 
 -   [ ] [programming paradigm](https://en.wikipedia.org/wiki/Programming_paradigm)
 -   [ ] programming : types are object, functions are morphisms | a -> b -> b | arrow : f = a -> b, id_b = b -> b | id_b after f
-- [ ] composition of functions is associative
+-   [ ] composition of functions is associative
 -   Think of async/await as an **API for asynchronous programming**
 -   [Is it possible to append to innerHTML without destroying descendants' event listeners?](https://stackoverflow.com/questions/595808/is-it-possible-to-append-to-innerhtml-without-destroying-descendants-event-list)
 -   event loop: when A happens, do B
@@ -60,8 +60,9 @@
     -   object oriented programming : python
     -   declarative : SQL : concentrate on what result you want to obtain, not how your data can be obtain
     -   functional : JS
-    -   data definition - data manipulation - data control(grant,revoke) - transaction control(commit,rollback)
-    *   DD - DM - DC - TC
+    *   sql command types :
+        -   DD - DM - DC - TC
+        -   data definition - data manipulation - data control(grant,revoke) - transaction control(commit,rollback)
 -   https://www.youtube.com/watch?v=JT80XhYJdBw : python django 2 project in 8 hours
 
 -   https://en.wikibooks.org/wiki/Discrete_Mathematics/Recursion

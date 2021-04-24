@@ -9,11 +9,12 @@
 -
 -   cover letter : 3 things : respect person's time
 
-Dear sir/madam
-I'm writing to inquire about the opening for Source Code Data Analyst (intern) position of your company.
-I offer 2 years of working experience. What make me a strong candidate for this position is my attitude of learning and working, my mathematical thinking skill.
+
+Dear madam,
+I'm writing to inquire about the opening for BA Intern/Fresher position of your company. What make me a strong candidate for this position is my attitude of learning and working, my mathematical and analytical skills.
 The first page of my resume highlights my career profile and three significant accomplishment that are also in alignment with this position.
 I'd welcome the opportunity to speak with you if you feel I'd be a strong candidate for this or any position in your organization. Thank you for your time.
+Sincerely,
 
 -   currently read the book Probability 1.3 naive probability
 -   those are good prepare for tiki
