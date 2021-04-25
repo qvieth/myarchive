@@ -1,14 +1,41 @@
 # mynote
-- https://www.quora.com/How-does-one-go-about-becoming-a-business-analyst : must read before reading BABOK
-- https://www.quora.com/What-are-the-most-important-courses-to-be-a-good-business-analyst#!n=18 : second best after the previous link
-- 
-- analytics is about convincing (at scale)
-- operation : logistics and supply chain
+
+```
+this should be empty
+```
+
+-   search keyword : glossary and terms
+    -   https://www.workspace.co.uk/content-hub/entrepreneurs/glossary-of-business-terminology
+    -   https://www.batimes.com/business-analyst-glossary-and-terms.html
+    -   [145 keys BA concepts that you should know](https://medium.com/techcatch/145-key-business-analysis-concepts-that-you-should-know-e65d1736a964)
+-   approach = way of dealing with something
+-   At a minimum you should be familiar with Business Process Modeling and Requirements Management (including elicitation and gathering.) These are the core BA skills you will use almost anywhere you go
+-   changes-contexts , needs-solutions, stakeholders-values
+-   https://www.quora.com/How-does-one-go-about-becoming-a-business-analyst : must read before reading BABOK
+    -   understand how business do and what they do : APQC PCF
+        -   allows organizations to objectively track and compare
+            -   their performance internally and externally
+            -   with organizations from any industry
+            -   standardize and document processes
+            -   there's also industry's specific PCF
+            -   It also would be a good idea to read up basic books
+                -   on business strategy, marketing, finance, HR
+                -   and operations
+        -   https://www.youtube.com/watch?v=8FaEFSNcnHs : how organizations use PCF
+-   https://en.wikipedia.org/wiki/Zachman_Framework : zachman framework
+-   BMP : business management framework
+-   https://www.quora.com/What-are-the-most-important-courses-to-be-a-good-business-analyst#!n=18 : second best after the previous link
+-   analytics is about convincing (at scale)
+-   BA :
+    -   enabling change in enterprise by :
+        -   defining needs and recommend solutions
+            -   that deliver value to stakeholders
+-   operation : logistics and supply chain
 -   DataFrame s have 3 components :
-    - values
-    - column index
-    - and row index
-- `plt.style.use()`
+    -   values
+    -   column index
+    -   and row index
+-   `plt.style.use()`
 
 -   constraints - give the data structure - 3 concepts :
     -   1. **attribute constraints** e.g. data types on columns (chapter 2)
@@ -81,17 +108,6 @@ INNER JOIN table ON condition
 select 'hello world' as result;
 ```
 
-```
-STRUCTURE : TOP - QUICK NOTE, MIDDLE - IMPORTANT NOTE, BOTTOM - ORGANIZED NOTE
-WP:start
-logic is reasonable
-endgoal of any subject study : STUDY THROUGH BOOK ONLY : encapsulation -> best for look back
-GOT REJECTED BY MINDX - 8/4
-BEOFRE LEARN ANY NEW SUBJECT, QUORA FOR 'HOW TO STUDY THAT SUBJECT'
-```
-
-## top
-
 -   [Datacamp Data Analysis in Excel](Datacamp-Data-Analysis-in-Excel)
 -   2 types of seller :
     -   Pro Seller (company/shop/brand)
@@ -145,11 +161,19 @@ BEOFRE LEARN ANY NEW SUBJECT, QUORA FOR 'HOW TO STUDY THAT SUBJECT'
 
 -   email boilerplate
 
-```
-this should be empty
-```
-
 ## middle
+
+```
+STRUCTURE : TOP - QUICK NOTE, MIDDLE - IMPORTANT NOTE, BOTTOM - ORGANIZED NOTE
+WP:start
+logic is reasonable
+endgoal of any subject study : STUDY THROUGH BOOK ONLY : encapsulation -> best for look back
+GOT REJECTED BY MINDX - 8/4
+BEOFRE LEARN ANY NEW SUBJECT, QUORA FOR 'HOW TO STUDY THAT SUBJECT'
+QUORA IS BEST ROADMAP
+ALWAYS ASK WHAT WAS THE BAD PART THAT I DID
+NOT THE KNOWLEDGE BUT HOW TO NAVIGATE TO KNOWLEDGE
+```
 
 1. **USE IT OR LOSE IT** :D -> forget everything after understand it
 2. RULE OF 3 : ANYTHING CAN BE COMPOSED OF 3 OR LESS ELEMENTS
@@ -183,6 +207,7 @@ this should be empty
 
 ## bottom
 
+-   [BA glossy and terms](BA-glossy-and-terms)
 -   [quick thought](quick-thought)
 -   [roadmap](roadmap)
 -   [MYDOCS](MYDOCS)
