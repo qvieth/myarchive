@@ -1,4 +1,8 @@
 # Ideology
+
+- https://theessentialman.com/business-casual-style-guide-men/ best article about outfit
+    - read this only 1 link
+
 - https://www.youtube.com/watch?v=k-J9BVBjK3o : 20 sign you're emotionally mature
 - [the magical science of storytelling](https://www.youtube.com/watch?v=Nj-hdQMa3uA)
 -   [ ] [science](science) of ideas - belief - philosophy - epistemic

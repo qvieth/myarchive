@@ -1,4 +1,41 @@
 # mynote
+
+- work for neural link -> quora -> AI/programming/engineering
+- https://www.forbes.com/sites/forbes-personal-shopper/2021/05/04/star-wars-day-deals/?sh=575d5c3d6e67 top business book
+    - https://altar.io/the-12-best-books-for-entrepreneurs-starting-a-business-in-2021/
+-   closures :
+    -   enclosing function return the nested function
+    -   nested function has a non-local variable
+-   decorator
+
+```python
+# decorator a decorate b || b is decorated by a
+@a
+def b
+# quivalent to
+def b
+b = a(b)
+```
+
+- think probabilistically : if we sample the data again, will the summary statistics the same?
+- scatterplot is actually 2-y graph
+- C - imperative(steps)(structure(procedural)) vs SQL - declarative(result)
+- generations taxonomy:
+    - 1st - machine language
+    - 2nd - assembly language
+    - 3rd - older high level languages - c, java, python
+    - 4th - close to human language - sql
+```
+this should be empty
+```
+
+- [datacamp data engineer](datacamp-data-engineer)
+- [datacamp statistics fundamentals with python](datacamp-statistics-fundamentals-with-python)
+- [datacamp python science toolbox](datacamp-python-science-toolbox)
+- [datacamp machine learning scientist](datacamp-machine-learning-scientist)
+- APQC Process Classification Framework (PCF)
+- https://thinhnotes.com/chuyen-nghe-ba/use-case-diagram-va-5-sai-lam-thuong-gap/ : thinhnotes
+    - https://thinhnotes.com/chuyen-cua-tui/hoi-do-tui-hoc-he-thong-thong-tin-quan-ly/
 - [how to build interactive excel dashboards](how-to-build-interactive-excel-dashboards)
 - how to ask better question as data scientist :
     - https://www.quora.com/How-do-you-ask-good-Data-Science-questions
@@ -13,9 +50,6 @@
         - As long as you listen well and keep the focus on the problem or the solution, it does not matter which questions are Right. In the end, the Right Questions are those that get you relevant information
         - journalist - ask question - editing for a whole newspaper
         - analyst - ask question - editing(analysis)
-```
-this should be empty
-```
 
 -   search keyword : glossary and terms
     -   https://www.workspace.co.uk/content-hub/entrepreneurs/glossary-of-business-terminology
@@ -77,6 +111,9 @@ this should be empty
 *   keyword : plot customization matplotlib
 
 ```python
+# https://www.datacamp.com/community/tutorials/usage-asterisks-python
+# asterisks - the same as :
+num_list =  [i for i in range(1,12,2)]
 num_list =  [*range(1,12,2)]
 from collections import Counter
 ```
@@ -220,7 +257,7 @@ NOT THE KNOWLEDGE BUT HOW TO NAVIGATE TO KNOWLEDGE
 21. code only when you already understand the concept
 
 ## bottom
-
+- https://www.coursera.org/professional-certificates/google-data-analytics?action=enroll&authMode=signup&fbclid=IwAR0yRJmHJkUBzvYcd5APD-FLPM6J5VErAMkQf7mgVhfeQFCPHL1ThAm-4Q4 : google data analytics
 -   [BA glossy and terms](BA-glossy-and-terms)
 -   [quick thought](quick-thought)
 -   [roadmap](roadmap)

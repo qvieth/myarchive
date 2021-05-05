@@ -1,5 +1,7 @@
 # MYDOCS
 
+-   [python](python-docs)
+*   calibre
 ```
 list comprehension = [expression + for iteration]
 ```
@@ -30,12 +32,6 @@ list comprehension = [expression + for iteration]
     -   [card sorting](https://developer.mozilla.org/en-US/docs/Glossary/Card_sorting)
     -   [html elements reference](https://developer.mozilla.org/en-US/docs/Web/HTML/Element)
 -   [emmet cheatsheet](https://docs.emmet.io/cheat-sheet/)
-
-## others
-
--   [python](python-docs)
-
-*   calibre
 
 ## OER
 

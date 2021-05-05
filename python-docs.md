@@ -7,7 +7,7 @@
 * [string format](https://realpython.com/python-string-formatting/)
 * [display | print](https://stackoverflow.com/questions/37947496/how-to-print-like-jupyter-notebooks-default-cell-output/37947698)
 
-
+- https://anandology.com/ : python practice book is good
 
 ## seaborn & matplotlib
 
