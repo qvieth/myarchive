@@ -4,3 +4,10 @@
 - web dev simplified roadmap
 - math - to scale
     - https://en.wikipedia.org/wiki/Digital_data
+-   roadmap and books for data engineering
+    -   https://www.reddit.com/r/dataengineering/comments/ewjeqw/what_should_be_the_roadmap_in_2020_to_learn_data/
+-   should i learn web dev before data engineer :
+    -   https://www.quora.com/Is-web-development-worth-learning-as-a-data-engineer
+    -   https://www.quora.com/Do-data-scientists-need-to-learn-web-development
+*   work for neural link -> quora -> AI/programming/engineering
+    -   https://altar.io/the-12-best-books-for-entrepreneurs-starting-a-business-in-2021/

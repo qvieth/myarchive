@@ -1,6 +1,56 @@
 # Technology
 
 -   [science](science) of craft - 'know how' knowledge of how to make things that would otherwise not exist
+*   closures :
+    -   enclosing function return the nested function
+    -   nested function has a non-local variable
+*   decorator
+
+```python
+# decorator a decorate b || b is decorated by a
+@a
+def b
+# quivalent to
+def b
+b = a(b)
+```
+
+-   think probabilistically : if we sample the data again, will the summary statistics the same?
+-   scatterplot is actually 2-y graph
+-   C - imperative(steps)(structure(procedural)) vs SQL - declarative(result)
+-   generations taxonomy:
+    -   1st - machine language
+    -   2nd - assembly language
+    -   3rd - older high level languages - c, java, python
+    -   4th - close to human language - sql
+
+```
+this should be empty
+```
+
+-   [datacamp data engineer](datacamp-data-engineer)
+-   [datacamp statistics fundamentals with python](datacamp-statistics-fundamentals-with-python)
+-   [datacamp python science toolbox](datacamp-python-science-toolbox)
+-   [datacamp machine learning scientist](datacamp-machine-learning-scientist)
+-   APQC Process Classification Framework (PCF)
+-   https://thinhnotes.com/chuyen-nghe-ba/use-case-diagram-va-5-sai-lam-thuong-gap/ : thinhnotes
+    -   https://thinhnotes.com/chuyen-cua-tui/hoi-do-tui-hoc-he-thong-thong-tin-quan-ly/
+-   [how to build interactive excel dashboards](how-to-build-interactive-excel-dashboards)
+-   how to ask better question as data scientist :
+
+    -   https://www.quora.com/How-do-you-ask-good-Data-Science-questions
+        -   My trick is to find out if they are actionable, meaning, if I can or cannot take action based on the answer. To find out if they are actionable I make one follow up question: "What can I do if the answer is x?" where x is a possible, yet random answer.
+        -   Good questions are asked after you have done exploratory data analysis and basic visualizations.
+        -   Better questions are asked if you have domain knowledge about the subject. For example, if the project involves home loan data, an understanding of the US real estate market, mortgage rate and default trends as well as general consumer sentiment will definitely help you create interesting questions
+        -   You could potentially lose hours working on an analysis and then have your boss tell you that you misunderstood the request.
+        -   You need to have a cursory understanding of the topic first. A limited and uncontextualized vocabulary does not do. It does only from the beginner or naive person. Development requires intimacy with topic. It coincides with contextual questions
+    -   https://cxl.com/blog/digital-analytics-questions/ : 5 analytics questions you should always ask
+    -   https://www.batimes.com/steve-blais/how-to-ask-the-right-questions-part-1-the-paradox-of-the-right-question-and-how-to-ask-it.html#SB01
+        -   how do you ask the right question : ask more question
+        -   As long as you listen well and keep the focus on the problem or the solution, it does not matter which questions are Right. In the end, the Right Questions are those that get you relevant information
+        -   journalist - ask question - editing for a whole newspaper
+        -   analyst - ask question - editing(analysis)
+
 
 ## top
 
