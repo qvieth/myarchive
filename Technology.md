@@ -29,6 +29,9 @@ this should be empty
 ```
 
 -   [datacamp data engineer](datacamp-data-engineer)
+-   [Datacamp Data engineer for everyone](Datacamp-Data-engineer-for-everyone)
+-   [Datacamp Introduction to SQL](Datacamp-Introduction-to-SQL)
+-   Datacamp-Data-Analyst
 -   [datacamp statistics fundamentals with python](datacamp-statistics-fundamentals-with-python)
 -   [datacamp python science toolbox](datacamp-python-science-toolbox)
 -   [datacamp machine learning scientist](datacamp-machine-learning-scientist)
@@ -50,7 +53,95 @@ this should be empty
         -   As long as you listen well and keep the focus on the problem or the solution, it does not matter which questions are Right. In the end, the Right Questions are those that get you relevant information
         -   journalist - ask question - editing for a whole newspaper
         -   analyst - ask question - editing(analysis)
+-   DataFrame s have 3 components :
+    -   values
+    -   column index
+    -   and row index
+-   `plt.style.use()`
 
+-   constraints - give the data structure - 3 concepts :
+    -   1. **attribute constraints** e.g. data types on columns (chapter 2)
+    -   2. **key constraints** e.g. primary keys(chapter 3)
+    -   3. **referential integrity constraints** enforced through foreign keys(chapter 4) - a record referencing another table must refer to an existing record in that table
+    -   special attribute constraints :
+        -   not-null and unique constraints
+        -   keys and superkeys
+    -   keys
+    -   referential integrity
+-   cartesian product of relations: https://www.youtube.com/watch?v=58i-sZ6h1mI
+    -   the result is itself a relation
+    -   its rows contain all of the columns from the combined relations
+-   SQL joins are based on a mathematical notion called cartesian products
+-   ERD part 2 lucid chart : https://www.youtube.com/watch?v=-CuY5ADwn24
+    -   PK - FK - bridge table
+    -   1 primary key per entity - unique - never changing - never null
+    -   composite primary key : used when two or more attributes are necessary to uniquely indentify every record in the table
+        -   this has something to do with relationship
+
+*   numpy > itertuples() > apply()
+*   in order to write efficient code, we want to avoid looping when possible
+*   random walk : part of probability theory :
+    -   https://en.wikipedia.org/wiki/Random_walk : infinite series quite good explain
+    -   https://www.youtube.com/watch?v=BfS2H1y6tzQ socratica : good explain with python
+*   keyword : plot customization matplotlib
+
+```python
+# https://www.datacamp.com/community/tutorials/usage-asterisks-python
+# asterisks - the same as :
+num_list =  [i for i in range(1,12,2)]
+num_list =  [*range(1,12,2)]
+from collections import Counter
+```
+
+-   how to write clean, fast and efficient python code
+
+*   clean = eliminate loop when possible :
+    -   map()
+    -   list comprehension
+    -   combinations
+    -   numpy
+
+-   efficient = reduce latency + overhead
+-   how to profile your code for bottlenecks
+-   how to eliminate bottlenecks and bad design patterns
+-   parallel computing : split task into subtasks -> distribute subtasks over several computers -> work together to finish task
+-   cloud : storage - computation - database
+-   https://www.w3schools.com/sql/sql_update.asp : update sql
+-   https://www.postgresqltutorial.com/psql-commands/ : 17 psql commands
+-   sql join -> ERD, relationship, primary/foreign key
+-   [database systems cornell university course](database-systems-cornell-university-course)
+-   ERD : visual way of looking at your database structure
+-   https://www.studytonight.com/dbms/sql-constraints.php : sql constraints
+-   sql cook book : reread chapter 3 :join
+-   sqlzoo
+-   data base vs data warehoues key differeces : https://www.guru99.com/database-vs-data-warehouse.html
+
+```
+INNER JOIN table ON condition
+```
+
+-   https://www.statisticshowto.com/probability-and-statistics/normal-distributions/ : normal distribution
+    -   empirical rule 68-95-99.7 can only be applied to normal distribution
+-   https://www.statisticshowto.com/probability-and-statistics/z-score/ : z-score
+-   -   quite not true : A low standard deviation means that the data is very closely related to the average, thus very reliable. A high standard deviation means that there is a large variance between the data and the statistical average, and is not as reliable
+-   statistical question vs non-statistical question
+-   produce report = formalized reporting template
+-   ask for a template to do a report
+-   DO A PROJECT WITH DATACAMP
+
+```sql
+select 'hello world' as result;
+```
+
+-   https://www.datapine.com/blog/data-analysis-questions/ : **extremly good** must read
+
+-   https://www.youtube.com/watch?v=9yeOJ0ZMUYw
+
+-   Software skill vs Analytics skill
+
+-   [Data Warehousing for Business Intelligence](Data-Warehousing-for-Business-Intelligence)
+
+-   probability distribution - average case/ worst case
 
 ## top
 

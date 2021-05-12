@@ -1,8 +1,60 @@
 # mynote
 
+-   focus on the writing skill -> van nghi luan
+
+-   [the power of vulnerability](https://www.youtube.com/watch?v=iCvmsMzlF7o)
+
+    -   why we're living is about connection
+    -   connection = shame and fear
+        -   shame : fear of disconnection
+        -   is there something about me that
+            -   if other people know it or see it
+            -   i won't be worthy of connection
+        -   the less you talk about it, the more you have it
+        -   i don't ... enough
+        -   the thing that underpinned this was excruciating vulnerability
+    -   shame all boils down to
+    -   one variable that seperated the people who
+        -   have a strong sense of love and belonging
+        -   and the people who really struggle for it
+    -   the people who have the strong senese of love and belonging is
+        -   they believe they're worthy of love and belonging
+        -   courage != bravery
+        -   embrace vulnerable = what make them vulnerable make them beautiful
+    -   numb emotions -> numb everything including happiness -> miserable -> numb emotion -> cycle
+    -   we make the uncertain certain
+    -   blame = a way to discharge pain and discomfort
+    -   say we're sorry, we'll fix it
+    -   'i'm enough' - kinder to ourself and to others
+
+-   [5 simple habits that will make you a better communicator](https://www.businessinsider.com/5-simple-habits-that-will-make-you-a-better-communicator-2016-2)
+
+    1. gain clarity :
+        - all communications are either about enabling or persuading(inform or empower)
+    2. listen :
+        - the more you know about what your audience thinks and perceives,
+        - the more you will connect and engage with them
+    3. use body language :
+        - this can increase your confidence
+    4. be brief :
+        - most people have an attention span of 8 seconds
+        - another way to be brief is to use the power of pause
+        - 3 to 5 seconds pause is good for reframe, dim the exciment that inspire you to over-talk
+    5. keep practicing
+
+-   https://www.quora.com/How-do-you-become-a-project-manager
+    -   When all three (passion, practice & education) are combined then a superstar is born
+-   mistake - cannot - mustn't :
+    -   resuming the break up conversation
+    -   playing the victim
+    -   asking the match
+    -   clarifying you're not just friends
+
 ## middle
 
 ```
+Practice communication skills
+When all three (passion, practice & education) are combined then a superstar is born
 a wise man doesn't give the right answers, he poses the right questions
 STRUCTURE : TOP - QUICK NOTE, MIDDLE - IMPORTANT NOTE, BOTTOM - ORGANIZED NOTE
 WP:start
@@ -26,7 +78,7 @@ NOT THE KNOWLEDGE BUT HOW TO NAVIGATE TO KNOWLEDGE
     3. issue -> illustration -> invitation
 7. 2 approaches : bottom-up - top-down (page 13 - mathematics for machine learning)(should combine this)
 8. classification tree - how to navigate to the knowledge > knowledge
-9. code should be the last thing to be paid attention, focus on the process, ideas
+9. understand architecture -> read API -> code
 10. level of complexity -> if low, skip, high, pay attention and focus the math concept
 11. KEYWORD : FUNDAMENTAL THEOREM OF ... | BIG IDEAS OF ... | ... CHEATSHEET | ... CALCULATOR | ... NOTATION | ... COOKBOOK | ... BOILERPLATE/IMPLEMENTAION
 12. [I find that learning node.js is difficult for me. Can someone give me an advice?](https://www.quora.com/I-find-that-learning-node-js-is-difficult-for-me-Can-someone-give-me-an-advice)
