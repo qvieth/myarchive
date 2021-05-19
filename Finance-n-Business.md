@@ -1,4 +1,54 @@
 # Finance
+- https://www.youtube.com/watch?v=oPEfmsbUuI0
+- study finance or marketing -> both
+- how to study business from scratch -> quora 
+- https://www.stevebizblog.com/what-is-more-important-for-a-ceo-sale-or-marketing-experience/ : 
+    - https://ksient.com/SteveBizBlog/Business_Evolution.pdf
+        - 4 stage of business evolution
+- https://iliat.org/blog/nhung-con-duong-nghe-nghiep-trong-nganh-tai-chinh/ : tai chinh lam gi
+-   college = business | major = finance | minor = ...
+
+    -   sem 1
+        -   subject title
+        -   [ ] AIS academic inquiry
+        -   [ ] MAT Intermediate algebra
+        -   [ ] WRC freshman composition I(Q)
+        -   [x] ECO introductory to microeconomics(Q)
+    -   sem 2
+        -   [x] IS business info systems fluency
+        -   [ ] MAT algebra w/ calculus for bus(Q)
+        -   [ ] WRC freshman composition II(Q)
+    -   sem 3
+        -   [ ] ACC principles of accounting I
+        -   [ ] ECO introductory to macroeconomics
+    -   sem 4
+        -   [ ] ACC principles of accounting II
+        -   [ ] COM introductory to communication
+        -   [ ] GBA legal/soc/ethic issues in business
+        -   [ ] MS bus stats w/ computer apps I
+    -   sem 5
+        -   [ ] IS principles of information systems for management
+        -   [ ] MGT business communication & prof development
+        -   [ ] MKT principles of marketing
+        -   [ ] MS bus stats w/ comptuter apps II
+    -   sem 6
+        -   [ ] FIN principles business finance(Q)
+        -   [ ] FIN money and banking
+        -   [ ] MGT Intro : org theory, behav and mgnt
+        -   [ ] MS mgt science & operation tech
+    -   sem 7
+        -   [ ] ACC intermediate ACC for FIN major
+        -   [ ] BLW business law
+        -   [ ] FIN intermdiate corporate finance
+        -   [ ] FIN priciples of investment
+        -   [ ] FIN intro : international finance
+        -   [ ] FIN computer model of finance applications
+    -   sem 8
+        -   [ ] FIN bus finance for entrepreneurs
+        -   [ ] FIN intro to risk management
+        -   [ ] FIN intro : international finance
+        -   [ ] FIN cases and problems in finance
+        -   [ ] MGT management stategy
 
 -   [what is finance?](what-is-finance)
 -   [personal finanace](personal-finanace)

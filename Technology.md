@@ -1,6 +1,7 @@
 # Technology
 
 -   [science](science) of craft - 'know how' knowledge of how to make things that would otherwise not exist
+
 *   closures :
     -   enclosing function return the nested function
     -   nested function has a non-local variable
@@ -53,6 +54,7 @@ this should be empty
         -   As long as you listen well and keep the focus on the problem or the solution, it does not matter which questions are Right. In the end, the Right Questions are those that get you relevant information
         -   journalist - ask question - editing for a whole newspaper
         -   analyst - ask question - editing(analysis)
+
 -   DataFrame s have 3 components :
     -   values
     -   column index
@@ -123,7 +125,8 @@ INNER JOIN table ON condition
 -   https://www.statisticshowto.com/probability-and-statistics/normal-distributions/ : normal distribution
     -   empirical rule 68-95-99.7 can only be applied to normal distribution
 -   https://www.statisticshowto.com/probability-and-statistics/z-score/ : z-score
--   -   quite not true : A low standard deviation means that the data is very closely related to the average, thus very reliable. A high standard deviation means that there is a large variance between the data and the statistical average, and is not as reliable
+    -   quite not true : A low standard deviation means that the data is very closely related to the average, thus very reliable
+    -   A high standard deviation means that there is a large variance between the data and the statistical average, and is not as reliable
 -   statistical question vs non-statistical question
 -   produce report = formalized reporting template
 -   ask for a template to do a report
@@ -268,6 +271,7 @@ select 'hello world' as result;
 *   isn't that measuring time complexity is :
     -   based on RSID operations of array - the foundation block which other data structure based on
 *   isn't that measuring time complexity is :
+
     -   based on RSID operations of array - the foundation block which other data structure based on
     -   index take 1 step
     -   search N step
@@ -279,12 +283,14 @@ select 'hello world' as result;
         -   one algorithm had twice as many steps as the other
     -   But here’s the trade-off: by using an ordered array, you have somewhat slower insertion, but much faster search
     -   think of BIG O of how the CHANGE is as data increase
+
 *   https://www.youtube.com/watch?v=bFvjE4ZRtSE : webdevsimplified html elements series
     -   head
         -   title
     -   body
         -   header
-            -   h1 || nav
+            -   nav
+            -   h1
         -   section
             -   h2
         -   footer

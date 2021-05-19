@@ -1,5 +1,34 @@
 # mynote
 
+-   [Lean vs Agile vs Design Thinking](https://www.youtube.com/watch?v=_4VPfmtwRac)
+    - this is a really great lesson
+    -   backlog?
+-   [Actionable 7-Step Guide To Start A Tech Company with no money](https://masschallenge.org/article/how-to-start-a-tech-company)
+
+    -   must read -> use this as your plan
+    -   https://fullscale.io/blog/steps-how-to-start-tech-company/
+    -   google more for how to start a tech startup
+
+-   pronouce : garage
+
+*   continue lean start up
+*
+*   before i read any book, i look for quora/ summary to see wheter that book is worth reading , then i read it
+*   https://www.scotthyoung.com/blog/2018/05/24/how-to-learn-social-skills/
+    -   key to practice social skills :
+        1. narrow down your focus to a particular context
+        2. find a way to engage in that environment at a higher-than-average rate
+        3. if possible, get a peer or coach to give you feedback
+*   https://www.ted.com/talks/dao_nguyen_what_makes_something_go_viral#t-614216 : what make something go viral
+*   question : - https://www.harleytherapy.co.uk/counselling/understanding-people.htm : good link
+    -   https://www.harleytherapy.co.uk/counselling/good-questions-to-ask.htm
+    -   **how, what** -> look forward | **why** -> look backward
+    -   when where which
+
+-   https://www.ted.com/talks/scott_galloway_how_amazon_apple_facebook_and_google_manipulate_our_emotions?referrer=playlist-a_playbook_to_understanding_power&language=en#t-1132448
+
+    -   google -> mind, facebook -> heart, amazon -> stomach, apple -> xxx
+
 -   focus on the writing skill -> van nghi luan
 
 -   [the power of vulnerability](https://www.youtube.com/watch?v=iCvmsMzlF7o)
@@ -99,6 +128,7 @@ NOT THE KNOWLEDGE BUT HOW TO NAVIGATE TO KNOWLEDGE
 
 ## bottom
 
+-   [simulation](simulation)
 -   [quick thought](quick-thought)
 -   [roadmap](roadmap)
 -   [MYDOCS](MYDOCS)
@@ -115,3 +145,4 @@ NOT THE KNOWLEDGE BUT HOW TO NAVIGATE TO KNOWLEDGE
 -   [Elon Musk](Elon-Musk)
 
 -   [Archive](archive)
+    hhq.viet@gmail.com master account `x -> X SxH@`
