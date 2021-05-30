@@ -1,18 +1,47 @@
 # mynote
+```
+focus on writing
+and making website for blogging
+read book - must remember name of the book and author
+```
 
+2021-05-28
+
+-   \*[quora - how to learn evertying about business from scratch](https://www.quora.com/How-do-I-learn-about-finance-economics-business-and-legal-systems-and-get-a-better-idea-of-how-they-operate-affect-the-world-we-live-in-How-do-I-get-started-Are-there-introductory-books-or-online-resources-What-kinds-of-classes-should-I-take/answers/32635428?ch=1&share=0062b74e&fbclid=IwAR1hTGt8XiT2_HaGQoP1v4f7Bs9UoofpZySLZKvRA6qARdhLUR4E10pv2w8)
+-   \*[outline of industry](https://en.wikipedia.org/wiki/Outline_of_industry)
+-   services - intangible goods
+-   [economic sector](https://en.wikipedia.org/wiki/Economic_sector)
+-   [3-sector model](https://en.wikipedia.org/wiki/Three-sector_model)
+-   [knowledge economy](https://en.wikipedia.org/wiki/Knowledge_economy?fbclid=IwAR2b1tbY3ChBKjMB_vENtzwt832CWRI6D6pbuznTHXBjgeU2ny8cMvzCEuk#Knowledge_-_based_Economy_and_Human_capital)
+-   learn accounting in 1 hour series
+    -   [part1 - debits and credits](https://www.youtube.com/watch?v=ii91oi0OpXM)
+    -   [part2 - journal entries](https://www.youtube.com/watch?v=uFqa1qUfm6E)
+    -   [part3 - posting entries to trial balance](https://www.youtube.com/watch?v=Uxgxj2nv-3M)
+    -   [part4 - preparing financial statements](https://www.youtube.com/watch?v=ZJxeGpNOuu8)
+    -   https://www.youtube.com/watch?v=WEDIj9JBTC8 william ackman lemonade stand
+-   [accounting](accounting)
+-   make money with blog :https://www.savethestudent.org/make-money/how-to-make-money-as-a-blogger.html
+-   restudy ECON 101
 -   [Lean vs Agile vs Design Thinking](https://www.youtube.com/watch?v=_4VPfmtwRac)
-    - this is a really great lesson
+    -   this is a really great lesson
     -   backlog?
+    -   lean : build the right thing
+    -   agile : build the thing right
+    -   design thinking : explore the problem
 -   [Actionable 7-Step Guide To Start A Tech Company with no money](https://masschallenge.org/article/how-to-start-a-tech-company)
 
     -   must read -> use this as your plan
     -   https://fullscale.io/blog/steps-how-to-start-tech-company/
     -   google more for how to start a tech startup
 
--   pronouce : garage
+-   pronounce :
+    -   garage
+    -   receipt
+    -   constituent
+    -   instalment
 
 *   continue lean start up
-*
+
 *   before i read any book, i look for quora/ summary to see wheter that book is worth reading , then i read it
 *   https://www.scotthyoung.com/blog/2018/05/24/how-to-learn-social-skills/
     -   key to practice social skills :
@@ -125,6 +154,7 @@ NOT THE KNOWLEDGE BUT HOW TO NAVIGATE TO KNOWLEDGE
 19. rewrite wiki in project based module - knowledge is encapsulated in project based
 20. programming : types are object, functions are morphisms | a -> b -> b | arrow : f = a -> b, id_b = b -> b | id_b after f
 21. code only when you already understand the concept
+22. QUESTION theory -> May 20 , use category theory for visualize events, combine with question logic
 
 ## bottom
 

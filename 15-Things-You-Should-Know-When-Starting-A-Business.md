@@ -11,3 +11,4 @@
 16. don't worry about the finance and legal part in the beginning
     - you'll figure it out as you grow
 -> rewatch later
+.
