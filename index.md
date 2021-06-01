@@ -1,12 +1,12 @@
 # mynote
+test
 ```
 focus on writing
 and making website for blogging
 read book - must remember name of the book and author
 ```
 
-2021-05-28
-
+-   https://websitesetup.org/ : how to create website wordpress
 -   \*[quora - how to learn evertying about business from scratch](https://www.quora.com/How-do-I-learn-about-finance-economics-business-and-legal-systems-and-get-a-better-idea-of-how-they-operate-affect-the-world-we-live-in-How-do-I-get-started-Are-there-introductory-books-or-online-resources-What-kinds-of-classes-should-I-take/answers/32635428?ch=1&share=0062b74e&fbclid=IwAR1hTGt8XiT2_HaGQoP1v4f7Bs9UoofpZySLZKvRA6qARdhLUR4E10pv2w8)
 -   \*[outline of industry](https://en.wikipedia.org/wiki/Outline_of_industry)
 -   services - intangible goods
@@ -35,10 +35,12 @@ read book - must remember name of the book and author
     -   google more for how to start a tech startup
 
 -   pronounce :
+    -   order
     -   garage
     -   receipt
     -   constituent
     -   instalment
+    -   finance
 
 *   continue lean start up
 
