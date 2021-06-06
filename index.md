@@ -1,12 +1,32 @@
 # mynote
-test
+
 ```
 focus on writing
 and making website for blogging
 read book - must remember name of the book and author
 ```
 
-- ok
+-   economics :
+    -   scarcity
+    -   alternative uses
+-   [cost](cost)
+-   cost vs expense :
+    -   what does it cost? : cost of something you gain
+        -   currently has value
+    -   expense : something already been spent, consumed
+-   Overhead vs operating expensess :
+    -   another name : indirect(shared cost) vs direct cost
+    -   when new batch of product produced :
+        -   overhead is still fixed, while operating increases
+    -   Overhead costs are related to the general business
+        -   fairly fixed, and can be reviewed often
+            -   to make adjustments
+        -   If business becomes slow
+        -   **cutting back on overhead**
+            -   usually becomes the easiest way to reduce expenses
+    -   Operating costs are the direct costs required
+        -   to produce a product or service
+        -   and are difficult to avoid
 -   https://websitesetup.org/ : how to create website wordpress
 -   \*[quora - how to learn evertying about business from scratch](https://www.quora.com/How-do-I-learn-about-finance-economics-business-and-legal-systems-and-get-a-better-idea-of-how-they-operate-affect-the-world-we-live-in-How-do-I-get-started-Are-there-introductory-books-or-online-resources-What-kinds-of-classes-should-I-take/answers/32635428?ch=1&share=0062b74e&fbclid=IwAR1hTGt8XiT2_HaGQoP1v4f7Bs9UoofpZySLZKvRA6qARdhLUR4E10pv2w8)
 -   \*[outline of industry](https://en.wikipedia.org/wiki/Outline_of_industry)
@@ -42,6 +62,9 @@ read book - must remember name of the book and author
     -   constituent
     -   instalment
     -   finance
+    -   volatile
+    -   record 1 (N)| record 2 (V) -> present | produce | project
+    -   feudal
 
 *   continue lean start up
 
@@ -114,6 +137,7 @@ read book - must remember name of the book and author
 ## middle
 
 ```
+
 Practice communication skills
 When all three (passion, practice & education) are combined then a superstar is born
 a wise man doesn't give the right answers, he poses the right questions
@@ -126,6 +150,7 @@ BEOFRE LEARN ANY NEW SUBJECT, QUORA FOR 'HOW TO STUDY THAT SUBJECT'
 QUORA IS BEST ROADMAP
 ALWAYS ASK WHAT WAS THE BAD PART THAT I DID
 NOT THE KNOWLEDGE BUT HOW TO NAVIGATE TO KNOWLEDGE
+
 ```
 
 1. **USE IT OR LOSE IT** :D -> forget everything after understand it
@@ -158,6 +183,7 @@ NOT THE KNOWLEDGE BUT HOW TO NAVIGATE TO KNOWLEDGE
 20. programming : types are object, functions are morphisms | a -> b -> b | arrow : f = a -> b, id_b = b -> b | id_b after f
 21. code only when you already understand the concept
 22. QUESTION theory -> May 20 , use category theory for visualize events, combine with question logic
+23. plan -> decision -> performance
 
 ## bottom
 
@@ -179,3 +205,7 @@ NOT THE KNOWLEDGE BUT HOW TO NAVIGATE TO KNOWLEDGE
 
 -   [Archive](archive)
     hhq.viet@gmail.com master account `x -> X SxH@`
+
+```
+
+```
