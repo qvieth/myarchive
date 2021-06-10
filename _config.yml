@@ -1,3 +1,5 @@
 theme: jekyll-theme-architect
 github:
-  is_project_page: false
+  is_project_page: true
+description: "qvieth's"
+show_downloads: true
