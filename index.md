@@ -1,7 +1,9 @@
 # mynote
-[platform](platform)
+
 1.  [program](program)
 2.  [package](package)
+
+---
 
 ## principles
 
