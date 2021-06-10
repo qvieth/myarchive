@@ -1,2 +1,3 @@
 # insight
-- [creativity](creativity)
+
+-   [creativity](creativity)

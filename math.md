@@ -1,7 +1,9 @@
-# math
+# mat
 
 -   [scatterplot](scatterplot)
 -   [proof](proof)
+
+---
 
 ## FLEETING NOTES
 

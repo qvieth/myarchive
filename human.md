@@ -4,6 +4,8 @@
 -   [people](people)
 -   [communication](communication)
 
+---
+
 -   https://www.ted.com/talks/scott_galloway_how_amazon_apple_facebook_and_google_manipulate_our_emotions?referrer=playlist-a_playbook_to_understanding_power&language=en#t-1132448
 
     -   google -> mind, facebook -> heart, amazon -> stomach, apple -> xxx

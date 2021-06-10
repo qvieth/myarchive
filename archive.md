@@ -47,7 +47,7 @@
 -   cv :
 
     -   .about me {
-    -             seeking an entry-level position in the field of information technology(IT), my objective is to be a leaderand influencer, to make sure that the project is fit to purpose and execution is being well optimized costand time wise and that the job is well done. to share my experience and know ledge with teammembersand to suggest any ideas contributing to the development of the project or the company's projectmanagement policies
+    -               seeking an entry-level position in the field of information technology(IT), my objective is to be a leaderand influencer, to make sure that the project is fit to purpose and execution is being well optimized costand time wise and that the job is well done. to share my experience and know ledge with teammembersand to suggest any ideas contributing to the development of the project or the company's projectmanagement policies
     -   }
 
     -   .techical expertise{
@@ -68,7 +68,7 @@
     -   }
 
     -   certificate {
-    -       codecademy - pandas
+    -         codecademy - pandas
     -   }
 
 -   [ ] current goal : connecting math and programming concepts for interview preparing -> this goal suck

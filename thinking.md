@@ -6,6 +6,8 @@
 -   [approach](approach)
 -   [intermediate packets](intermediate packets)
 
+---
+
 -   inference : induction vs deduction vs abduction
 -   2 approaches : bottom-up - top-down (page 13 - mathematics for machine learning)(should combine this)
 -   classification tree - how to navigate to the knowledge > knowledge

@@ -2,7 +2,6 @@
 
 -   programming : types are object, functions are morphisms | a -> b -> b | arrow : f = a -> b, id_b = b -> b | id_b after f
 -   composition of functions is associative
--
 -   problem -> contentualize -> contextualize
     -> reformulate problem -> find relevant categorical requirements
     -> solve problem -> (reinterpret significance of the result)

@@ -3,6 +3,8 @@
 -   [probability](probability)
 -   [combination](combination)
 
+---
+
 ## FLEETING NOTES
 
 -   [statistics notations](https://brownmath.com/swt/symbol.htm)
