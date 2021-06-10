@@ -1,4 +1,5 @@
 # Roadmap How to Learn Machine Learning in 6 Months
+
 - https://www.youtube.com/watch?v=MOdlp1d0PNA
 - just one thing to remember :
     - JUST BUILD SOMETHING WITH DATA AND EXPECT TO SUCK AT IT FOR A WHILE
@@ -30,8 +31,3 @@
 - project
 - do interview question
 
-
-### some last notes
-- you're going to fail, alot it's software
-- your model may not be predictive. that's a result. null is just good as non-null if you did it right
-- track your projects on github and write up your results

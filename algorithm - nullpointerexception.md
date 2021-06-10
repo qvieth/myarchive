@@ -1,0 +1,27 @@
+# algorithm - nullpointerexception
+
+-   measureing efficiency of ASID with bigO - time complexity **equations**
+    -   accessing - searching - iserting - deleting
+    -   6 most common time complexity equations
+        -   O(1)
+        -   O(logn)
+        -   O(n)
+        -   O(nlogn)
+        -   O(n^2)
+        -   O(2^n)
+        -   the more you use the more inefficient it becomes
+-   we always use the worst case scenario when judgin these data structure
+-   time and space complexity
+    -   time complexity : how many steps
+    -   space complexity : how many **extra memory**
+        -   some algorithm require the computer to allocate extra memory in the computer
+        -   selection sort is in-place algorithm : no auxilary memory
+        -   worst case scenario will prevent system crash
+        -   have to balance space and time/ make sacrifice which one to choose
+-   sort : selection | insertion | odd-even | bubble | cocktail-shaker | quicksort | bitonic | heap | cycle
+    -   merge sort : recurive sorting
+    -   bucket sort : counting sort
+    -   comb sort : exchange sort
+    -   sorting algorithm
+        -   -> speed
+        -   -> memory required

@@ -1,0 +1,27 @@
+# economics
+
+-   [basic economics - thomas sowell ](basic economics - thomas sowell)
+    -   economics :
+        -   scarcity
+        -   alternative uses
+    -   Markets work by reacting to changes in supply and demand
+    -   There's a saying among economists
+        -   Never reason from a price change
+            -   Prices do not cause quantities
+                -   and quantities don't cause prices
+        -   Supply and demand curves shift
+            -   causing simultaneous changes in both
+                -   quantity
+                -   and price
+            -   Whenever price change think "what caused this"
+            -   If prices are going up because
+                -   people are demanding more
+                    -   that is a very different situation than
+            -   prices going up because
+                -   production became more difficult
+-   [outline of industry](https://en.wikipedia.org/wiki/Outline_of_industry)
+-   services - intangible goods
+-   [economic sector](https://en.wikipedia.org/wiki/Economic_sector)
+-   [3-sector model](https://en.wikipedia.org/wiki/Three-sector_model)
+-   [knowledge economy](https://en.wikipedia.org/wiki/Knowledge_economy?fbclid=IwAR2b1tbY3ChBKjMB_vENtzwt832CWRI6D6pbuznTHXBjgeU2ny8cMvzCEuk#Knowledge_-_based_Economy_and_Human_capital)
+-   [crash course economics](crash-course-economics)

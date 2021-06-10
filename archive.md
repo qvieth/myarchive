@@ -1,14 +1,30 @@
 # archive
 
-- organize thought process with pen and paper - like how you study React
+-   **TECHNIQUES OF ALGORITHM DESIGN AND ANALYSIS**
+-   [x] theory of computation - comeback after done maths
+-   numerical vs symbolic work - computing - model?
+-   finish geometry, trigonometry then comeback to calculus, linear algebra, statistics, algorithms & data structure
+
+-   study linear algebra -> calculus -> statistics
+-   why you want to study math? - i use math for reasoning, for learning faster, making sense and remembering longer
+    WP:start
+    logic is reasonable
+    endgoal of any subject study : STUDY THROUGH BOOK ONLY : encapsulation -> best for look back
+    BEOFRE LEARN ANY NEW SUBJECT, QUORA FOR 'HOW TO STUDY THAT SUBJECT'
+    QUORA IS BEST ROADMAP
+    ALWAYS ASK WHAT WAS THE BAD PART THAT I DID
+    NOT THE KNOWLEDGE BUT HOW TO NAVIGATE TO KNOWLEDGE
+-   organize thought process with pen and paper - like how you study React
+
 17. https://en.wikipedia.org/wiki/Metasyntax
-13. PREPARE - when something would make you panic, think of searching youtube for a way to deal with it e.g. meet girlfriend parents
-- technology - collective learning - technological progress -> [crash course big history](crash-course-big-history)
-    - technology -> progress | engineer -> process
-- oportunity cost : LEARN HOW TO READ THE DOCUMENT - not learn the document - do anything, like watching youtube, reading other things, just to learn to read the document
-    - learn from course (like 6hrs)(not small video) - do a research on types of video in relation with grasping rate vs reading docs
-    - real projects, long courses video is good for BIG PICTURE grasping
-    - always speed up video
+18. PREPARE - when something would make you panic, think of searching youtube for a way to deal with it e.g. meet girlfriend parents
+
+-   technology - collective learning - technological progress -> [crash course big history](crash-course-big-history)
+    -   technology -> progress | engineer -> process
+-   oportunity cost : LEARN HOW TO READ THE DOCUMENT - not learn the document - do anything, like watching youtube, reading other things, just to learn to read the document
+    -   learn from course (like 6hrs)(not small video) - do a research on types of video in relation with grasping rate vs reading docs
+    -   real projects, long courses video is good for BIG PICTURE grasping
+    -   always speed up video
 -   Object-oriented studying - modular studying
 -   i have not failed, i have only found out 10000 ways that won't work
 -   on my way of self learning, google learning, i realize 1 important things :
@@ -31,7 +47,7 @@
 -   cv :
 
     -   .about me {
-    -           seeking an entry-level position in the field of information technology(IT), my objective is to be a leaderand influencer, to make sure that the project is fit to purpose and execution is being well optimized costand time wise and that the job is well done. to share my experience and know ledge with teammembersand to suggest any ideas contributing to the development of the project or the company's projectmanagement policies
+    -             seeking an entry-level position in the field of information technology(IT), my objective is to be a leaderand influencer, to make sure that the project is fit to purpose and execution is being well optimized costand time wise and that the job is well done. to share my experience and know ledge with teammembersand to suggest any ideas contributing to the development of the project or the company's projectmanagement policies
     -   }
 
     -   .techical expertise{
@@ -43,20 +59,17 @@
     -   scripting : bash
     -   markdown,latex
 
+    -   math
+    -   project management
+    -   reading
 
-    - math
-    - project management
-    - reading
+    -   .competitions{
+    -   hultprize vietnam 2017-2018 - 3rd place, represent vietnam to participate in shanghai
+    -   }
 
-
-
-    - .competitions{
-    - hultprize vietnam 2017-2018 - 3rd place, represent vietnam to participate in shanghai
-    - }
-
-    - certificate  {
-    -     codecademy - pandas
-    - }
+    -   certificate {
+    -       codecademy - pandas
+    -   }
 
 -   [ ] current goal : connecting math and programming concepts for interview preparing -> this goal suck
 
@@ -121,3 +134,7 @@ echo x | ......sum
     -   [x] -   imagination
 
 -   [ ] think : where did the one teach you get the knowledge? of course it's from the docs, so only read docs
+
+```
+    hhq.viet@gmail.com master account `x -> X SxH@`
+```

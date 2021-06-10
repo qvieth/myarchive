@@ -81,46 +81,48 @@
     -   the **subjects (participants)** are people or things being studied in an experiment
     -   the **response variable** is the variable in an experiment that responds to the treatment (dependent)
     -   the **explanatory variable** is the variable in an experiment that causes the change in the response variable (independent)
-* principles of experimental design :
+*   principles of experimental design :
     1. randomize the control and treatment groups
     2. control for outside effects on the response variable
     3. replicate the experiment a significant number of times to see meaningful patterns
-* experiments :
-    * control group : group of subjects to which no treatment is applied in an experiment
-    * treatment group : is a group of subjects to which researchers apply a treatment in an experiment
-    * cofounding variables : are unmeasured factors other than the treatment that cause an effect on the subjects of an experiment
-* question : how do we know if there are cofounding variable in a statistical study?
-* single blind experiment vs double blind experiment
+*   experiments :
+    -   control group : group of subjects to which no treatment is applied in an experiment
+    -   treatment group : is a group of subjects to which researchers apply a treatment in an experiment
+    -   cofounding variables : are unmeasured factors other than the treatment that cause an effect on the subjects of an experiment
+*   question : how do we know if there are cofounding variable in a statistical study?
+*   single blind experiment vs double blind experiment
 
-- institutional review boards
-    - an **institutional review board** (IRB) is a group of people who review the design of a study to make sure that it is appropriate and that no unneccessary harm will come to the subjects involved
-    - **informed consent** involves completely disclosing to participants the goals and procedures involved in a study and obtaining their agreement to participate
+-   institutional review boards
+    -   an **institutional review board** (IRB) is a group of people who review the design of a study to make sure that it is appropriate and that no unneccessary harm will come to the subjects involved
+    -   **informed consent** involves completely disclosing to participants the goals and procedures involved in a study and obtaining their agreement to participate
 
 ## section 2.1 : frequency distributions
-- **distribution** : a way to describe the structure of a particular data set or population
-- **frequency** distribution is a display of the value that occur in a data set and how often each value or range of value occurs
-- **frequencies** (f) : numbers of data values in the categories of a frequency distribution
-- **class** : category of data in a frequency distribution
-- **ordered array** : an ordered list of the data from largest to smallest or vice vesa
-- **probability distribution** : a theoretical distribution used to predict the probabilities of particular data values occuring in a population
-- **ungroup frequency distribution** : is a frequency distribution where each category or class represents a single value
-- **grouped frequency distribution** : a frequency distribution where the classes are ranges of possible values
 
-* to create an ungrouped frequency distribution :
-    * determine the levels of the categorical variable
-    * count the number of observed values in each level
+-   **distribution** : a way to describe the structure of a particular data set or population
+-   **frequency** distribution is a display of the value that occur in a data set and how often each value or range of value occurs
+-   **frequencies** (f) : numbers of data values in the categories of a frequency distribution
+-   **class** : category of data in a frequency distribution
+-   **ordered array** : an ordered list of the data from largest to smallest or vice vesa
+-   **probability distribution** : a theoretical distribution used to predict the probabilities of particular data values occuring in a population
+-   **ungroup frequency distribution** : is a frequency distribution where each category or class represents a single value
+-   **grouped frequency distribution** : a frequency distribution where the classes are ranges of possible values
 
-- constructing a frequency distribution
-- characteristic of a frequency distribution
-    - class boundaries
-    - class midpoint
-    - relative frequency
+*   to create an ungrouped frequency distribution :
+    -   determine the levels of the categorical variable
+    -   count the number of observed values in each level
+
+-   constructing a frequency distribution
+-   characteristic of a frequency distribution
+    -   class boundaries
+    -   class midpoint
+    -   relative frequency
 
 ## section 2.2 : graphical displays of data
-- distinguish between the basic shapes of a distribution
-- graphs :
-    - should be bale to stand albone without the orginal data
-    - must have labels
-    - ...
-- different types of bar graph
-    - pie chart
+
+-   distinguish between the basic shapes of a distribution
+-   graphs :
+    -   should be bale to stand albone without the orginal data
+    -   must have labels
+    -   ...
+-   different types of bar graph
+    -   pie chart
