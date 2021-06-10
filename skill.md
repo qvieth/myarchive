@@ -1,6 +1,5 @@
-# skill
+# [skill](https://en.wikipedia.org/wiki/Skill)
 
--   https://en.wikipedia.org/wiki/Skill#See_also
 -   often be divided into
     -   domain general
     -   domain specific

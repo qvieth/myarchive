@@ -1,10 +1,11 @@
 ## tags
+
 package
 
 -   [library](library)
 -   [skill](skill)
 
-# Soft
+## Soft
 
 -   [business](business)
 -   [human](human)
@@ -18,7 +19,7 @@ package
 -   [productivity](productivity)
 -   [simulation](simulation)
 
-# Hard
+## Hard
 
 -   [programming](programming)
 -   [engineering](engineering)
@@ -31,7 +32,7 @@ package
 -   [pronounce](pronounce)
 -   [history](history)
 
-# Conceptual
+## Conceptual
 
 -   [question](question)
 -   [math](math)
@@ -43,7 +44,7 @@ package
     -   [reasoning](reasoning)
 -   [philosophy](philosophy)
 
-# Misc
+## Misc
 
 -   [Elon Musk](Elon-Musk)
 -   [archive](archive)
