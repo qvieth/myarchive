@@ -1,6 +1,6 @@
 # [think fast talk smart communication techniques](https://www.youtube.com/watch?v=HAnw168huqA)
 
-<iframe width="761" height="428" src="https://www.youtube.com/embed/HAnw168huqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="571" height="321" src="https://www.youtube.com/embed/HAnw168huqA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 -   check the comments of the video for more great summary
 -   greeting your anxiety :
