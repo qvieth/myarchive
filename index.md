@@ -15,7 +15,7 @@ practice asking better question, ask question iteratively
 ```
 
 -   [tags](tags)
--   [communication](communication)
--   [thinking](thinking)
--   [business](business)
--   [programming](programming)
+    -   [communication](communication)
+    -   [thinking](thinking)
+    -   [business](business)
+    -   [programming](programming)
