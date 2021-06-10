@@ -1,4 +1,4 @@
-# mat
+# math
 
 -   [scatterplot](scatterplot)
 -   [proof](proof)
