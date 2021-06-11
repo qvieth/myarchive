@@ -1,3 +1,3 @@
 # research
 
--   [research skills](research skills)
+- [research skills](research skills)

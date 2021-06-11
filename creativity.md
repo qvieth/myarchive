@@ -1,3 +1,3 @@
 # creativity
 
--   creativity is about remixing stuffs
+- creativity is about remixing stuffs
