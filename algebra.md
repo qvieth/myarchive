@@ -12,3 +12,4 @@
 - [functions discrete mathematics](functions-discrete-mathematics)
 - [crash course algebra](crash-course-algebra)
 - [imaginary numbers are real](imaginary-numbers-are-real)
+- [four big ideas in algebra](four-big-ideas-in-algebra)

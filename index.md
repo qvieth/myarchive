@@ -1,5 +1,6 @@
 # mynote
-[web](web)
+[README](README)
+
 1. [program](program)
 2. [package](package)
 3. [uni](uni)
@@ -22,3 +23,10 @@ practice asking better question, ask question iteratively
      - [business](business)
      - [programming](programming)
      - [book](book)
+
+---
+
+- mynote
+     - there are many like it
+     - but this one is mine
+- the 

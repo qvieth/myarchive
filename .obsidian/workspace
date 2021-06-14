@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bc1231eaeee4f401",
+        "id": "f1166bb69ec7ee10",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -45,12 +45,12 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "745b9a56cc290f18",
@@ -80,10 +80,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "bc1231eaeee4f401",
+  "active": "f1166bb69ec7ee10",
   "lastOpenFiles": [
+    "math.md",
     "programming.md",
     "decorator.md",
     "webvsapp.md",
