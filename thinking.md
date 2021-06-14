@@ -1,5 +1,6 @@
 # thinking
 
+- [critical thinking](https://www.criticalthinking.org/pages/defining-critical-thinking/766)
 - [reasoning](reasoning)
 - [vertical](vertical)
 - [horizontal](horizontal)

@@ -1,5 +1,5 @@
 # math
-
+- [constraint](constraint)
 - [scatterplot](scatterplot)
 - [proof](proof)
 

@@ -3,6 +3,7 @@
 ## WORK
 - obsidian.md web -> https://flathub.org/apps/details/md.obsidian.Obsidian
 - [jekyll](jekyll)
+- [book](book)
 
 - [12 great ideas for programming projects](https://filipesilva.me/blog/12-great-ideas-for-programming-projects-that-people-will-use/)
      - automate the boring stuff with python

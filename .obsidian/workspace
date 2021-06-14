@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "0f4f85b1b6c95274",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc1231eaeee4f401",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8ed8ab1b624f8fcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "c951d1e7f06cc250",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4fe05a9d04ed521",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "45892437b533b87f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "745b9a56cc290f18",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ff9eb501267e546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "77b18e2f6fbacd4c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "bc1231eaeee4f401",
+  "lastOpenFiles": [
+    "programming.md",
+    "decorator.md",
+    "webvsapp.md",
+    "tags.md",
+    "fireship.md",
+    "javascript-syntax-part1.md",
+    "thinking.md",
+    "index.md"
+  ]
+}

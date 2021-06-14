@@ -1,5 +1,5 @@
 # mynote
-
+[web](web)
 1. [program](program)
 2. [package](package)
 3. [uni](uni)
@@ -21,3 +21,4 @@ practice asking better question, ask question iteratively
      - [thinking](thinking)
      - [business](business)
      - [programming](programming)
+     - [book](book)
