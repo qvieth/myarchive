@@ -34,6 +34,7 @@ package
 
 ## Conceptual
 
+- [tech](tech)
 - [question](question)
 - [math](math)
 - [art](art)

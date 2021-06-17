@@ -9,6 +9,11 @@
 
 ---
 
+- [Einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect)
+     - the negative effect of previous experience
+     - when solving new problems
+     - though finding the solution is efficient
+     - the solution itself is not or might not be
 - inference : induction vs deduction vs abduction
 - 2 approaches : bottom-up - top-down (page 13 - mathematics for machine learning)(should combine this)
 - classification tree - how to navigate to the knowledge > knowledge

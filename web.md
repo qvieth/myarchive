@@ -1,7 +1,6 @@
 # web
 
-[internet](internet)
-
+- [internet](internet)
 - [protocol](protocol)
 - [server](server)
 - [computer science vs web development vs data science](computer science vs web development vs data science)
@@ -9,6 +8,7 @@
 - [htmlcss](htmlcss)
 - [javascript](javascript)
 - [origin](origin)
+- [web strategy](web-strategy)
 
 ## FLEETING NOTES
 

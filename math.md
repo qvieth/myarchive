@@ -8,6 +8,7 @@
 
 ## FLEETING NOTES
 
+- sometimes, just reformulating the problem leads to better solution
 - cartesian product of relations: https://www.youtube.com/watch?v=58i-sZ6h1mI
      - the result is itself a relation
      - its rows contain all of the columns from the combined relations

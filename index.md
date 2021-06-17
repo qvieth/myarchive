@@ -1,5 +1,7 @@
 # mynote
-[README](README)
+
+[tech](tech)
+---
 
 1. [program](program)
 2. [package](package)
@@ -15,8 +17,11 @@ if you can't categorize, tag the ideas, you're not understanding it
 do project(program) along category(package) <- intermediate packets
 understand <- question
 practice asking better question, ask question iteratively
+sometimes, just reformulating the problem leads to better solution
 ```
 
+- [perez](perez)
+-
 - [tags](tags)
      - [communication](communication)
      - [thinking](thinking)
@@ -29,4 +34,5 @@ practice asking better question, ask question iteratively
 - mynote
      - there are many like it
      - but this one is mine
-- the 
+- Skip the download with jsDelivr to deliver **cached** version of Bootstrap’s compiled CSS and JS to your project
+- cached?
