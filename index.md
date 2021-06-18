@@ -6,7 +6,6 @@
 [concept](concept)
 [thinking](thinking)
 [app](app)
-[architecture](architecture)
 
 ---
 

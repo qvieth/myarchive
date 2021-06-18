@@ -1,5 +1,7 @@
 # thinking
 
+- [design](design)
+- [architecture](architecture)
 - [cognitive](cognitive)
 - [semantic](semantic)
 - [concept](concept)
