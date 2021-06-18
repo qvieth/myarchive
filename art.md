@@ -1,5 +1,20 @@
 # art
 
+- [design](design)
+
+---
+
+- [wiki : art](https://en.wikipedia.org/wiki/Art)
+- Art is a diverse range of (products of) human activities involving
+     - creative imagination
+     - to express technical proficiency, beauty, emotional power, or conceptual ideas
+- There is no generally agreed definition of what constitutes art
+     - and ideas have changed over time
+- The three classical branches of visual art are painting, sculpture, and architecture
+- ...
+
+## FLEETING NOTES
+
 - **FUNDAMENTALS OF ART** :
      - construction
      - perceptive

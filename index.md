@@ -1,6 +1,13 @@
 # mynote
 
+[design](design)
+[model](model)
 [tech](tech)
+[concept](concept)
+[thinking](thinking)
+[app](app)
+[architecture](architecture)
+
 ---
 
 1. [program](program)
@@ -18,10 +25,13 @@ do project(program) along category(package) <- intermediate packets
 understand <- question
 practice asking better question, ask question iteratively
 sometimes, just reformulating the problem leads to better solution
+think programming as all around variable
+variable is value, function, object...
+output(goal) of a program is to transform variable => variable
+think of a program as a black box that tranform a variable => a variable
 ```
 
 - [perez](perez)
--
 - [tags](tags)
      - [communication](communication)
      - [thinking](thinking)
@@ -30,9 +40,3 @@ sometimes, just reformulating the problem leads to better solution
      - [book](book)
 
 ---
-
-- mynote
-     - there are many like it
-     - but this one is mine
-- Skip the download with jsDelivr to deliver **cached** version of Bootstrap’s compiled CSS and JS to your project
-- cached?

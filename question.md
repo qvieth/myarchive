@@ -1,18 +1,13 @@
 # question
 
-- question theory
-     - use category theory for visualizing entities,...
-     - question words are categorized hierarchically,
-     - validation,
-     - reframe
+- [question model](question-model)
 
-# question words level
+---
 
-1. binary <- validating
-2. what <- |1.5 which , where, who ...| <- navigating
-3. how | why
+- [wiki : question](https://en.wikipedia.org/wiki/Question)
+     - functions as a request for information
 
-# insights
+## FLEETING NOTES
 
 - quora for summary and wheter a book is worth reading
 - [Understanding People – 10 Ways to Make It Easier](https://www.harleytherapy.co.uk/counselling/understanding-people.htm)

@@ -1,14 +1,18 @@
 # thinking
 
-- [critical thinking](https://www.criticalthinking.org/pages/defining-critical-thinking/766)
+- [cognitive](cognitive)
+- [semantic](semantic)
+- [concept](concept)
+- [question](question)
 - [reasoning](reasoning)
-- [vertical](vertical)
-- [horizontal](horizontal)
+- [vertical - depth](vertical)
+- [horizontal - breadth](horizontal)
 - [approach](approach)
 - [intermediate packets](intermediate packets)
 
 ---
 
+- [critical thinking](https://www.criticalthinking.org/pages/defining-critical-thinking/766)
 - [Einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect)
      - the negative effect of previous experience
      - when solving new problems
@@ -18,7 +22,7 @@
 - 2 approaches : bottom-up - top-down (page 13 - mathematics for machine learning)(should combine this)
 - classification tree - how to navigate to the knowledge > knowledge
 - conceptualize
-- [question](question) theory -> May 20 , use category theory for visualize events, combine with question logic
+- [question](question) theory/model -> May 20 , use category theory for visualize events, combine with question logic
 - [plan](plan) -> [decision](decision) -> performance
 - meaning of words - different based on **context**
 - **USE IT OR LOSE IT** :D -> otherwise forget everything after understand it

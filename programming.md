@@ -35,8 +35,15 @@
 
 ---
 
-## FLEETING NOTES
+## PRINCIPLES
 
+```
+think programming as all around variable
+variable is value, function, object...
+goal of programming is to transform variable
+```
+
+## FLEETING NOTES
 - understand architecture -> read API -> code
 - code only when you already understand the concept
 - programming : types are object, functions are morphisms | a -> b -> b | arrow : f = a -> b, id_b = b -> b | id_b after f
