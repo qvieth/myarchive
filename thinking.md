@@ -1,5 +1,6 @@
 # thinking
 
+- [model](model)
 - [design](design)
 - [architecture](architecture)
 - [cognitive](cognitive)

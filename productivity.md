@@ -26,5 +26,5 @@
      10. keep your ideas moving - improve the system along the way
 
 - [how to become a straight A student](how-to-become-a-straight-A-student)
-  [tags](tags)
+  [tags](portal)
   [creativity](creativity)

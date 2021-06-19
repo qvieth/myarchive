@@ -1,11 +1,11 @@
 # app
 
 - [filter logic](filter-logic)
-- algolia : free
 - [tech stack](stack)
 - [stack](stack)
 ---
 
+- algolia : free
 - [medium : How to add full text search to your website](https://medium.com/dev-channel/how-to-add-full-text-search-to-your-website-4e9c80ce2bf4)
      - Client-side JavaScript search libraries such as
           - FlexSearch and Elasticlunr

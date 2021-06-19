@@ -1,14 +1,5 @@
 # mynote
 
-[design](design)
-[model](model)
-[tech](tech)
-[concept](concept)
-[thinking](thinking)
-[app](app)
-
----
-
 1. [program](program)
 2. [package](package)
 3. [uni](uni)
@@ -30,12 +21,12 @@ output(goal) of a program is to transform variable => variable
 think of a program as a black box that tranform a variable => a variable
 ```
 
-- [perez](perez)
-- [tags](tags)
+- [portal](portal)
      - [communication](communication)
      - [thinking](thinking)
      - [business](business)
      - [programming](programming)
-     - [book](book)
 
 ---
+
+## FLEETING NOTES
