@@ -1,0 +1,11 @@
+# constructor
+- [subroutine](subroutine)
+- a special type of subroutine called to create an object
+- It prepares the new object for use
+- often accepting arguments that the constructor uses
+- to set required member variables
+- A constructor resembles an instance method
+- but it differs from a method in that
+     - it **has no explicit return type**
+     - it is **not implicitly inherited**
+     - and it usually has different rules for scope modifiers

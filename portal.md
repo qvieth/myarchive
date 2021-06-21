@@ -1,6 +1,6 @@
 # portal
 
-- package | module
+- tags | package | module
 
 - [library](library)
 - [skill](skill)

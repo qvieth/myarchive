@@ -9,6 +9,7 @@
 
 ## FLEETING NOTES
 
+- how should(procedure,imperative) vs what should(goal,declartive)
 - quora for summary and wheter a book is worth reading
 - [Understanding People – 10 Ways to Make It Easier](https://www.harleytherapy.co.uk/counselling/understanding-people.htm)
      - [The Power of the RIGHT Questions to Move Your Life Forward](https://www.harleytherapy.co.uk/counselling/good-questions-to-ask.htm)

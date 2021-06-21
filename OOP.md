@@ -1,4 +1,7 @@
 # OOP
+---
+[constructor](constructor)
+## FLEETING NOTES
 - real world concepts are prepresented by __classes__
 - __instances__ of classes are called __objects__
 - objects are organized by __inheritance__
