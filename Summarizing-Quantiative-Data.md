@@ -231,7 +231,9 @@ difference=(X−μ)**2
 - All of this work can be done quickly using Python’s __NumPy__ library
 - The `var()` function takes a list of numbers as a parameter and returns the variance of that dataset
 
+```
 import numpy as np
+```
  
 dataset = [3, 5, -2, 49, 10]
 variance = np.var(dataset)
@@ -280,7 +282,6 @@ standard_deviation = np.std()
 - In fact, you can usually expect around 68% of your data to fall within one __standard deviation__ of the mean
 - 95% of your data to fall within two standard deviations of the mean, and 99
 - 7% of your data to fall within three standard deviations of the mean
-- ![A histogram showing where the standard deviations fall]()
 - If you have a data point that is over three __standard deviations__ away from the mean, that's an incredibly unusual piece of data! 
 
 ### Review

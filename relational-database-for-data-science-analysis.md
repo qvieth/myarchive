@@ -180,13 +180,14 @@
     - and __INTEGER__, the SQL version of __int__
 
 Python and SQLite Data Types
-
+```
 | python | sqlite                                             |
 |--------|----------------------------------------------------|
 | str    | character(20)<br>varchar(255)<br>text              |
 | int    | int<br>interger<br>smallint<br>mediumint<br>bigint |
 | float  | real<br>double<br>double precision<br>float<br>    |
 | bool   | bit                                                |
+```
 
 ## Takeaways
 - __Relational databases__ are collections of __structured data__ that utilize tables to maintain __relationships__ among data

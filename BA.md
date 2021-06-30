@@ -1,4 +1,6 @@
 # BA
+[BA glossary](BA-glossary)
+[tag](tag)
 
 - At a minimum you should be familiar with Business Process Modeling and Requirements Management (including elicitation and gathering.)
      - These are the core BA skills you will use almost anywhere you go

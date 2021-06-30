@@ -25,7 +25,7 @@ the seperation of concerns between
 - while the back is infrastructure that supports provision of service
 
 ## rule of thumb
-- a rule of thumb is that the client-side (or 'front end') is any component manipulated by the user <br>
+- a rule of thumb is that the client-side (or 'front end') is any component manipulated by the user `<br>`
 - the server-side (or 'back end') code usually resides on the server, often far removed physically from the user
 
 ## web development as an example

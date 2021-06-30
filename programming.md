@@ -1,5 +1,5 @@
 # programming
-
+- [state](state) vs [ref](ref)
 - [automata](automata)
 - [language](language)
 - [paradigm](paradigm)
@@ -38,12 +38,17 @@
 ## PRINCIPLES
 
 ```
-think programming as all around variable
+think programming as all around variable <= NO MORE, paradigm
 variable is value, function, object...
 goal of programming is to transform variable
 ```
 
 ## FLEETING NOTES
+
+- opinionated vs unopinionated framework
+- [AbstractVsConcreteSoftware](https://wiki.c2.com/?AbstractVsConcreteSoftware)
+     - application : concrete software
+     - program : both abstract and concrete
 - understand architecture -> read API -> code
 - code only when you already understand the concept
 - programming : types are object, functions are morphisms | a -> b -> b | arrow : f = a -> b, id_b = b -> b | id_b after f

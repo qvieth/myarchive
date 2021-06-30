@@ -1,20 +1,29 @@
 # thinking
 
+- [view](view) vs [context](context)
 - [model](model)
-- [design](design)
-- [architecture](architecture)
-- [cognitive](cognitive)
-- [semantic](semantic)
-- [concept](concept)
-- [question](question)
-- [reasoning](reasoning)
-- [vertical - depth](vertical)
-- [horizontal - breadth](horizontal)
-- [approach](approach)
-- [intermediate packets](intermediate packets)
+     - [process](process)
+- [design](design) vs [architecture](architecture)
+- [question](question) vs [reasoning](reasoning) vs [cognitive](cognitive)
+- [vertical - depth](vertical) vs [horizontal - breadth](horizontal)
+- [abstract](abstract) !== concrete
+     - [intermediate packets](intermediate packets)
+     - [concept](concept)
+     - [semantic](semantic)
+     - [OOS](OOS)
+     - [pattern](pattern)
+- abstraction !== granularity
+
+- framework for thinking :
+     - gaussian elimination => design pattern => ...specific
+     - specific => general => specific
 
 ---
 
+- general = apply to multiple
+- [approach](approach)
+- to undertand a concept which is a part of a process
+     - you have to understand the [process](process)
 - [critical thinking](https://www.criticalthinking.org/pages/defining-critical-thinking/766)
 - [Einstellung effect](https://en.wikipedia.org/wiki/Einstellung_effect)
      - the negative effect of previous experience

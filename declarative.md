@@ -1,0 +1,3 @@
+# declartive
+
+- [paradigm](paradigm)

@@ -1,9 +1,9 @@
 # portal
 
-- tags | package | module
+- package | module
 
 - [library](library)
-- [skill](skill)
+- [skill](skill) -> soft/hard/conceptual
 
 ## Soft
 
@@ -44,8 +44,12 @@
      - [thinking](thinking)
      - [reasoning](reasoning)
 - [philosophy](philosophy)
-
-## Misc
-
+- [model](model)
+- [process](process)
 - [system](system)
+
+## misc
+
+- [glossary](glossary)
+- [open](open)
 - [archive](archive)

@@ -43,9 +43,9 @@
      - https://www.youtube.com/watch?v=O6P86uwfdR0 : usestate() - webdevsimplified
      - https://www.youtube.com/watch?v=hQAHSlTtcmY : react in 30 min - webdevsimplified
      - https://daveceddia.com/react-getting-started-tutorial/ : 38 page react tutorial - this turotial is EXTREMELY GOOD
-          - <div key:"value"
-              - key:"value" is an object
-              - => const hi = ({key}) => return ``<div>`` hi {key} ```</div>``
+          - `<div key:"value"/>`
+              - `key:value` is an object
+              - `const hi = ({key}) => return <div> hi {key} </div>`
               - props is object
               - comback
 
@@ -118,9 +118,9 @@
 - html is about **meaning**
 - there is about 100 semantic HTML elements, but stick to the following list you'll be enough
 
-| structure                                                                     | text                                      | inline                                            |
-| ----------------------------------------------------------------------------- | ----------------------------------------- | ------------------------------------------------- |
-| header <br> h1 <br> h2 <br> h3 <br> nav <br> footer <br> article <br> section | p <br> ul <br> ol <br> li <br> blockquote | a <br> strong <br> em <br> q <br> abbr <br> small |
+| structure                                                                        | text                                         | inline                                               |
+| -----------------------------------------------------------------------------    | -----------------------------------------    | -------------------------------------------------    |
+| `header <br> h1 <br> h2 <br> h3 <br> nav <br> footer <br> article <br> section ` | `p <br> ul <br> ol <br> li <br> blockquote ` | `a <br> strong <br> em <br> q <br> abbr <br> small ` |
 
 #### css
 

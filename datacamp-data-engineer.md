@@ -54,7 +54,7 @@ result.json()
     -   split the big function into multiple small function
 -   argument pass by assignment(mutable and immutable)
 -   context manager
-    -   with <context_manager>() as <name> :
+    -   `with <context_manager>() as <name> :`
     -   decorator `@contextlib.contextmanager`
 -   scope :
     -   local

@@ -1,10 +1,17 @@
 # mynote
-[OOP](OOP)
-[question](question)
-[functional programming](functional-programming)
+
+- [reactjs](reactjs)
+- [BA](BA)
+- [programming](programming)
+
+- on-progress
+- [docusaurus](docusaurus)
+- [How To Buon-progressild a React To-Do App with React Hooks](https://www.digitalocean.com/community/tutorials/how-to-build-a-react-to-do-app-with-react-hooks)
+
+---
 
 1. [program](program)
-2. [package](package)
+2. [package]([packagee](packagee)
 3. [uni](uni)
 
 ---
@@ -19,7 +26,7 @@ understand <- question
 practice asking better question, ask question iteratively
 sometimes, just reformulating the problem leads to better solution
 
-think programming as all around variable
+think programming as all around variable => also consider which paradigm
 variable is value, function, object...
 output(goal) of a program is to transform variable => variable
 think of a program as a black box that tranform a variable => a variable

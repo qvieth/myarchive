@@ -1,0 +1,3 @@
+# imperative
+
+- [paradigm](paradigm)

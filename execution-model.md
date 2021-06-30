@@ -1,0 +1,24 @@
+# execution model
+
+- think of
+     - [execution](execution) + [model](model)
+- A [programming language](programming-language) **consists** of
+     - a grammar/syntax
+     - plus an **execution model**
+- The execution model specifies the behavior of elements of the language
+     - By applying the execution model, one can derive the behavior of a program
+     - that was written in terms of that programming language
+- For example
+     - when a programmer "reads" code
+          - in their mind, they walk through what each line of code does
+          - In effect they simulate the behavior inside their mind
+     - What the programmer is doing is applying the execution model to the code which results in the behavior of the code
+- Each and every programming language has an execution model which determines
+     - the manner in which the units of work
+     - (that are indicated by program syntax)
+     - are scheduled for execution
+- Detailed examples of the specification of execution models of a few popular languages include those of
+     - Python
+     - the execution model of the Unified Parallel C (UPC) programming language
+     - a discussion of various classes of execution model such as for imperative versus functional languages
+     - and an article discussing execution models for real-time embedded languages

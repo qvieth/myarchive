@@ -1,6 +1,7 @@
 # view
 
 - [view model](view-model)
+- [perspective](perspective)
 
 ---
 

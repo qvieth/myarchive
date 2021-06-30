@@ -19,14 +19,14 @@
             2. every object has an type
             3. object can be converted from one type to another
             4. expressions : combination of objects and operators - has a value - which has a type
-                - syntax for expression : <object> <operator> <object>
+                - syntax for expression : `<object> <operator> <object>`
     -   chapter 2 : branching and interation
-        -   control flow - branching - <condition> has a True of False value
-            -   if <condition>:
-                -   <expression>
+        -   control flow - branching - `<condition>` has a True of False value
+            -   if `<condition>`:
+                -   `<expression>`
                 -   ...
             -   else :
-                -   <expression>
+                -   `<expression>`
                 -   ...
     -   chapter 3 : string mainpulation, guess and check , approximations, bisection
     -   chapter 4 : decomposition, abstraction and functions

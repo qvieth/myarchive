@@ -1,10 +1,12 @@
 # functional programming
 
 - [predicate](predicate)
-- [recursion](recursion) :
+- [recursion](recursion)
 - [reducer function](reducer-function)
 - [currying](currying)
 - [composition](composition)
+- [react](react)
+- [state](state)
 
 ## book : Learning React 2nd Edition Eve Porcello
 
