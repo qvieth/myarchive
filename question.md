@@ -9,6 +9,13 @@
 
 ## FLEETING NOTES
 
+- while learning nextjs :
+     - often lost at **what problem i'm i solving**
+     - at the simplest problem, when usecases changed
+          - new, more sophiticated problem arise
+- => this means even the most complicated, sophisticated problems
+     - they **stem from the most simplest problems**
+- ooo
 - process - how
 - content - what
 - how should(procedure,imperative) vs what should(goal,declartive)

@@ -1,0 +1,11 @@
+# introduction to logic full course
+- topics :
+    - logical language :
+        - logical expressions
+        - meaning of those expressions
+    - logical entailment
+        - given sentences we know to be true
+        - what other sentences must be true?
+    - symbolic manipulation
+        - rules for syntactically manipulating expressions
+        - to derive those conclusions

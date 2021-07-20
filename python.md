@@ -1,5 +1,6 @@
 # python
 
+-   [django](django)
 -   [programming](programming)
 
 -   [corey schafer pandas](corey-schafer-pandas)

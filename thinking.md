@@ -20,6 +20,16 @@
 
 ---
 
+- don't worry about remembering these code
+     - **all i need to know is that these kinds of things are available**
+     - and you can always head to the documentation if you want to find them out
+- while learning nextjs :
+     - often lost at **what problem i'm i solving**
+     - at the simplest problem, when usecases changed
+          - new, more sophiticated problem arise
+- => this means even the most complicated, sophisticated problems
+     - they **stem from the most simplest problems**
+- ooo
 - general = apply to multiple
 - [approach](approach)
 - to undertand a concept which is a part of a process

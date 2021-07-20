@@ -1,5 +1,6 @@
 # programming language
 
+- [C](C)
 - [htmlcss](htmlcss)
 - [python](python)
 - [javascript](javascript)

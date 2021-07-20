@@ -1,5 +1,8 @@
 # web
 
+- [wordpress](wordpress)
+- [design](design)
+- [bootstrap](bootstrap)
 - [app](app)
 - [internet](internet)
 - [protocol](protocol)
@@ -13,6 +16,11 @@
 
 ## FLEETING NOTES
 
+- [Server Side Templates vs REST API and Javascript Front-End](https://nickjanetakis.com/blog/server-side-templates-vs-rest-api-and-javascript-front-end)
+    - So that’s why I continue to use Flask and Rails with primarily server side rendered templates
+    - I sprinkle in Javascript when necessary and for 99.99% of the apps I develop this works great
+    - If I were developing an app that happened to need a very complex and interactive UI and sprinkling in a bit of JS wasn’t going to cut it
+    - then I would reach for something like React or Vue and **develop JUST that component of the app like that**
 - [learning web design 5th edition jennier](learning web design 5th edition jennier)
 - [modern web architecture explained](https://www.youtube.com/watch?v=YGGBahexXYI) : talks to **3rd party backends** - payment,validation,analytics,maps,...
 - [fireship](fireship)

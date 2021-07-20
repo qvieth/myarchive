@@ -26,6 +26,7 @@
 
 ## FLEETING NOTES
 
+- [Best design resource websites every developer should bookmark](https://www.youtube.com/watch?v=fAK9NxsR3es)
 - design :
      - **not** how something **looks**
      - but how something **works**
