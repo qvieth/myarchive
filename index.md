@@ -1,10 +1,10 @@
 # mynote
 - [planning](planning)
+- [writing](writing)
 - [Fundamentals of Computing Specialization - There are 7 Courses in this Specialization](https://www.coursera.org/specializations/computer-fundamentals#courses)
   - [principles of computing](principles-of-computing)
 - [introduction to logic full course](introduction-to-logic-full-course)
 - [book introduction to logic irving copi](book-introduction-to-logic-irving-copi)
-- 
 - [draft](draft)
 - build your own x
 - good source from snap token

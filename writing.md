@@ -1,0 +1,26 @@
+# writing
+- https://thinkscience.co.jp/en/articles/5-strategies-for-writing-simply -> good link
+- simple sentence structure -> express ideas in straightforward ways
+- writing simply—focusing on ideas first and language only secondarily
+- So write a draft first, then revise & improve it. And when you revise, don’t start with the language level: consider content and structure first. This allows you to write better texts faster and possibly even enjoy yourself along the way
+- practice regularly
+- describe a person :
+  - top to bottom
+- an event :
+  - chronological
+- object :
+  - tactile or sensory way
+  - less is more
+- https://www.quora.com/Why-is-it-that-even-though-I-read-too-much-I-can-t-write
+  - But write from your memory, don’t touch any reading material.
+  - So basically these three steps aim to reading, understanding and remembering before writing
+  - It’s possible that you’re reading as a passive reader, that is not actively thinking about the elements of writing
+- Try writing a fixed number of words, say 200 or so, everyday about a topic that interests you, and develop it into a habit
+- https://www.quora.com/Why-cant-I-write-even-though-I-read-a-lot-with-proper-understanding
+- try writing on quora
+- https://www.scribbr.com/category/academic-essay/
+- The essay writing process consists of three main stages:
+  - Preparation: Decide on your topic, do your research, and create an essay outline.
+  - Writing: Set out your argument in the introduction, develop it with evidence in the main body, and wrap it up with a conclusion.
+  - Revision: Check the content, organization, grammar, spelling, and formatting of your essay.
+  - ... comeback tommorow
