@@ -1,4 +1,5 @@
 # mynote
+- [planning](planning)
 - [Fundamentals of Computing Specialization - There are 7 Courses in this Specialization](https://www.coursera.org/specializations/computer-fundamentals#courses)
   - [principles of computing](principles-of-computing)
 - [introduction to logic full course](introduction-to-logic-full-course)
