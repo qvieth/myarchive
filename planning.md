@@ -9,21 +9,23 @@
   - [How A Personal Writing Practice Can Help Further Your Career Or Business Goals](https://www.forbes.com/sites/forbescoachescouncil/2016/04/01/how-a-personal-writing-practice-can-help-further-your-career-or-business-goals/?sh=2b8221a72638)
   - do blogging
 ```                                                                     
-                             ┌─────────┐                     │     ┌───────┐
-                             │passive  │                     │     │active │
-                             └─────────┘                     │     └───────┘
-                                                             │
-                        help you to acquire knowledge faster │ help you express your knowledge, persuade people,
-                              ┌────────┐                     │      ┌───────┐
-                              │reading │                     │      │writing│
-                              └────────┘                     │      └───────┘
-                                                             │
-                              ┌─────────┐                    │      ┌────────┐
-                              │listening│                    │      │speaking│
-                              └─────────┘                    │      └────────┘
+        ┌─────────┐                     │     ┌───────┐
+        │passive  │                     │     │active │
+        └─────────┘                     │     └───────┘
+                                        │
+   help you to acquire                  │  help you express your knowledge
+    knowledge faster                    │  persuade people,
+                                        │
+         ┌────────┐                     │      ┌───────┐
+         │reading │                     │      │writing│
+         └────────┘                     │      └───────┘
+                                        │
+         ┌─────────┐                    │      ┌────────┐
+         │listening│                    │      │speaking│
+         └─────────┘                    │      └────────┘
                                                              │
 ```                                   
-- reading, listening seperate from writing speaking
+- reading, listening sererate from writing speaking
 - while reading is critical for your daily acquiring knowledge tasks
 - writing helps you train the way you thought,
 - better essay writing
@@ -36,6 +38,7 @@
       - you need to documenting your code, sometimes your work to the public
     - for business executive :
       - reporting, persuade your boss,
+      - ...
 ### how to achieve goal
 - time : 2 weeks
 - most important : how to grade the essay?
