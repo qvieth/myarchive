@@ -44,6 +44,7 @@
 - time : 2 weeks
 - material : [here](https://www.quora.com/What-is-the-best-book-that-can-help-me-improve-my-creative-writing/answer/Martina-Michalikova?ch=1&share=2428097b&srid=3Zrzp&fbclid=IwAR0yCtKPgODDCBUIDjHRJ6Od33G3C-cZPIA8zaQXeypMvOF2dMqJ7R4U0vM)
 - most important : how to grade the essay?
+- team members grade each other works based on ... specification(don't have yet)?
   - discuss...
 - award/penalty for writing essay?
   - discuss...
