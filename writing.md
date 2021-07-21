@@ -2,6 +2,9 @@
 
 - [research](research)
 - [scribbr knowledge base](https://www.scribbr.com/knowledge-base/) <-- many resources for better writing
+- [self expression](self-expression)
+
+---
 
 - [5 strategies for writing simply but authoritatively](https://thinkscience.co.jp/en/articles/5-strategies-for-writing-simply) <-- good link for public research paper
      1. use simpler words and phrases
@@ -75,6 +78,6 @@
      - When we open up and express ourselves, we move from what she calls
           - a state of protection (coddling our ego and manning our inner walls to protect ourselves)
           - to a state of partnering (being open to sharing yourself with others and vice versa)
-	  - According to Glaser, this state is where we get our best and most innovative work done
+     - According to Glaser, this state is where we get our best and most innovative work done
      - As with most skills, the best way to improve your self-expression skills is to practice them!
 - https://www.quora.com/I-have-lot-of-things-in-mind-but-I-cant-write-it-down-What-can-I-do

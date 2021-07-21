@@ -66,5 +66,3 @@ Author and student learning guru John Ramos agrees; in an answer to the question
 3. Never lose a chance to speak in public.
 4. Apply winning formulas (particularly for public speaking, as there are many tricks and “secret weapons” to help you succeed).
 5. All of the exercises, techniques, activities, and strategies listed below will give you great opportunities to practice your own self-expression skills!
-
-- [read full article here](https://positivepsychology.com/self-expression/)
