@@ -2,52 +2,52 @@
 
 - package | module
 
-- [library](library)
+- [resources](resources)
 - [skill](skill) -> soft/hard/conceptual
 
 ## Soft
 
+- [BA](BA)
 - [business](business)
 - [human](human)
      - [communication](communication)
      - [management](management)
      - [social](social)
-- [viral](viral)
+- [listen](listen)
+- [productivity](productivity)
 - [public speaking](public-speaking)
 - [sale](sale)
-- [BA](BA)
-- [productivity](productivity)
 - [simulation](simulation)
-- [listen](listen)
+- [viral](viral)
 
 ## Hard
 
-- [programming](programming)
-- [engineering](engineering)
-- [operation](operation)
-- [DA](DA) & [excel](excel)
 - [AI](AI)
+- [DA](DA) & [excel](excel)
+- [engineering](engineering)
 - [game](game)
-- [science](science)
-- [research](research)
-- [pronounce](pronounce)
 - [history](history)
+- [operation](operation)
+- [programming](programming)
+- [pronounce](pronounce)
+- [research](research)
+- [science](science)
 
 ## Conceptual
 
-- [tech](tech)
-- [question](question)
-- [math](math)
 - [art](art)
 - [cognition](cognition)
      - [creativity](creativity)
      - [insight](insight)
      - [thinking](thinking)
      - [reasoning](reasoning)
-- [philosophy](philosophy)
+- [math](math)
 - [model](model)
+- [philosophy](philosophy)
 - [process](process)
+- [question](question)
 - [system](system)
+- [tech](tech)
 
 ## misc
 

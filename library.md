@@ -1,7 +1,4 @@
 # library
 
-- [calibre](calibre)
-- [book](book)
-- [docs](docs)
-- [roadmap](roadmap)
-- [teacher](teacher)
+[resources](resources)  <-- library
+

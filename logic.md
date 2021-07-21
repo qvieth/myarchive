@@ -4,6 +4,8 @@
 
 ---
 
+- [book introduction to logic irving copi](book-introduction-to-logic-irving-copi)
+- [introduction to logic full course](introduction-to-logic-full-course)
 - https://en.wikipedia.org/wiki/Mathematical_logic
 - https://www.quora.com/What-should-one-do-to-study-mathematical-logic
 - https://en.wikipedia.org/wiki/Outline_of_logic
