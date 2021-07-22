@@ -28,9 +28,7 @@ The last paragraph may have resonated with you—as it resonates with me—but a
 
 Related to our discussion above, the importance of self-expression will vary depending on your location and the culture you are steeped in. As the World Values Survey showed, individualism is not highly valued in many countries. This fact makes the sentence below—a pretty tame idea by Western standards—anything from mildly strange to outright laughable in another context.
 
-“The journey of self-discovery is the most important journey we can take”
-
-(De la Huerta, 2014).
+> “The journey of self-discovery is the most important journey we can take” (De la Huerta, 2014).
 
 In many cultures, a journey of self-discovery would be considered odd, unusual, a waste of time, or even selfish; the people might say something like, “Why spend your time and effort on getting to know yourself? Just ask your family—they’ll tell you exactly who you are!”
 
@@ -40,9 +38,7 @@ De la Huerta’s (2014) article provides a good brief overview of why self-expre
 
 Authentic self-expression is how we embrace who we are, all the way from the positive traits and acts we keep on the surface to the darker and less valued pieces of ourselves that we bury deep down.
 
-“Neuroscience is teaching us that ‘self-expression’ might be one – if not the most important ways for people to connect, navigate and grow with each other.”
-
-Judith Glaser
+> “Neuroscience is teaching us that ‘self-expression’ might be one – if not the most important ways for people to connect, navigate and grow with each other.” Judith Glaser
 
 Research Judith Glaser agrees on the importance of self-expression; she notes that authentic self-expression not only encourages us to be the best we can be, it allows us to work effectively with others. When we open up and express ourselves, we move from what she calls a state of protection (coddling our ego and manning our inner walls to protect ourselves) to a state of partnering (being open to sharing yourself with others and vice versa).
 
