@@ -20,6 +20,8 @@
 
 ---
 
+- Day by day we discover algorithms for specifics **primitive problems** and this will go on until there will no more primitive problems to solve,
+     - proven the fact that **complex problems** are solved by properly combining resolutions to more simpler problems.
 - don't worry about remembering these code
      - **all i need to know is that these kinds of things are available**
      - and you can always head to the documentation if you want to find them out

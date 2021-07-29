@@ -17,6 +17,7 @@
 
 ## TASK
 
+- write a blog
 - [economics](economics)
 - [build a company](build-a-company)
 - [15 Things You Should Know When Starting A Business](15-Things-You-Should-Know-When-Starting-A-Business)

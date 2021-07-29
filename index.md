@@ -1,8 +1,8 @@
 [draft](draft) <-- always put this at first line for quick idea capturing and organizing
+thinking
+[test](test)
 
 # mynote
-[self expression](self-expression)
----
 
 1. [program](program)
 2. [package](package)
@@ -11,8 +11,9 @@
 ---
 
 ## principles
-
+[thinking](thinking)
 ```
+to learn anything : PRACTICE
 concept : an abstract idea, a general notion
 if you can't categorize, tag the ideas, you're not understanding it
 do project(program) along category(package) <- intermediate packets
@@ -39,5 +40,6 @@ when read book focus on concepts,skim real app coding and later learn with video
      - [cs](cs)
      - [listen](listen) & [question](question)
      - [tag](tag)
+     - [knowledge base](knowledge-base)
 
 ---
