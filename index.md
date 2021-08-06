@@ -1,6 +1,13 @@
-[draft](draft) <-- always put this at first line for quick idea capturing and organizing
-thinking
-[test](test)
+[draft](draft) <-- *always* put this at first line for quick idea capturing and organizing
+[v](v)
+[book](book)
+http://lua-users.org/wiki/LuaCsv
+- [tool](tool)
+- [vocab](vocab)
+- [productivity](productivity)
+- [writing](writing)
+- [quora](quora) sharing profile
+- [execute](execute)
 
 # mynote
 
@@ -13,6 +20,8 @@ thinking
 ## principles
 [thinking](thinking)
 ```
+However, all that a programming paradigm describes is how a language works with types, methods, and data
+vim wordy -> google for terms like colloquials,weak language...
 to learn anything : PRACTICE
 concept : an abstract idea, a general notion
 if you can't categorize, tag the ideas, you're not understanding it

@@ -1,7 +1,7 @@
 # self-expression
 
 - help you work effectively with others
-- When we open up and express ourselves, we move from what she calls
+- When we open up and express ourselves, we move on  from what she calls
   - a state of protection (coddling our ego and manning our inner walls to protect ourselves)
   - to a state of partnering (being open to sharing yourself with others and vice versa)
 - According to Glaser, this state is where we get our best and most innovative work done

@@ -1,5 +1,8 @@
 # productivity
 
+- [cli productivity triad : task, timew, vimwiki](https://iturbe.info/2017/10/the-command-line-productivity-triad-vimwiki-taskwarrior-timewarrior/)
+- [Taskwarrior, where have you been all my life?](https://news.ycombinator.com/item?id=17029560)
+     - Google essentially implemented FollowUpThen and Taskwarrior in Inbox via snoozing and reminders
 - Zettelkasten is German for “slip box”,
      - capturing every ideas
      - and organize it hierachically(tree structure)
