@@ -1,5 +1,6 @@
 # writing
 
+- [vocab](vocab)
 - [stephen king](stephen-king)
 - [self expression](self-expression)
 - [scribbr](scribbr)

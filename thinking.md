@@ -1,5 +1,6 @@
 # thinking
 
+
 - [view](view) vs [context](context)
 - [model](model)
      - [process](process)
@@ -20,6 +21,10 @@
 
 ---
 
+- point system : to eliminate 2 polar(true,false|have,don't have) : 10
+- to learn anything : PRACTICE
+- IF YOU DEFINE THE PROBLEM CORRECTLY, YOU ALMOST HAVE THE SOLUTION
+- sometimes, just reformulating the problem leads to better solution
 - Day by day we discover algorithms for specifics **primitive problems** and this will go on until there will no more primitive problems to solve,
      - proven the fact that **complex problems** are solved by properly combining resolutions to more simpler problems.
 - don't worry about remembering these code

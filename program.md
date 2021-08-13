@@ -1,4 +1,5 @@
 # program
+- graduating photos
 
 ## WORK
 - obsidian.md web -> https://flathub.org/apps/details/md.obsidian.Obsidian

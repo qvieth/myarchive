@@ -9,6 +9,7 @@
 
 ## FLEETING NOTES
 
+- practice asking better question, ask question iteratively
 - while learning nextjs :
      - often lost at **what problem i'm i solving**
      - at the simplest problem, when usecases changed

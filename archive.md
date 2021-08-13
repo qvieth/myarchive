@@ -1,9 +1,31 @@
 # archive
 
+August, Friday 13, 2021
+
+I'm currently reading the book : "Style, Basics of Clarity and Grace by Joseph M. Williams". I found some big idea in the book :  by writing more clearly, you will understand more clearly;  seperating drafting and revising when writing is a could save you from paralyzing yourself.
+
+When think about whatever note I wrote in the past year, mostly they are just copy and paste (or type); and although I already reorganize this notebook like 4 or 5 times, the amount of information is getting out of control. The writing style in this notebook is really hard to read, based on the tree style writting I invented.
+
+I think I should seperate information into notebooks, and should make new notebook every 6 months or a year(so that information are easier to be recalled as now I have a chronologic organization of books.)
+
+Woking on 2nd notebook, I have to pay my mind of writing style and how I understand the topics that I'm writing.
+ 
+Just realized how suck my thought was when i reading whatever i'm writing right now.
+
+For fuck sake these writing is so cringy, i should really work more on the writting stuff.
+
+---
+
+## Summary about this notebook
+
+- Ideas are organized in modules.
+- You can find the modules in the [portal](portal) link
 - **TECHNIQUES OF ALGORITHM DESIGN AND ANALYSIS**
 - [x] theory of computation - comeback after done maths
 - numerical vs symbolic work - computing - model?
 - finish geometry, trigonometry then comeback to calculus, linear algebra, statistics, algorithms & data structure
+
+---
 
 - study linear algebra -> calculus -> statistics
 - why you want to study math? - i use math for reasoning, for learning faster, making sense and remembering longer

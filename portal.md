@@ -7,6 +7,7 @@
 
 ## Soft
 
+- [writing](writing)
 - [BA](BA)
 - [business](business)
 - [human](human)
