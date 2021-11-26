@@ -1,5 +1,6 @@
 - [draft](draft) <-- *always* put this at first line for quick idea capturing and organizing
 - [portal](portal)
+- [resources](resources)
 
 # mynote
 
@@ -10,7 +11,7 @@
 ---
 
 ## principles
-
+[writing](riting)
 
 ---
 ```keep this part no more than 5 lines

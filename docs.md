@@ -39,6 +39,6 @@ list comprehension = [expression + for iteration]
 
 -   [OER](OER)
 
-## images
+# images
 
 -   [data science image](https://scontent.fsgn5-6.fna.fbcdn.net/v/t1.0-9/149652123_1870991349722919_994929729128261991_o.jpg?_nc_cat=109&ccb=3&_nc_sid=730e14&_nc_ohc=CiJJrL7ThdwAX_sHJZC&_nc_ht=scontent.fsgn5-6.fna&oh=9bd0aa7b969bef652c8d1e2247a2a7e2&oe=604E2723)
